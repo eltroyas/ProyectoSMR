@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'Horizon';
+  src: url('fonts/Horizon-Font/Horizon-Font/Horizon.otf') format('opentype'),
+       url('fonts/Horizon-Font/Horizon-Font/Horizon.woff2') format('woff2'),
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Lato", sans-serif;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    min-height: 80px;
+}
+header img {
+    max-width: 300px;
+}
+nav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+nav ul a {
+    text-decoration: none;
+    color: white;
+}
+.inicio {
+    background-size:   cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    min-height: 150vh;
+    background-image: url(../img/tierra.jpg);
+}
+.inicio-contenido {
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.inicio-contenido h1 {
+    font-family: Horizon;
+}
+.inicio-articulo {
+    padding-bottom: 20px;
+}
+.inicio-articulo h2 {
+    font-family: "Rubik", sans-serif;
+}
+.inicio-contenido img {
+    max-width: 800px;
+    margin-bottom: 70%;
+}
+.contenedor-temas {
+    width: 100%;
+    background-color: #130e1c;
+    color: whitesmoke;
+    border: 1px solid white;
+}
+.inicio-articulo-temas p {
+
+}
+.inicio-articulo-temas h1 {
+    font-family: "Horizon", sans-serif;
+}
+.inicio-articulo-tema1 {
+    background-image: url(img/planeta-marte-espacio-istock.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    width: 100%;
+}
+.inicio-articulo-tema2 {
+    background-image: url(img/computacion-cuantica.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    width: 100%;
+}
+.inicio-articulo-tema3 {
+    background-image: url(img/chain-of-dna-gyrating-on-black-background-video.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    width: 100%;
+}
+.inicio-articulo-tema4 {
+    background-image: url(img/MAsdar-City-07.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    width: 100%;
+}
+.inicio-articulo-tema5 {
+    background-image: url(img/Screenshot-2024-11-25-at-9.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    width: 100%;
+}
+.inicio-articulo-texto {
+    margin: 0 auto;
+    max-width: 1000px;
+    border: 1px solid wheat;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+}
+.inicio-articulo-texto p {
+    max-width: 500px;
+    margin-bottom: 1rem;
+}
