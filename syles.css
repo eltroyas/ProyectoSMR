@@ -46,8 +46,11 @@ nav ul a {
     background-position: center;
     background-repeat: no-repeat;
     color: white;
-    min-height: 150vh;
-    background-image: url(../img/tierra.jpg);
+    min-height: 100vh;
+}
+.inicio-fondo {
+    background-image: url(./img/iss070e034731~orig.jpg);
+    background-size: COVER;
 }
 .inicio-contenido {
     margin: 0 auto;
@@ -61,72 +64,59 @@ nav ul a {
 .inicio-contenido h1 {
     font-family: Horizon;
 }
+#inicio-contenido-h2 {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(242, 77, 242);
+}
+.inicio-contenido-div {
+    background-color: rgba(0, 0, 0, 0.3);
+        padding: 0 10px;
+    border-radius: 20px;
+}
 .inicio-articulo {
     padding-bottom: 20px;
 }
-.inicio-articulo h2 {
+.inicio-articulo-h2 {
     font-family: "Rubik", sans-serif;
+    margin-top: 70%;
 }
 .inicio-contenido img {
     max-width: 800px;
-    margin-bottom: 70%;
+
 }
 .contenedor-temas {
     width: 100%;
-    background-color: #130e1c;
     color: whitesmoke;
     border: 1px solid white;
 }
-.inicio-articulo-temas p {
-
-}
-.inicio-articulo-temas h1 {
-    font-family: "Horizon", sans-serif;
-}
-.inicio-articulo-tema1 {
-    background-image: url(img/planeta-marte-espacio-istock.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 50vh;
-    width: 100%;
-}
-.inicio-articulo-tema2 {
-    background-image: url(img/computacion-cuantica.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 50vh;
-    width: 100%;
-}
-.inicio-articulo-tema3 {
-    background-image: url(img/chain-of-dna-gyrating-on-black-background-video.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 50vh;
-    width: 100%;
-}
-.inicio-articulo-tema4 {
-    background-image: url(img/MAsdar-City-07.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 50vh;
-    width: 100%;
-}
-.inicio-articulo-tema5 {
-    background-image: url(img/Screenshot-2024-11-25-at-9.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
-    min-height: 50vh;
-    width: 100%;
-}
-.inicio-articulo-texto {
+.inicio-articulo-temas {
+    max-width: 1200px;
     margin: 0 auto;
-    max-width: 1000px;
-    border: 1px solid wheat;
     display: flex;
-    justify-content: center;
-    flex-direction:column;
+    flex-direction: column;
+    padding: 0 1rem;
 }
-.inicio-articulo-texto p {
-    max-width: 500px;
-    margin-bottom: 1rem;
+.inicio-articulo-temas-texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.inicio-articulo-temas p {
+    max-width: 300px;
+    margin-bottom: 1.5rem;
+}
+
+.inicio-articulo-temas h1 {
+    margin-bottom: 2rem;
+    font-family: "Horizon", sans-serif;
+    font-size: 340%;
+    flex-wrap: wrap;
+}
+.inicio-articulo-temas img {
+    max-width: 800px;
+}
+.inicio-articulo-temas-flex {
+    display: flex;
+    justify-content: space-between;
 }
