@@ -49,7 +49,7 @@ nav ul a {
     min-height: 100vh;
 }
 .inicio-fondo {
-    background-image: url(./img/iss070e034731~orig.jpg);
+    background-image: url(./img/fondo.jpg);
     background-size: COVER;
 }
 .inicio-contenido {
@@ -96,6 +96,7 @@ nav ul a {
     display: flex;
     flex-direction: column;
     padding: 0 1rem;
+    max-height: 100vh;
 }
 .inicio-articulo-temas-texto {
     display: flex;
@@ -119,4 +120,34 @@ nav ul a {
 .inicio-articulo-temas-flex {
     display: flex;
     justify-content: space-between;
+}
+.inicio-articulo-temas-flex img {
+    max-height: 600px;
+}
+footer {
+    padding: 0 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    height: 30vh;
+}
+footer p {
+    max-width: 40rem;
+}
+footer ul {
+    list-style: none;
+}
+footer ul li {
+    margin-bottom: 1rem;
+}
+.footer-flex {
+    display: flex;
+    flex-direction: column;
+}
+.footer-flex img {
+    max-width: 400px;
 }
