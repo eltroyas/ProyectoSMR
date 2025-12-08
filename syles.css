@@ -88,7 +88,6 @@ nav ul a {
 .contenedor-temas {
     width: 100%;
     color: whitesmoke;
-    border: 1px solid white;
 }
 .inicio-articulo-temas {
     max-width: 1200px;
@@ -113,6 +112,7 @@ nav ul a {
     font-family: "Horizon", sans-serif;
     font-size: 340%;
     flex-wrap: wrap;
+    color: rgb(242, 77, 242);
 }
 .inicio-articulo-temas img {
     max-width: 800px;
@@ -137,6 +137,10 @@ footer {
 }
 footer p {
     max-width: 40rem;
+    margin-bottom: 1rem;
+}
+footer img {
+    margin-bottom: 1rem;
 }
 footer ul {
     list-style: none;
@@ -150,4 +154,13 @@ footer ul li {
 }
 .footer-flex img {
     max-width: 400px;
+}
+.footer-span {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.566);
 }
