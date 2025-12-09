@@ -8,6 +8,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html  {
+    scroll-behavior: smooth;
+}
 body {
     font-family: "Lato", sans-serif;
 }
@@ -224,6 +227,14 @@ footer ul li a {
     flex-direction: column;
     align-items: center;
 }
+#curso-flappy {
+    background-color:  rgba(255, 255, 255, 0.123);
+box-shadow:
+  0 -3px 10px rgba(255, 255, 255, 0.9),
+  0 10px 25px rgba(0, 0, 0, 0.12),
+  0 25px 60px rgba(0, 0, 0, 0.18),
+  0 50px 120px rgba(0, 0, 0, 0.22);
+}
 .curso h1 {
     font-size: 100%;
 }
@@ -252,11 +263,16 @@ form {
     flex-direction: column;
     gap: 10px;
 }
+form label {
+    font-size: 150%;
+}
 form input {
     max-width: 100%;
     min-height: 2rem;
     background-color: rgba(255, 255, 255, 0.745);
     padding: 0 10px;
+    border-radius: 0.35rem;
+    font-size: 130%;
 }
 form input[type="submit"] {
     max-width: 50%;
@@ -264,6 +280,7 @@ form input[type="submit"] {
     background-color: rgba(255, 255, 255, 0.745);
     padding: 0 10px;
     min-height: 5rem;
+    font-size: 150%;
 }
 form textarea {
     background-color: rgba(255, 255, 255, 0.549);
@@ -272,9 +289,8 @@ form textarea {
     max-width: 500px;
     min-width: 500px;
     padding: 1rem 10px;
-}
-.form-span input {
-    min-width: 30%;
+    border-radius: 0.35rem;
+    font-size: 180%;
 }
 .contacto-imagen {
     display: flex;
@@ -287,4 +303,19 @@ form textarea {
     border-radius: 3rem;
     max-width: 50%;
     object-fit: cover;
+}
+.texto-legal p {
+    max-width: 800px;
+}
+.texto-legal a {
+    color: inherit;
+    text-decoration: underline;
+}
+.texto-legal ul, .texto-legal ol {
+    padding-left: 3rem;
+    list-style-position: outside;
+}
+.update {
+    font-weight: 900;
+    font-style: italic;
 }
