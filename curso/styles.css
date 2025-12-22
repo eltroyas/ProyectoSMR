@@ -1,0 +1,30 @@
+/* ============================
+   H5P Lumni - texto fluido
+   ============================ */
+
+/* Contenedores generales */
+.h5p-container,
+.h5p-content,
+.h5p-single-choice-set,
+.h5p-sc-set-wrapper,
+.h5p-question-explanation-container {
+    max-width: 100% !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+/* Sobrescribir todos los elementos de texto dentro */
+.h5p-container p,
+.h5p-container li,
+.h5p-container span,
+.h5p-container div,
+.h5p-container h1,
+.h5p-container h2,
+.h5p-container h3,
+.h5p-container h4,
+.h5p-container h5,
+.h5p-container h6 {
+    max-width: 100% !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
