@@ -35,33 +35,38 @@
             <p>
                 A su entera disposición. ¡Cuentanos lo que quiera!
             </p>
-            <div class="contacto-imagen">
-            <form>
-                <label for="nombre">
-                    Nombre
-                </label>
-                <input type="text" id="nombre">
-                <label for="apellidos">
-                    Apellidos
-                </label>
-                
-                <input type="text" id="apellidos">
-                <label for="correo">
-                    Correo electrónico
-                </label>
-                <input type="text" id="correo">
-                <label>
-                  Mensaje
-                </label>
-                <textarea>
+	<div class="container">
+	<div class="row input-container">
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<input type="text" required placeholder=" " />
+					<label>Nombre</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input">
+					<input type="text" required placeholder=" "/>
+					<label>Correo electrónico</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input" style="float:right;">
+					<input type="tel" required placeholder=" "/>
+					<label>Numéro telefónico</label> 
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<textarea required placeholder=" "></textarea>
+					<label>Mensaje</label>
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<button class="btn-lrg submit-btn">Envíar mensaje</button>
+			</div>
+	</div>
+</div>
 
-                </textarea>
-                <input type="submit">
-                    
-                </input>
-            </form>
-            <img src="img/cohete-contacto.jpeg">
-            </div>
         </main>
   <footer>
     <div class="footer-flex">
