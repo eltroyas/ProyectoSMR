@@ -27,4 +27,5 @@
     max-width: 100% !important;
     word-wrap: break-word !important;
     overflow-wrap: break-word !important;
+    overflow-y: visible !important;
 }
