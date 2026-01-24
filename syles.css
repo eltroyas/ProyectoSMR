@@ -647,7 +647,7 @@ textarea:not(:placeholder-shown) + label {
   align-items: center; 
   justify-content: center;
   scroll-snap-align: start; /* El párrafo se "pega" al inicio al deslizar */
-  padding: 20px;
+  padding: px;
   box-sizing: border-box;
 }
 .curso-texto::-webkit-scrollbar {
