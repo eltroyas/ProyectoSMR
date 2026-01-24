@@ -616,8 +616,7 @@ textarea:not(:placeholder-shown) + label {
     backdrop-filter: blur(10px); /* Efecto cristal esmerilado */
     border: 1px solid rgba(242, 77, 242, 0.2); /* Borde sutil con tu color de acento */
     transition: all 0.3s ease;
-    overflow-y: hidden;
-    overscroll-behavior: contain;
+   
 }
 .curso h1 {
     font-size: 0.73em;
