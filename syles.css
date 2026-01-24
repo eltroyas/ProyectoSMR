@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Michroma&display=swap');
+
 @font-face {
   font-family: 'Horizon';
   src: url('fonts/Horizon-Font/Horizon-Font/Horizon.otf') format('opentype'),
@@ -43,6 +45,11 @@ nav ul {
 nav ul a {
     text-decoration: none;
     color: white;
+}
+nav ul a:hover {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(242, 77, 242);
+    text-decoration-thickness: 0.25em;
 }
 .inicio {
     background-size:   cover;
@@ -596,3 +603,143 @@ textarea:not(:placeholder-shown) + label {
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
         }
+
+
+        /* Mejora del fondo degradado en .seccion-fondo */
+.seccion-fondo {
+    background: radial-gradient(circle at top right, #1a1033, #0b0e14);
+}
+
+/* Mejora de las tarjetas de cursos */
+.curso {
+    background: rgba(26, 31, 41, 0.6); /* Color de superficie */
+    backdrop-filter: blur(10px); /* Efecto cristal esmerilado */
+    border: 1px solid rgba(242, 77, 242, 0.2); /* Borde sutil con tu color de acento */
+    transition: all 0.3s ease;
+    overflow-y: hidden;
+    overscroll-behavior: contain;
+}
+.curso h1 {
+    font-size: 0.73em;
+}
+.curso:hover {
+    border-color: rgba(242, 77, 242, 0.8);
+    box-shadow: 0 0 20px rgba(242, 77, 242, 0.15);
+    transform: translateY(-5px);
+}
+.curso-texto {
+    margin: 1em 0;
+    max-height: 195px;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    scroll-snap-type: y mandatory;
+}
+.curso-texto p {
+    scroll-snap-align: start;
+  
+  /* Opcional: añade margen para que no pegue al borde */
+  scroll-snap-stop: always; 
+  margin-bottom: 80px;
+
+  height: 100%;        /* Cada párrafo ocupa todo el recuadro */
+  margin: 0;           /* Quitamos márgenes para que no se desfase */
+  display: flex;       /* Centramos el texto verticalmente */
+  align-items: center; 
+  justify-content: center;
+  scroll-snap-align: start; /* El párrafo se "pega" al inicio al deslizar */
+  padding: 20px;
+  box-sizing: border-box;
+}
+.curso-texto::-webkit-scrollbar {
+  width: 5px;               /* width of the entire scrollbar */
+}
+
+.curso-texto::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.08);        /* color of the tracking area */
+}
+
+.curso-texto::-webkit-scrollbar-thumb {
+  background-color: whitesmoke;    /* color of the scroll thumb */
+}
+input, textarea {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #E2E8F0;
+}
+
+input:focus, textarea:focus {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgb(242, 77, 242);
+    box-shadow: 0 0 10px rgba(242, 77, 242, 0.3);
+}
+body {
+    font-family: 'Inter', sans-serif; /* Más moderna y legible que Lato */
+    line-height: 1.6;
+    letter-spacing: -0.01em; /* Inter se ve mejor con un tracking un poco cerrado */
+}
+
+/* Para los títulos grandes que ya tienes */
+.inicio-articulo-temas h1, .seccion h1 {
+    font-family: 'Horizon', sans-serif; 
+    letter-spacing: 2px; /* Dale aire a las letras mayúsculas */
+    text-transform: uppercase;
+}
+.btn-potente {
+    /* Estructura básica */
+    width: 100%;
+    height: 50px;
+    border-radius: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif; /* La fuente que sugerimos */
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+    
+    /* Colores y Degradado */
+    background: linear-gradient(135deg, #f24df2 0%, #7000ff 100%);
+    color: white;
+    
+    /* Sombra y Glow inicial */
+    box-shadow: 0 4px 15px rgba(242, 77, 242, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-potente:hover {
+    /* Efecto de elevación */
+    transform: translateY(-3px);
+    
+    /* Glow potente al pasar el mouse */
+    box-shadow: 0 8px 25px rgba(242, 77, 242, 0.5);
+    filter: brightness(1.1);
+}
+
+.btn-potente:active {
+    transform: translateY(1px);
+}
+
+/* Efecto de brillo que cruza el botón */
+.btn-potente::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -60%;
+    width: 20%;
+    height: 200%;
+    background: rgba(255, 255, 255, 0.2);
+    transform: rotate(30deg);
+    transition: all 0.5s ease;
+}
+
+.btn-potente:hover::after {
+    left: 120%;
+}
+.curso-centrado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
