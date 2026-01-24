@@ -16,6 +16,24 @@ html  {
 body {
     font-family: "Lato", sans-serif;
 }
+/* 1. Tamaño del scroll */
+body::-webkit-scrollbar {
+  min-width: 16px; /* 50px es enorme, 16px es un estándar ancho */
+  max-width: 16px;
+}
+
+/* 2. El carril (Track) */
+body::-webkit-scrollbar-track {
+  background: #e0e0e000; /* Gris claro sólido para que lo veas sí o sí */
+  border-radius: 10px;
+}
+
+/* 3. El tirador (Thumb) */
+body::-webkit-scrollbar-thumb {
+  background-color: #333; /* Color oscuro */
+  border-radius: 10px;
+  border: 3px solid #e0e0e0; /* Esto crea un efecto de separación */
+}
 header {
     display: flex;
     flex-direction: column;
@@ -699,9 +717,8 @@ body {
     border: none;
     
     /* Colores y Degradado */
-    background: linear-gradient(135deg, #f24df2 0%, #7000ff 100%);
-    color: white;
-    
+    background-color: rgba(0, 0, 0, 0.2);
+    color: whitesmoke;
     /* Sombra y Glow inicial */
     box-shadow: 0 4px 15px rgba(242, 77, 242, 0.3);
     position: relative;
@@ -709,6 +726,7 @@ body {
 }
 
 .btn-potente:hover {
+    background: linear-gradient(135deg, #f24df2 0%, #7000ff 100%);
     /* Efecto de elevación */
     transform: translateY(-3px);
     
