@@ -775,9 +775,9 @@ body {
 }
 #chatbot-container {
   position: fixed;
-  bottom: 20px;     /* Distancia desde abajo */
-  right: 20px;      /* Distancia desde la derecha */
-  width: 300px;     /* Ancho fijo del chat */
+  bottom: 10px;     /* Distancia desde abajo */
+  right: 10px;      /* Distancia desde la derecha */
+  width: 320px;     /* Ancho fijo del chat */
   background: rgba(26, 31, 41, 0.8); /* Color de superficie */
     backdrop-filter: blur(10px); /* Efecto cristal esmerilado */
     border: 1px solid rgba(242, 77, 242, 0.2); /* Borde sutil con tu color de acento */
@@ -796,7 +796,7 @@ body {
     background: rgba(26, 31, 41, 0.9); /* Color de superficie */
 }
 #chat {
-  height: 250px;    /* Altura fija para el área de mensajes */
+  height: 380px;    /* Altura fija para el área de mensajes */
   overflow-y: auto; /* Scroll interno si hay muchos mensajes */
   border-bottom: 1px solid #eee;
   margin-bottom: 10px;
