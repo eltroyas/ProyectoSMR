@@ -760,3 +760,9 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+#chatbot-container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: white;
+}
