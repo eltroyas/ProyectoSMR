@@ -19,7 +19,7 @@ exports.handler = async function(event, context) {
 
     const HF_TOKEN = process.env.HF_TOKEN;
     const MODEL = "nomic-ai/gpt4all-j";
-    const HF_URL = `https://api-inference.huggingface.co/models/${MODEL}`;
+    const HF_URL = `https://router.huggingface.co/models/${MODEL}`;
 
     // Timeout de 9 segundos
     const controller = new AbortController();
