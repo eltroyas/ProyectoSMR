@@ -18,7 +18,7 @@ exports.handler = async function(event, context) {
       : `Responde de la mejor manera posible a la pregunta: ${message}`;
 
     const HF_TOKEN = process.env.HF_TOKEN;
-    const MODEL = "nomic-ai/gpt4all-j";
+    const MODEL = "Qwen/Qwen-3-1.7B";
     const HF_URL = `https://router.huggingface.co/models/${MODEL}`;
 
     // Timeout de 9 segundos
