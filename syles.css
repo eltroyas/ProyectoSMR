@@ -17,19 +17,19 @@ body {
     font-family: "Lato", sans-serif;
 }
 /* 1. Tamaño del scroll */
-body::-webkit-scrollbar {
+body::-webkit-scrollbar, #chatbot-container::-webkit-scrollbar {
   min-width: 16px; /* 50px es enorme, 16px es un estándar ancho */
   max-width: 16px;
 }
 
 /* 2. El carril (Track) */
-body::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track, #chatbot-container::-webkit-scrollbar-track {
   background: #e0e0e000; /* Gris claro sólido para que lo veas sí o sí */
   border-radius: 10px;
 }
 
 /* 3. El tirador (Thumb) */
-body::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb, #chatbot-container::-webkit-scrollbar-thumb {
   background-color: #333; /* Color oscuro */
   border-radius: 10px;
   border: 3px solid #e0e0e0; /* Esto crea un efecto de separación */
