@@ -761,9 +761,28 @@ body {
     justify-content: center;
 }
 #chatbot-container {
-    position: relative;
-        padding: 0 1rem;
-    max-width: 1200px;
-    margin: 0 auto;
-    color: white;
+  position: fixed;
+  bottom: 20px;     /* Distancia desde abajo */
+  right: 20px;      /* Distancia desde la derecha */
+  width: 300px;     /* Ancho fijo del chat */
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+  padding: 15px;
+  z-index: 1000;    /* Para que siempre esté por encima de otros elementos */
+  font-family: Arial, sans-serif;
+}
+
+#chat {
+  height: 250px;    /* Altura fija para el área de mensajes */
+  overflow-y: auto; /* Scroll interno si hay muchos mensajes */
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#msg {
+  width: calc(100% - 70px); /* Ajusta el input al espacio disponible */
+  padding: 5px;
 }
