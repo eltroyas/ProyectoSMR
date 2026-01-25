@@ -1,0 +1,24 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltroyas/ProyectoSMR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eltroyas/ProyectoSMR/issues"
+  },
+  "homepage": "https://github.com/eltroyas/ProyectoSMR#readme",
+  "dependencies": {
+    "jsdom": "^27.4.0"
+  }
+}
