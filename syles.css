@@ -765,15 +765,23 @@ body {
   bottom: 20px;     /* Distancia desde abajo */
   right: 20px;      /* Distancia desde la derecha */
   width: 300px;     /* Ancho fijo del chat */
-  background-color: white;
-  border: 1px solid #ccc;
+  background: rgba(26, 31, 41, 0.8); /* Color de superficie */
+    backdrop-filter: blur(10px); /* Efecto cristal esmerilado */
+    border: 1px solid rgba(242, 77, 242, 0.2); /* Borde sutil con tu color de acento */
   border-radius: 10px;
   box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
   padding: 15px;
   z-index: 1000;    /* Para que siempre esté por encima de otros elementos */
   font-family: Arial, sans-serif;
+  color: rgba(245, 245, 245, 0.885);
+  transition: all 0.3s ease;
 }
-
+#chatbot-container:hover {
+    border-color: rgba(242, 77, 242, 0.8);
+    box-shadow: 0 0 20px rgba(242, 77, 242, 0.15);
+    transform: translateY(-5px);
+    background: rgba(26, 31, 41, 0.9); /* Color de superficie */
+}
 #chat {
   height: 250px;    /* Altura fija para el área de mensajes */
   overflow-y: auto; /* Scroll interno si hay muchos mensajes */
