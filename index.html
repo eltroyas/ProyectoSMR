@@ -176,6 +176,29 @@
       </div>
     </article>
   </div>
+  <div id="chatbot-container">
+  <h3>Chatbot</h3>
+  <div id="chat"></div>
+  <input id="msg" placeholder="Escribe tu pregunta" />
+  <button onclick="sendMessage()">Enviar</button>
+</div>
+
+<script>
+async function sendMessage() {
+  const msg = document.getElementById("msg").value;
+  document.getElementById("chat").innerHTML += `<p><b>Tú:</b> ${msg}</p>`;
+  document.getElementById("msg").value = "";
+
+  const res = await fetch("/.netlify/functions/chat", {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({ message: msg })
+  });
+  const data = await res.json();
+  document.getElementById("chat").innerHTML += `<p><b>Bot:</b> ${data.reply}</p>`;
+}
+</script>
+
   </main>
   <footer>
     <div class="footer-flex">
