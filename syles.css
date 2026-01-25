@@ -762,6 +762,7 @@ body {
 }
 #chatbot-container {
     position: relative;
+        padding: 0 1rem;
     max-width: 1200px;
     margin: 0 auto;
     color: white;
