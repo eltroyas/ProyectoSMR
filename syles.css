@@ -475,11 +475,12 @@ textarea:not(:placeholder-shown) + label {
             border: 1px solid rgba(255, 255, 255, 0.1);
             border-radius: 16px;
             padding: 2rem 0;
+            height: 27vh;
         }
         
         .marquee-content {
             display: flex;
-            animation: scroll 25s linear infinite;
+            animation: scroll 25s linear infinite;            
             width: fit-content;
         }
         
@@ -502,7 +503,7 @@ textarea:not(:placeholder-shown) + label {
             align-items: center;
             justify-content: center;
             min-width: 200px;
-            height: 100px;
+            height: 20.5vh;
             margin: 0 20px;
             background: rgba(255, 255, 255, 0.03);
             border: 1px solid rgba(255, 255, 255, 0.05);
@@ -538,10 +539,14 @@ textarea:not(:placeholder-shown) + label {
         /* Logo image styles */
         .logo-image {
             max-height: 60px;
-            width: auto;
             object-fit: contain;
             filter: brightness(0) invert(1);
             transition: all 0.3s ease;
+            max-width: 10px;
+        }
+        .logo-image {
+            width: 350px;
+            min-height: 150px;
         }
         
         /* Specific glow effects for each brand */
