@@ -342,6 +342,9 @@ form textarea {
 .texto-legal p {
     max-width: 800px;
 }
+.texto-legal li {
+    max-width: 800px;
+}
 .texto-legal a {
     color: inherit;
     text-decoration: underline;
@@ -349,6 +352,10 @@ form textarea {
 .texto-legal ul, .texto-legal ol {
     padding-left: 3rem;
     list-style-position: outside;
+}
+.texto-legal li span {
+    margin: 0;
+    padding: 0;
 }
 .update {
     font-weight: 900;
