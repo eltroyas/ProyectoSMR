@@ -346,7 +346,28 @@ form textarea {
 .texto-legal p {
     max-width: 800px;
 }
+.texto-legal h2 {
+    margin-top: 1em;
+}
+.texto-legal h2 + p,.texto-legal p + p,.texto-legal h3 + p {
+    margin: 10px 0   ;
+}
+.texto-legal ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .texto-legal li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.texto-legal p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.texto-legal ul li {
+    margin: 0;
     max-width: 800px;
 }
 .texto-legal a {
@@ -354,6 +375,7 @@ form textarea {
     text-decoration: underline;
 }
 .texto-legal ul, .texto-legal ol {
+    margin: 0;
     padding-left: 3rem;
     list-style-position: outside;
 }
