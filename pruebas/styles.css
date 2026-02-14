@@ -1,4 +1,7 @@
 /* base */
+html {
+  scroll-behavior: smooth;
+}
 /* contacto2 */
 
 /* --- SECCIÓN CONTACTO ADAPTADA --- */
@@ -208,46 +211,38 @@ h1 {
   --index: 1;
 }
 .card:nth-child(1) .card__content {
-  background: #ff2a6d;
-  --shadow-color: rgba(255, 42, 109, 0.8);
+  background: #2a2260;
 }
 
 .card:nth-child(2) {
   --index: 2;
 }
 .card:nth-child(2) .card__content {
-  background: #05d9e8;
+  background: #6780af;
   color: #000;
-  --shadow-color: rgba(5, 217, 232, 0.8);
 }
 
 .card:nth-child(3) {
   --index: 3;
 }
 .card:nth-child(3) .card__content {
-  background: #ffe600;
+  background: #80d0d4;
   color: #000;
-  --shadow-color: rgba(255, 230, 0, 0.8);
 }
 
 .card:nth-child(4) {
   --index: 4;
 }
 .card:nth-child(4) .card__content {
-  background: #fafac6;
-  color: #000;
-  --shadow-color: rgba(250, 250, 198, 0.8);
+  background: #7a61dd;
+
+}
+.card:nth-child(5) .card__content {
+  background: #d0a675;
+
 }
 
-@keyframes scale-card {
-  to {
-    transform: scale(0.8) translateY(-10vh) rotateX(-20deg);
-    filter: brightness(0.6);
-    border-radius: 20px;
-    /* Dynamic shadow */
-    box-shadow: 0 50px 80px -10px var(--shadow-color);
-  }
-}
+
 
 /* Content Styling */
 h2 {
@@ -423,6 +418,9 @@ header {
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+.header-footer h2 {
+  margin: 80px;
 }
 .navbar img {
     max-width: 300px;
