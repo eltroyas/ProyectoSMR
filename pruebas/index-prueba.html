@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style"
+</head>
+<body>
+    <!-- inspired by karabharat/pen/YPWXqmx -->
+header
+  h1
+    | Moderen CSS3
+    br
+    | That Hits
+    br
+    | Hard
+    
+ul#cards
+  li.card
+    .card__content
+      span.number 01
+      h2 Sticky AF
+      p
+        | Cards stack themselves like a perfectly shuffled deck. No JavaScript. No math. Just &grave;position: sticky&grave; being unreasonably cool.
+  li.card
+    .card__content
+      span.number 02
+      h2 Scroll = Animation
+      p
+        | &grave;animation-timeline: view()&grave; means your scroll IS the timeline. Scrub back? Animation rewinds. It's like TiVo for CSS.
+  li.card
+    .card__content
+      span.number 03
+      h2 Fake 3D, Real Vibes
+      p
+        | &grave;perspective&grave; and &grave;rotateX&grave; make flat divs look thicc. Cards tilt back like they're judging your scroll speed.
+  li.card
+    .card__content
+      span.number 04
+      h2 Buttery 60fps
+      p
+        | Compositor-only transforms mean the GPU does all the work. Your main thread? Sipping margaritas. Zero jank, all smooth.
+
+svg.progress-circle(viewbox='0 0 100 100')
+  circle(cx='50' cy='50' r='40')
+header
+  h1
+    | Look Ma
+    br
+    | No JS!
+</body>
+</html>
