@@ -2,6 +2,9 @@
 html {
   scroll-behavior: smooth;
 }
+.inicio-contenido-div  h2{
+  color: rgba(245, 245, 245, 0.85);
+}
 /* contacto2 */
 
 /* --- SECCIÓN CONTACTO ADAPTADA --- */
@@ -133,9 +136,8 @@ body {
 
 
 h1 {
-  font-size: clamp(3rem, 10vw, 10rem);
+  font-size: 3rem;
   text-transform: uppercase;
-  text-align: center;
   line-height: 0.8;
   margin: 0;
 
@@ -219,7 +221,10 @@ h1 {
 }
 .card:nth-child(2) .card__content {
   background: #6780af;
-  color: #000;
+
+}
+.card:nth-child(2) .card__content p{
+
 }
 
 .card:nth-child(3) {
@@ -229,7 +234,10 @@ h1 {
   background: #80d0d4;
   color: #000;
 }
-
+.card:nth-child(3) .card__content p {
+  background: #80d0d4;
+  color: #000;
+}
 .card:nth-child(4) {
   --index: 4;
 }
@@ -250,10 +258,10 @@ h2 {
   margin: 0;
 }
 p {
+  color: whitesmoke;
   font-size: 1.5rem;
   max-width: 600px;
   line-height: 1.4;
-  opacity: 0.8;
 }
 
 .number {
@@ -393,7 +401,10 @@ p {
 .footer-col ul a:hover {
   opacity: 1;
 }
-
+.footer-col img {
+  max-width: 450px;
+  width: 100%;
+}
 .footer-bottom {
   text-align: center;
   padding-top: 40px;
@@ -515,4 +526,337 @@ header {
   .number {
     display: none; /* Quitamos el número grande en móvil para ahorrar espacio */
   }
+}
+.seccion {
+  margin: 0 auto;
+  max-width: 1200px;
+  margin-top: 100px;
+}
+.seccion img {
+  width: 100%;
+}
+.inicio-articulo-temas-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.inicio-articulo-temas-flex img {
+    max-height: 600px;
+}
+.inicio-articulo-temas img {
+    max-width: 100%;
+    border-radius: 5rem;
+    margin: 1rem 0;
+}
+.inicio-articulo-temas {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 0 1rem;
+    min-height: 58vh;
+}
+.inicio-articulo-temas-texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.cursos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-rows: repeat(auto-fit);
+    width: 100%;
+    gap: 10px;
+    margin-bottom: 5rem;
+}
+.curso {
+  min-height: 40px;
+}
+.curso-texto::-webkit-scrollbar {
+  width: 5px;               /* width of the entire scrollbar */
+}
+
+.curso-texto::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.08);        /* color of the tracking area */
+}
+
+.curso-texto::-webkit-scrollbar-thumb {
+  background-color: whitesmoke;    /* color of the scroll thumb */
+}
+.curso-centrado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.curso h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+#curso-h1-pequeño {
+    font-size: 0.8690rem;
+}
+.curso-img {
+    display: flex;
+    justify-content: center;
+}
+.curso img {
+    max-width: 100%;
+    max-height: 270px;
+    min-height: 270px;
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+}
+.curso-texto {
+    margin: 1em 0;
+    /* 1. Definimos una altura fija para el visor */
+    height: 200px; 
+    
+    /* 2. Scroll vertical obligatorio */
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    
+    /* 3. Limpiamos comportamiento */
+    overscroll-behavior: contain;
+    position: relative;
+}
+
+.curso-texto p {
+  font-size: 1.18rem;
+    /* 4. El párrafo DEBE medir lo mismo que el contenedor padre */
+    height: 200px; 
+    width: 100%;
+    margin: 10px 0;
+    
+    /* 5. Centrado del contenido */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 15px;
+    box-sizing: border-box;
+    
+    /* 6. El imán del scroll */
+    scroll-snap-align: start;
+    scroll-snap-stop: always; /* Evita que el usuario se salte párrafos al scrollear rápido */
+}
+
+/* Opcional: Ocultar scrollbar pero mantener funcionalidad para un look más limpio */
+.curso-texto::-webkit-scrollbar {
+    width: 4px;
+}
+
+.curso-texto::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+}
+/* patrocinadores */
+        .marquee-wrapper {
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 2rem 0;
+            height: 27vh;
+            margin-bottom: 3rem;
+        }
+        .marquee-content {
+            display: flex;
+            animation: scroll 25s linear infinite;            
+            width: fit-content;
+        }
+        
+        @keyframes scroll {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+        
+        .marquee-wrapper:hover .marquee-content {
+            animation-play-state: paused;
+        }
+        
+        /* Logo card styles */
+        .logo-card {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 200px;
+            height: 20.5vh;
+            margin: 0 20px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .logo-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, transparent, rgba(255, 255, 255, 0.05), transparent);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .logo-card:hover::before {
+            opacity: 1;
+        }
+        
+        .logo-card:hover {
+            transform: translateY(-5px) scale(1.05);
+            background: rgba(255, 255, 255, 0.08);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        /* Logo image styles */
+        .logo-image {
+            max-height: 60px;
+            object-fit: contain;
+            filter: brightness(0) invert(1);
+            transition: all 0.3s ease;
+        }
+        .logo-image {
+            width: 350px;
+            min-height: 150px;
+        }
+        
+        /* Specific glow effects for each brand */
+        .google-glow {
+            box-shadow: 0 0 20px rgba(66, 133, 244, 0.3);
+        }
+        
+        .google-glow:hover {
+            box-shadow: 0 0 30px rgba(66, 133, 244, 0.5);
+        }
+        
+        .tesla-glow {
+            box-shadow: 0 0 20px rgba(231, 76, 60, 0.3);
+        }
+        
+        .tesla-glow:hover {
+            box-shadow: 0 0 30px rgba(231, 76, 60, 0.5);
+        }
+        
+        .pinterest-glow {
+            box-shadow: 0 0 20px rgba(189, 8, 28, 0.3);
+        }
+        
+        .pinterest-glow:hover {
+            box-shadow: 0 0 30px rgba(189, 8, 28, 0.5);
+        }
+        
+        .facebook-glow {
+            box-shadow: 0 0 20px rgba(66, 103, 178, 0.3);
+        }
+        
+        .facebook-glow:hover {
+            box-shadow: 0 0 30px rgba(66, 103, 178, 0.5);
+        }
+        
+        .openai-glow {
+            box-shadow: 0 0 20px rgba(16, 163, 127, 0.3);
+        }
+        
+        .openai-glow:hover {
+            box-shadow: 0 0 30px rgba(16, 163, 127, 0.5);
+        }
+        
+        .microsoft-glow {
+            box-shadow: 0 0 20px rgba(0, 120, 215, 0.3);
+        }
+        
+        .microsoft-glow:hover {
+            box-shadow: 0 0 30px rgba(0, 120, 215, 0.5);
+        }
+        
+        .amazon-glow {
+            box-shadow: 0 0 20px rgba(255, 153, 0, 0.3);
+        }
+        
+        .amazon-glow:hover {
+            box-shadow: 0 0 30px rgba(255, 153, 0, 0.5);
+        }
+        
+        .twitter-glow {
+            box-shadow: 0 0 20px rgba(29, 161, 242, 0.3);
+        }
+        
+        .twitter-glow:hover {
+            box-shadow: 0 0 30px rgba(29, 161, 242, 0.5);
+        }
+        
+        /* Gradient text */
+        .gradient-text {
+            background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        /* Ensure smooth animation */
+        * {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+.texto-legal p {
+  color: rgba(255, 255, 255, 0.844);
+    max-width: 800px;
+}
+.texto-legal h2 {
+  color: whitesmoke;
+  font-size: 2rem;
+    margin-top: 1em;
+}
+.texto-legal h2 + p,.texto-legal p + p,.texto-legal h3 + p {
+    margin: 10px 0   ;
+}
+.texto-legal ul {
+  
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.texto-legal li {
+  max-width: 1000px;
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+color: whitesmoke;
+}
+
+.texto-legal p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.texto-legal ul li {
+    margin: 0;
+    max-width: 800px;
+}
+.texto-legal a {
+    color: inherit;
+    text-decoration: underline;
+}
+.texto-legal ul, .texto-legal ol {
+    margin: 0;
+    padding-left: 3rem;
+    list-style-position: outside;
+}
+.texto-legal li span {
+    margin: 0;
+    padding: 0;
+}
+.update {
+    font-weight: 900;
+    font-style: italic;
 }
