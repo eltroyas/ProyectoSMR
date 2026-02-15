@@ -2,8 +2,9 @@
 html {
   scroll-behavior: smooth;
 }
-.inicio-contenido-div  h2{
+.inicio-contenido-div {
   color: rgba(245, 245, 245, 0.85);
+  font-family: "Space Grotesk", sans-serif;
 }
 /* contacto2 */
 
@@ -880,4 +881,116 @@ color: whitesmoke;
 .update {
     font-weight: 900;
     font-style: italic;
+}
+/* slider */
+.slider {
+  padding: 50px 0;
+}
+.slider h2 {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.slider .slide {
+	height: 40px;
+	padding-right: 120px;
+	position: relative;
+}
+
+.slider .slide img {
+	max-width: none;
+	opacity: 0;
+	transition: 0.1s ease-out;
+}
+.slider .slide:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-size: contain !important;
+	opacity: 1;
+	transition: 0.1s ease-out;
+}
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(-2227px);
+	}
+}
+.slider {
+	height: 120px;
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+.slider::after {
+	right: 0;
+	top: 0;
+	transform: rotateZ(180deg);
+}
+.slider::before {
+	left: 0;
+	top: 0;
+}
+.slider .slider-animation {
+	animation: scroll 40s linear infinite;
+	display: flex;
+	/*width: calc(250px * 14);*/
+	width: 4296px;
+}
+.slider .slider-animation:hover {
+	animation-play-state: paused;
+}
+.slider .slide {
+	height: 40px;
+	padding-right: 120px;
+	position: relative;
+}
+
+.slider .slide img {
+	max-width: none;
+	opacity: 0;
+	transition: 0.1s ease-out;
+}
+.slider .slide:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-size: contain !important;
+	opacity: 1;
+	transition: 0.1s ease-out;
+}
+.slider .slider-animation:hover .slide:hover:before {
+	opacity: 0;
+}
+.slider .slider-animation:hover .slide:hover  img{
+	opacity: 1;
+}
+.slider .slide.yahoo:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/yahoo_g.png") no-repeat;
+}
+.slider .slide.bloomberg:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/bloomberg_g.png") no-repeat;
+}
+.slider .slide.forbes:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/forbes_g.png") no-repeat;
+}
+.slider .slide.forklog:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/forklog_g.png") no-repeat;
+}
+.slider .slide.ain:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/ain_g.png") no-repeat;
+}
+.slider .slide.vector:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/vector_g.png") no-repeat;
+}
+.slider .slide.inventure:before {
+	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/inventure_g.png") no-repeat;
 }
