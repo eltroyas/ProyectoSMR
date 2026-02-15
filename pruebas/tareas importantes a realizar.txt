@@ -1,1 +1,7 @@
-hacer que menu funcione
+hacer que menu funcione correctamente > hecho
+insertar chatbot con la key clara para poder utilizarlo en server local
+los cursos trasladarlos a nuevo formato > hecho aunque queda hacer arreglos de errores
+creación de la página formaciñón disponible proximamente
+hacer que los enlaces a las diferentes paginas del inicio funcionen correctamente y que el texto de los botones sea tambien el adecuado
+poner al principio de la página los patrocinadores
+el chatbot preferentemnete en los cursos y pillar el json de toda esa info.
