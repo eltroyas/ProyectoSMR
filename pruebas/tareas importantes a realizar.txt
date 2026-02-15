@@ -5,3 +5,5 @@ creación de la página formaciñón disponible proximamente
 hacer que los enlaces a las diferentes paginas del inicio funcionen correctamente y que el texto de los botones sea tambien el adecuado
 poner al principio de la página los patrocinadores
 el chatbot preferentemnete en los cursos y pillar el json de toda esa info.
+insertar icono de pestaña
+en formacion y formacion disponible proximamente en las entradillas mostrar mejor resumen del curso
