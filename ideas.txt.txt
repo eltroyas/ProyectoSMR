@@ -1,4 +1,0 @@
-hacer un menu a la izquierda en escritorio y menu hambuerguesa para movil
-mejorar diseño de chatbot para minimizar y ampliar facilmente
-hacer texto de sostenibilidad
-hacer tierra giratoria al inicio de la página
