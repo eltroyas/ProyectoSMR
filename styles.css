@@ -1,11 +1,14 @@
 /* base */
 html {
   scroll-behavior: smooth;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 .inicio-contenido-div {
   color: rgba(245, 245, 245, 0.85);
   font-family: "Space Grotesk", sans-serif;
 }
+
 /* contacto2 */
 
 /* --- SECCIÓN CONTACTO ADAPTADA --- */
@@ -311,15 +314,26 @@ p {
   width: 100%;
   z-index: 1000;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 5%;
-  background: rgba(17, 17, 17, 0.8); /* Fondo semi-transparente */
-  backdrop-filter: blur(10px);       /* Efecto cristal */
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  justify-content: center; /* Cambiado: centra el contenido interno */
+  padding: 0;             /* Eliminamos el padding lateral de aquí */
+  
   box-sizing: border-box;
 }
 
+/* Añade este nuevo selector para envolver el contenido */
+.nav-container {
+  width: 100%;
+  max-width: 1100px;    /* El ancho máximo que desees */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 5%;     /* El padding que tenías antes */
+  background: rgba(17, 17, 17, 0.8);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50px;
+  margin-top: 10px;
+}
 .nav-logo img {
   height: 40px;
   display: block;
@@ -361,15 +375,16 @@ p {
 /* --- ESTILOS DEL FOOTER --- */
 .main-footer {
   background: #0a0a0a;
-  padding: 80px 5% 40px;
+  padding: 80px 5% 5px;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 50px;
+  margin-bottom: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer-grid {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
-  gap: 4rem;
-  margin-bottom: 60px;
 }
 
 .footer-col h3, .footer-col h4 {
@@ -407,12 +422,11 @@ p {
 }
 .footer-bottom {
   text-align: center;
-  padding-top: 40px;
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
-  font-size: 0.8rem;
   opacity: 0.4;
 }
-
+.footer-bottom p {
+  font-size: 20px;
+}
 /* Ajuste para que el primer header no choque con el menú */
 .hero-section {
   padding-top: 80px;
