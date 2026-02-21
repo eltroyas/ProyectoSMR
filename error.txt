@@ -1,0 +1,3176 @@
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 1 and 10 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+	modified:   aprender_mas.html
+	modified:   aviso_legal.html
+	new file:   chatia/.env
+	renamed:    netlify/functions/chat.js -> chatia/antiguo/chat.js
+	new file:   chatia/antiguo/script.js
+	renamed:    contenido.json -> chatia/contenido.json
+	new file:   chatia/insltalacion dependencias.txt
+	new file:   chatia/node_modules/.package-lock.json
+	new file:   chatia/node_modules/accepts/HISTORY.md
+	new file:   chatia/node_modules/accepts/LICENSE
+	new file:   chatia/node_modules/accepts/README.md
+	new file:   chatia/node_modules/accepts/index.js
+	new file:   chatia/node_modules/accepts/package.json
+	new file:   chatia/node_modules/body-parser/LICENSE
+	new file:   chatia/node_modules/body-parser/README.md
+	new file:   chatia/node_modules/body-parser/index.js
+	new file:   chatia/node_modules/body-parser/lib/read.js
+	new file:   chatia/node_modules/body-parser/lib/types/json.js
+	new file:   chatia/node_modules/body-parser/lib/types/raw.js
+	new file:   chatia/node_modules/body-parser/lib/types/text.js
+	new file:   chatia/node_modules/body-parser/lib/types/urlencoded.js
+	new file:   chatia/node_modules/body-parser/lib/utils.js
+	new file:   chatia/node_modules/body-parser/package.json
+	new file:   chatia/node_modules/bytes/History.md
+	new file:   chatia/node_modules/bytes/LICENSE
+	new file:   chatia/node_modules/bytes/Readme.md
+	new file:   chatia/node_modules/bytes/index.js
+	new file:   chatia/node_modules/bytes/package.json
+	new file:   chatia/node_modules/call-bind-apply-helpers/.eslintrc
+	new file:   chatia/node_modules/call-bind-apply-helpers/.github/FUNDING.yml
+	new file:   chatia/node_modules/call-bind-apply-helpers/.nycrc
+	new file:   chatia/node_modules/call-bind-apply-helpers/CHANGELOG.md
+	new file:   chatia/node_modules/call-bind-apply-helpers/LICENSE
+	new file:   chatia/node_modules/call-bind-apply-helpers/README.md
+	new file:   chatia/node_modules/call-bind-apply-helpers/actualApply.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/actualApply.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/applyBind.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/applyBind.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/functionApply.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/functionApply.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/functionCall.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/functionCall.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/index.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/index.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/package.json
+	new file:   chatia/node_modules/call-bind-apply-helpers/reflectApply.d.ts
+	new file:   chatia/node_modules/call-bind-apply-helpers/reflectApply.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/test/index.js
+	new file:   chatia/node_modules/call-bind-apply-helpers/tsconfig.json
+	new file:   chatia/node_modules/call-bound/.eslintrc
+	new file:   chatia/node_modules/call-bound/.github/FUNDING.yml
+	new file:   chatia/node_modules/call-bound/.nycrc
+	new file:   chatia/node_modules/call-bound/CHANGELOG.md
+	new file:   chatia/node_modules/call-bound/LICENSE
+	new file:   chatia/node_modules/call-bound/README.md
+	new file:   chatia/node_modules/call-bound/index.d.ts
+	new file:   chatia/node_modules/call-bound/index.js
+	new file:   chatia/node_modules/call-bound/package.json
+	new file:   chatia/node_modules/call-bound/test/index.js
+	new file:   chatia/node_modules/call-bound/tsconfig.json
+	new file:   chatia/node_modules/content-disposition/HISTORY.md
+	new file:   chatia/node_modules/content-disposition/LICENSE
+	new file:   chatia/node_modules/content-disposition/README.md
+	new file:   chatia/node_modules/content-disposition/index.js
+	new file:   chatia/node_modules/content-disposition/package.json
+	new file:   chatia/node_modules/content-type/HISTORY.md
+	new file:   chatia/node_modules/content-type/LICENSE
+	new file:   chatia/node_modules/content-type/README.md
+	new file:   chatia/node_modules/content-type/index.js
+	new file:   chatia/node_modules/content-type/package.json
+	new file:   chatia/node_modules/cookie-signature/History.md
+	new file:   chatia/node_modules/cookie-signature/LICENSE
+	new file:   chatia/node_modules/cookie-signature/Readme.md
+	new file:   chatia/node_modules/cookie-signature/index.js
+	new file:   chatia/node_modules/cookie-signature/package.json
+	new file:   chatia/node_modules/cookie/LICENSE
+	new file:   chatia/node_modules/cookie/README.md
+	new file:   chatia/node_modules/cookie/SECURITY.md
+	new file:   chatia/node_modules/cookie/index.js
+	new file:   chatia/node_modules/cookie/package.json
+	new file:   chatia/node_modules/cors/LICENSE
+	new file:   chatia/node_modules/cors/README.md
+	new file:   chatia/node_modules/cors/lib/index.js
+	new file:   chatia/node_modules/cors/package.json
+	new file:   chatia/node_modules/data-uri-to-buffer/README.md
+	new file:   chatia/node_modules/data-uri-to-buffer/dist/index.d.ts
+	new file:   chatia/node_modules/data-uri-to-buffer/dist/index.js
+	new file:   chatia/node_modules/data-uri-to-buffer/dist/index.js.map
+	new file:   chatia/node_modules/data-uri-to-buffer/package.json
+	new file:   chatia/node_modules/data-uri-to-buffer/src/index.ts
+	new file:   chatia/node_modules/debug/LICENSE
+	new file:   chatia/node_modules/debug/README.md
+	new file:   chatia/node_modules/debug/package.json
+	new file:   chatia/node_modules/debug/src/browser.js
+	new file:   chatia/node_modules/debug/src/common.js
+	new file:   chatia/node_modules/debug/src/index.js
+	new file:   chatia/node_modules/debug/src/node.js
+	new file:   chatia/node_modules/depd/History.md
+	new file:   chatia/node_modules/depd/LICENSE
+	new file:   chatia/node_modules/depd/Readme.md
+	new file:   chatia/node_modules/depd/index.js
+	new file:   chatia/node_modules/depd/lib/browser/index.js
+	new file:   chatia/node_modules/depd/package.json
+	new file:   chatia/node_modules/dotenv/CHANGELOG.md
+	new file:   chatia/node_modules/dotenv/LICENSE
+	new file:   chatia/node_modules/dotenv/README-es.md
+	new file:   chatia/node_modules/dotenv/README.md
+	new file:   chatia/node_modules/dotenv/SECURITY.md
+	renamed:    node_modules/parse5/dist/tree-adapters/interface.js -> chatia/node_modules/dotenv/config.d.ts
+	new file:   chatia/node_modules/dotenv/config.js
+	new file:   chatia/node_modules/dotenv/lib/cli-options.js
+	new file:   chatia/node_modules/dotenv/lib/env-options.js
+	new file:   chatia/node_modules/dotenv/lib/main.d.ts
+	new file:   chatia/node_modules/dotenv/lib/main.js
+	new file:   chatia/node_modules/dotenv/package.json
+	new file:   chatia/node_modules/dunder-proto/.eslintrc
+	new file:   chatia/node_modules/dunder-proto/.github/FUNDING.yml
+	new file:   chatia/node_modules/dunder-proto/.nycrc
+	new file:   chatia/node_modules/dunder-proto/CHANGELOG.md
+	new file:   chatia/node_modules/dunder-proto/LICENSE
+	new file:   chatia/node_modules/dunder-proto/README.md
+	new file:   chatia/node_modules/dunder-proto/get.d.ts
+	new file:   chatia/node_modules/dunder-proto/get.js
+	new file:   chatia/node_modules/dunder-proto/package.json
+	new file:   chatia/node_modules/dunder-proto/set.d.ts
+	new file:   chatia/node_modules/dunder-proto/set.js
+	new file:   chatia/node_modules/dunder-proto/test/get.js
+	new file:   chatia/node_modules/dunder-proto/test/index.js
+	new file:   chatia/node_modules/dunder-proto/test/set.js
+	new file:   chatia/node_modules/dunder-proto/tsconfig.json
+	new file:   chatia/node_modules/ee-first/LICENSE
+	new file:   chatia/node_modules/ee-first/README.md
+	new file:   chatia/node_modules/ee-first/index.js
+	new file:   chatia/node_modules/ee-first/package.json
+	new file:   chatia/node_modules/encodeurl/LICENSE
+	new file:   chatia/node_modules/encodeurl/README.md
+	new file:   chatia/node_modules/encodeurl/index.js
+	new file:   chatia/node_modules/encodeurl/package.json
+	new file:   chatia/node_modules/es-define-property/.eslintrc
+	new file:   chatia/node_modules/es-define-property/.github/FUNDING.yml
+	new file:   chatia/node_modules/es-define-property/.nycrc
+	new file:   chatia/node_modules/es-define-property/CHANGELOG.md
+	new file:   chatia/node_modules/es-define-property/LICENSE
+	new file:   chatia/node_modules/es-define-property/README.md
+	new file:   chatia/node_modules/es-define-property/index.d.ts
+	new file:   chatia/node_modules/es-define-property/index.js
+	new file:   chatia/node_modules/es-define-property/package.json
+	new file:   chatia/node_modules/es-define-property/test/index.js
+	new file:   chatia/node_modules/es-define-property/tsconfig.json
+	new file:   chatia/node_modules/es-errors/.eslintrc
+	new file:   chatia/node_modules/es-errors/.github/FUNDING.yml
+	new file:   chatia/node_modules/es-errors/CHANGELOG.md
+	new file:   chatia/node_modules/es-errors/LICENSE
+	new file:   chatia/node_modules/es-errors/README.md
+	new file:   chatia/node_modules/es-errors/eval.d.ts
+	new file:   chatia/node_modules/es-errors/eval.js
+	new file:   chatia/node_modules/es-errors/index.d.ts
+	new file:   chatia/node_modules/es-errors/index.js
+	new file:   chatia/node_modules/es-errors/package.json
+	new file:   chatia/node_modules/es-errors/range.d.ts
+	new file:   chatia/node_modules/es-errors/range.js
+	new file:   chatia/node_modules/es-errors/ref.d.ts
+	new file:   chatia/node_modules/es-errors/ref.js
+	new file:   chatia/node_modules/es-errors/syntax.d.ts
+	new file:   chatia/node_modules/es-errors/syntax.js
+	new file:   chatia/node_modules/es-errors/test/index.js
+	new file:   chatia/node_modules/es-errors/tsconfig.json
+	new file:   chatia/node_modules/es-errors/type.d.ts
+	new file:   chatia/node_modules/es-errors/type.js
+	new file:   chatia/node_modules/es-errors/uri.d.ts
+	new file:   chatia/node_modules/es-errors/uri.js
+	new file:   chatia/node_modules/es-object-atoms/.eslintrc
+	new file:   chatia/node_modules/es-object-atoms/.github/FUNDING.yml
+	new file:   chatia/node_modules/es-object-atoms/CHANGELOG.md
+	new file:   chatia/node_modules/es-object-atoms/LICENSE
+	new file:   chatia/node_modules/es-object-atoms/README.md
+	new file:   chatia/node_modules/es-object-atoms/RequireObjectCoercible.d.ts
+	new file:   chatia/node_modules/es-object-atoms/RequireObjectCoercible.js
+	new file:   chatia/node_modules/es-object-atoms/ToObject.d.ts
+	new file:   chatia/node_modules/es-object-atoms/ToObject.js
+	new file:   chatia/node_modules/es-object-atoms/index.d.ts
+	new file:   chatia/node_modules/es-object-atoms/index.js
+	new file:   chatia/node_modules/es-object-atoms/isObject.d.ts
+	new file:   chatia/node_modules/es-object-atoms/isObject.js
+	new file:   chatia/node_modules/es-object-atoms/package.json
+	new file:   chatia/node_modules/es-object-atoms/test/index.js
+	new file:   chatia/node_modules/es-object-atoms/tsconfig.json
+	new file:   chatia/node_modules/escape-html/LICENSE
+	new file:   chatia/node_modules/escape-html/Readme.md
+	new file:   chatia/node_modules/escape-html/index.js
+	new file:   chatia/node_modules/escape-html/package.json
+	new file:   chatia/node_modules/etag/HISTORY.md
+	new file:   chatia/node_modules/etag/LICENSE
+	new file:   chatia/node_modules/etag/README.md
+	new file:   chatia/node_modules/etag/index.js
+	new file:   chatia/node_modules/etag/package.json
+	new file:   chatia/node_modules/express/LICENSE
+	new file:   chatia/node_modules/express/Readme.md
+	new file:   chatia/node_modules/express/index.js
+	new file:   chatia/node_modules/express/lib/application.js
+	new file:   chatia/node_modules/express/lib/express.js
+	new file:   chatia/node_modules/express/lib/request.js
+	new file:   chatia/node_modules/express/lib/response.js
+	new file:   chatia/node_modules/express/lib/utils.js
+	new file:   chatia/node_modules/express/lib/view.js
+	new file:   chatia/node_modules/express/package.json
+	new file:   chatia/node_modules/fetch-blob/LICENSE
+	new file:   chatia/node_modules/fetch-blob/README.md
+	new file:   chatia/node_modules/fetch-blob/file.d.ts
+	new file:   chatia/node_modules/fetch-blob/file.js
+	new file:   chatia/node_modules/fetch-blob/from.d.ts
+	new file:   chatia/node_modules/fetch-blob/from.js
+	new file:   chatia/node_modules/fetch-blob/index.d.ts
+	new file:   chatia/node_modules/fetch-blob/index.js
+	new file:   chatia/node_modules/fetch-blob/package.json
+	new file:   chatia/node_modules/fetch-blob/streams.cjs
+	new file:   chatia/node_modules/finalhandler/HISTORY.md
+	new file:   chatia/node_modules/finalhandler/LICENSE
+	new file:   chatia/node_modules/finalhandler/README.md
+	new file:   chatia/node_modules/finalhandler/index.js
+	new file:   chatia/node_modules/finalhandler/package.json
+	new file:   chatia/node_modules/formdata-polyfill/FormData.js
+	new file:   chatia/node_modules/formdata-polyfill/LICENSE
+	new file:   chatia/node_modules/formdata-polyfill/README.md
+	new file:   chatia/node_modules/formdata-polyfill/esm.min.d.ts
+	new file:   chatia/node_modules/formdata-polyfill/esm.min.js
+	new file:   chatia/node_modules/formdata-polyfill/formdata-to-blob.js
+	new file:   chatia/node_modules/formdata-polyfill/formdata.min.js
+	new file:   chatia/node_modules/formdata-polyfill/package.json
+	new file:   chatia/node_modules/forwarded/HISTORY.md
+	new file:   chatia/node_modules/forwarded/LICENSE
+	new file:   chatia/node_modules/forwarded/README.md
+	new file:   chatia/node_modules/forwarded/index.js
+	new file:   chatia/node_modules/forwarded/package.json
+	new file:   chatia/node_modules/fresh/HISTORY.md
+	new file:   chatia/node_modules/fresh/LICENSE
+	new file:   chatia/node_modules/fresh/README.md
+	new file:   chatia/node_modules/fresh/index.js
+	new file:   chatia/node_modules/fresh/package.json
+	new file:   chatia/node_modules/function-bind/.eslintrc
+	new file:   chatia/node_modules/function-bind/.github/FUNDING.yml
+	new file:   chatia/node_modules/function-bind/.github/SECURITY.md
+	new file:   chatia/node_modules/function-bind/.nycrc
+	new file:   chatia/node_modules/function-bind/CHANGELOG.md
+	new file:   chatia/node_modules/function-bind/LICENSE
+	new file:   chatia/node_modules/function-bind/README.md
+	new file:   chatia/node_modules/function-bind/implementation.js
+	new file:   chatia/node_modules/function-bind/index.js
+	new file:   chatia/node_modules/function-bind/package.json
+	new file:   chatia/node_modules/function-bind/test/.eslintrc
+	new file:   chatia/node_modules/function-bind/test/index.js
+	new file:   chatia/node_modules/get-intrinsic/.eslintrc
+	new file:   chatia/node_modules/get-intrinsic/.github/FUNDING.yml
+	new file:   chatia/node_modules/get-intrinsic/.nycrc
+	new file:   chatia/node_modules/get-intrinsic/CHANGELOG.md
+	new file:   chatia/node_modules/get-intrinsic/LICENSE
+	new file:   chatia/node_modules/get-intrinsic/README.md
+	new file:   chatia/node_modules/get-intrinsic/index.js
+	new file:   chatia/node_modules/get-intrinsic/package.json
+	new file:   chatia/node_modules/get-intrinsic/test/GetIntrinsic.js
+	new file:   chatia/node_modules/get-proto/.eslintrc
+	new file:   chatia/node_modules/get-proto/.github/FUNDING.yml
+	new file:   chatia/node_modules/get-proto/.nycrc
+	new file:   chatia/node_modules/get-proto/CHANGELOG.md
+	new file:   chatia/node_modules/get-proto/LICENSE
+	new file:   chatia/node_modules/get-proto/Object.getPrototypeOf.d.ts
+	new file:   chatia/node_modules/get-proto/Object.getPrototypeOf.js
+	new file:   chatia/node_modules/get-proto/README.md
+	new file:   chatia/node_modules/get-proto/Reflect.getPrototypeOf.d.ts
+	new file:   chatia/node_modules/get-proto/Reflect.getPrototypeOf.js
+	new file:   chatia/node_modules/get-proto/index.d.ts
+	new file:   chatia/node_modules/get-proto/index.js
+	new file:   chatia/node_modules/get-proto/package.json
+	new file:   chatia/node_modules/get-proto/test/index.js
+	new file:   chatia/node_modules/get-proto/tsconfig.json
+	new file:   chatia/node_modules/gopd/.eslintrc
+	new file:   chatia/node_modules/gopd/.github/FUNDING.yml
+	new file:   chatia/node_modules/gopd/CHANGELOG.md
+	new file:   chatia/node_modules/gopd/LICENSE
+	new file:   chatia/node_modules/gopd/README.md
+	new file:   chatia/node_modules/gopd/gOPD.d.ts
+	new file:   chatia/node_modules/gopd/gOPD.js
+	new file:   chatia/node_modules/gopd/index.d.ts
+	new file:   chatia/node_modules/gopd/index.js
+	new file:   chatia/node_modules/gopd/package.json
+	new file:   chatia/node_modules/gopd/test/index.js
+	new file:   chatia/node_modules/gopd/tsconfig.json
+	new file:   chatia/node_modules/has-symbols/.eslintrc
+	new file:   chatia/node_modules/has-symbols/.github/FUNDING.yml
+	new file:   chatia/node_modules/has-symbols/.nycrc
+	new file:   chatia/node_modules/has-symbols/CHANGELOG.md
+	new file:   chatia/node_modules/has-symbols/LICENSE
+	new file:   chatia/node_modules/has-symbols/README.md
+	new file:   chatia/node_modules/has-symbols/index.d.ts
+	new file:   chatia/node_modules/has-symbols/index.js
+	new file:   chatia/node_modules/has-symbols/package.json
+	new file:   chatia/node_modules/has-symbols/shams.d.ts
+	new file:   chatia/node_modules/has-symbols/shams.js
+	new file:   chatia/node_modules/has-symbols/test/index.js
+	new file:   chatia/node_modules/has-symbols/test/shams/core-js.js
+	new file:   chatia/node_modules/has-symbols/test/shams/get-own-property-symbols.js
+	new file:   chatia/node_modules/has-symbols/test/tests.js
+	new file:   chatia/node_modules/has-symbols/tsconfig.json
+	new file:   chatia/node_modules/hasown/.eslintrc
+	new file:   chatia/node_modules/hasown/.github/FUNDING.yml
+	new file:   chatia/node_modules/hasown/.nycrc
+	new file:   chatia/node_modules/hasown/CHANGELOG.md
+	new file:   chatia/node_modules/hasown/LICENSE
+	new file:   chatia/node_modules/hasown/README.md
+	new file:   chatia/node_modules/hasown/index.d.ts
+	new file:   chatia/node_modules/hasown/index.js
+	new file:   chatia/node_modules/hasown/package.json
+	new file:   chatia/node_modules/hasown/tsconfig.json
+	new file:   chatia/node_modules/http-errors/HISTORY.md
+	new file:   chatia/node_modules/http-errors/LICENSE
+	new file:   chatia/node_modules/http-errors/README.md
+	new file:   chatia/node_modules/http-errors/index.js
+	new file:   chatia/node_modules/http-errors/package.json
+	new file:   chatia/node_modules/iconv-lite/LICENSE
+	new file:   chatia/node_modules/iconv-lite/README.md
+	new file:   chatia/node_modules/iconv-lite/encodings/dbcs-codec.js
+	new file:   chatia/node_modules/iconv-lite/encodings/dbcs-data.js
+	new file:   chatia/node_modules/iconv-lite/encodings/index.js
+	new file:   chatia/node_modules/iconv-lite/encodings/internal.js
+	new file:   chatia/node_modules/iconv-lite/encodings/sbcs-codec.js
+	new file:   chatia/node_modules/iconv-lite/encodings/sbcs-data-generated.js
+	new file:   chatia/node_modules/iconv-lite/encodings/sbcs-data.js
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/big5-added.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/cp936.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/cp949.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/cp950.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/eucjp.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/gbk-added.json
+	new file:   chatia/node_modules/iconv-lite/encodings/tables/shiftjis.json
+	new file:   chatia/node_modules/iconv-lite/encodings/utf16.js
+	new file:   chatia/node_modules/iconv-lite/encodings/utf32.js
+	new file:   chatia/node_modules/iconv-lite/encodings/utf7.js
+	new file:   chatia/node_modules/iconv-lite/lib/bom-handling.js
+	new file:   chatia/node_modules/iconv-lite/lib/helpers/merge-exports.js
+	new file:   chatia/node_modules/iconv-lite/lib/index.d.ts
+	new file:   chatia/node_modules/iconv-lite/lib/index.js
+	new file:   chatia/node_modules/iconv-lite/lib/streams.js
+	new file:   chatia/node_modules/iconv-lite/package.json
+	new file:   chatia/node_modules/iconv-lite/types/encodings.d.ts
+	new file:   chatia/node_modules/inherits/LICENSE
+	new file:   chatia/node_modules/inherits/README.md
+	new file:   chatia/node_modules/inherits/inherits.js
+	new file:   chatia/node_modules/inherits/inherits_browser.js
+	new file:   chatia/node_modules/inherits/package.json
+	new file:   chatia/node_modules/ipaddr.js/LICENSE
+	new file:   chatia/node_modules/ipaddr.js/README.md
+	new file:   chatia/node_modules/ipaddr.js/ipaddr.min.js
+	new file:   chatia/node_modules/ipaddr.js/lib/ipaddr.js
+	new file:   chatia/node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+	new file:   chatia/node_modules/ipaddr.js/package.json
+	new file:   chatia/node_modules/is-promise/LICENSE
+	new file:   chatia/node_modules/is-promise/index.d.ts
+	new file:   chatia/node_modules/is-promise/index.js
+	new file:   chatia/node_modules/is-promise/index.mjs
+	new file:   chatia/node_modules/is-promise/package.json
+	new file:   chatia/node_modules/is-promise/readme.md
+	new file:   chatia/node_modules/math-intrinsics/.eslintrc
+	new file:   chatia/node_modules/math-intrinsics/.github/FUNDING.yml
+	new file:   chatia/node_modules/math-intrinsics/CHANGELOG.md
+	new file:   chatia/node_modules/math-intrinsics/LICENSE
+	new file:   chatia/node_modules/math-intrinsics/README.md
+	new file:   chatia/node_modules/math-intrinsics/abs.d.ts
+	new file:   chatia/node_modules/math-intrinsics/abs.js
+	new file:   chatia/node_modules/math-intrinsics/constants/maxArrayLength.d.ts
+	new file:   chatia/node_modules/math-intrinsics/constants/maxArrayLength.js
+	new file:   chatia/node_modules/math-intrinsics/constants/maxSafeInteger.d.ts
+	new file:   chatia/node_modules/math-intrinsics/constants/maxSafeInteger.js
+	new file:   chatia/node_modules/math-intrinsics/constants/maxValue.d.ts
+	new file:   chatia/node_modules/math-intrinsics/constants/maxValue.js
+	new file:   chatia/node_modules/math-intrinsics/floor.d.ts
+	new file:   chatia/node_modules/math-intrinsics/floor.js
+	new file:   chatia/node_modules/math-intrinsics/isFinite.d.ts
+	new file:   chatia/node_modules/math-intrinsics/isFinite.js
+	new file:   chatia/node_modules/math-intrinsics/isInteger.d.ts
+	new file:   chatia/node_modules/math-intrinsics/isInteger.js
+	new file:   chatia/node_modules/math-intrinsics/isNaN.d.ts
+	new file:   chatia/node_modules/math-intrinsics/isNaN.js
+	new file:   chatia/node_modules/math-intrinsics/isNegativeZero.d.ts
+	new file:   chatia/node_modules/math-intrinsics/isNegativeZero.js
+	new file:   chatia/node_modules/math-intrinsics/max.d.ts
+	new file:   chatia/node_modules/math-intrinsics/max.js
+	new file:   chatia/node_modules/math-intrinsics/min.d.ts
+	new file:   chatia/node_modules/math-intrinsics/min.js
+	new file:   chatia/node_modules/math-intrinsics/mod.d.ts
+	new file:   chatia/node_modules/math-intrinsics/mod.js
+	new file:   chatia/node_modules/math-intrinsics/package.json
+	new file:   chatia/node_modules/math-intrinsics/pow.d.ts
+	new file:   chatia/node_modules/math-intrinsics/pow.js
+	new file:   chatia/node_modules/math-intrinsics/round.d.ts
+	new file:   chatia/node_modules/math-intrinsics/round.js
+	new file:   chatia/node_modules/math-intrinsics/sign.d.ts
+	new file:   chatia/node_modules/math-intrinsics/sign.js
+	new file:   chatia/node_modules/math-intrinsics/test/index.js
+	new file:   chatia/node_modules/math-intrinsics/tsconfig.json
+	new file:   chatia/node_modules/media-typer/HISTORY.md
+	new file:   chatia/node_modules/media-typer/LICENSE
+	new file:   chatia/node_modules/media-typer/README.md
+	new file:   chatia/node_modules/media-typer/index.js
+	new file:   chatia/node_modules/media-typer/package.json
+	new file:   chatia/node_modules/merge-descriptors/index.d.ts
+	new file:   chatia/node_modules/merge-descriptors/index.js
+	new file:   chatia/node_modules/merge-descriptors/license
+	new file:   chatia/node_modules/merge-descriptors/package.json
+	new file:   chatia/node_modules/merge-descriptors/readme.md
+	new file:   chatia/node_modules/mime-db/HISTORY.md
+	new file:   chatia/node_modules/mime-db/LICENSE
+	new file:   chatia/node_modules/mime-db/README.md
+	new file:   chatia/node_modules/mime-db/db.json
+	new file:   chatia/node_modules/mime-db/index.js
+	new file:   chatia/node_modules/mime-db/package.json
+	new file:   chatia/node_modules/mime-types/HISTORY.md
+	new file:   chatia/node_modules/mime-types/LICENSE
+	new file:   chatia/node_modules/mime-types/README.md
+	new file:   chatia/node_modules/mime-types/index.js
+	new file:   chatia/node_modules/mime-types/mimeScore.js
+	new file:   chatia/node_modules/mime-types/package.json
+	new file:   chatia/node_modules/ms/index.js
+	new file:   chatia/node_modules/ms/license.md
+	new file:   chatia/node_modules/ms/package.json
+	new file:   chatia/node_modules/ms/readme.md
+	new file:   chatia/node_modules/negotiator/HISTORY.md
+	new file:   chatia/node_modules/negotiator/LICENSE
+	new file:   chatia/node_modules/negotiator/README.md
+	new file:   chatia/node_modules/negotiator/index.js
+	new file:   chatia/node_modules/negotiator/lib/charset.js
+	new file:   chatia/node_modules/negotiator/lib/encoding.js
+	new file:   chatia/node_modules/negotiator/lib/language.js
+	new file:   chatia/node_modules/negotiator/lib/mediaType.js
+	new file:   chatia/node_modules/negotiator/package.json
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527203617.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527212714.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527213345.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527213411.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527213803.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527214323.md
+	new file:   chatia/node_modules/node-domexception/.history/README_20210527214408.md
+	renamed:    parse-h5p.js -> chatia/node_modules/node-domexception/.history/index_20210527203842.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527203947.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527204259.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527204418.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527204756.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527204833.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527211208.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527211248.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527212722.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527212731.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527212746.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527212900.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527213022.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527213822.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527213843.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527213852.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527213910.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527214034.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527214643.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527214654.js
+	new file:   chatia/node_modules/node-domexception/.history/index_20210527214700.js
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527203733.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527203825.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527204621.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527204913.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527204925.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527205145.json
+	new file:   chatia/node_modules/node-domexception/.history/package_20210527205156.json
+	new file:   chatia/node_modules/node-domexception/.history/test_20210527205603.js
+	new file:   chatia/node_modules/node-domexception/.history/test_20210527205957.js
+	new file:   chatia/node_modules/node-domexception/.history/test_20210527210021.js
+	new file:   chatia/node_modules/node-domexception/LICENSE
+	new file:   chatia/node_modules/node-domexception/README.md
+	new file:   chatia/node_modules/node-domexception/index.js
+	new file:   chatia/node_modules/node-domexception/package.json
+	new file:   chatia/node_modules/node-fetch/@types/index.d.ts
+	new file:   chatia/node_modules/node-fetch/LICENSE.md
+	new file:   chatia/node_modules/node-fetch/README.md
+	new file:   chatia/node_modules/node-fetch/package.json
+	new file:   chatia/node_modules/node-fetch/src/body.js
+	new file:   chatia/node_modules/node-fetch/src/errors/abort-error.js
+	new file:   chatia/node_modules/node-fetch/src/errors/base.js
+	new file:   chatia/node_modules/node-fetch/src/errors/fetch-error.js
+	new file:   chatia/node_modules/node-fetch/src/headers.js
+	new file:   chatia/node_modules/node-fetch/src/index.js
+	new file:   chatia/node_modules/node-fetch/src/request.js
+	new file:   chatia/node_modules/node-fetch/src/response.js
+	new file:   chatia/node_modules/node-fetch/src/utils/get-search.js
+	new file:   chatia/node_modules/node-fetch/src/utils/is-redirect.js
+	new file:   chatia/node_modules/node-fetch/src/utils/is.js
+	new file:   chatia/node_modules/node-fetch/src/utils/multipart-parser.js
+	new file:   chatia/node_modules/node-fetch/src/utils/referrer.js
+	new file:   chatia/node_modules/object-assign/index.js
+	new file:   chatia/node_modules/object-assign/license
+	new file:   chatia/node_modules/object-assign/package.json
+	new file:   chatia/node_modules/object-assign/readme.md
+	new file:   chatia/node_modules/object-inspect/.eslintrc
+	new file:   chatia/node_modules/object-inspect/.github/FUNDING.yml
+	new file:   chatia/node_modules/object-inspect/.nycrc
+	new file:   chatia/node_modules/object-inspect/CHANGELOG.md
+	new file:   chatia/node_modules/object-inspect/LICENSE
+	new file:   chatia/node_modules/object-inspect/example/all.js
+	new file:   chatia/node_modules/object-inspect/example/circular.js
+	new file:   chatia/node_modules/object-inspect/example/fn.js
+	new file:   chatia/node_modules/object-inspect/example/inspect.js
+	new file:   chatia/node_modules/object-inspect/index.js
+	new file:   chatia/node_modules/object-inspect/package-support.json
+	new file:   chatia/node_modules/object-inspect/package.json
+	new file:   chatia/node_modules/object-inspect/readme.markdown
+	new file:   chatia/node_modules/object-inspect/test-core-js.js
+	new file:   chatia/node_modules/object-inspect/test/bigint.js
+	new file:   chatia/node_modules/object-inspect/test/browser/dom.js
+	new file:   chatia/node_modules/object-inspect/test/circular.js
+	new file:   chatia/node_modules/object-inspect/test/deep.js
+	new file:   chatia/node_modules/object-inspect/test/element.js
+	new file:   chatia/node_modules/object-inspect/test/err.js
+	new file:   chatia/node_modules/object-inspect/test/fakes.js
+	new file:   chatia/node_modules/object-inspect/test/fn.js
+	new file:   chatia/node_modules/object-inspect/test/global.js
+	new file:   chatia/node_modules/object-inspect/test/has.js
+	new file:   chatia/node_modules/object-inspect/test/holes.js
+	new file:   chatia/node_modules/object-inspect/test/indent-option.js
+	new file:   chatia/node_modules/object-inspect/test/inspect.js
+	new file:   chatia/node_modules/object-inspect/test/lowbyte.js
+	new file:   chatia/node_modules/object-inspect/test/number.js
+	new file:   chatia/node_modules/object-inspect/test/quoteStyle.js
+	new file:   chatia/node_modules/object-inspect/test/toStringTag.js
+	new file:   chatia/node_modules/object-inspect/test/undef.js
+	new file:   chatia/node_modules/object-inspect/test/values.js
+	new file:   chatia/node_modules/object-inspect/util.inspect.js
+	new file:   chatia/node_modules/on-finished/HISTORY.md
+	new file:   chatia/node_modules/on-finished/LICENSE
+	new file:   chatia/node_modules/on-finished/README.md
+	new file:   chatia/node_modules/on-finished/index.js
+	new file:   chatia/node_modules/on-finished/package.json
+	new file:   chatia/node_modules/once/LICENSE
+	new file:   chatia/node_modules/once/README.md
+	new file:   chatia/node_modules/once/once.js
+	new file:   chatia/node_modules/once/package.json
+	new file:   chatia/node_modules/parseurl/HISTORY.md
+	new file:   chatia/node_modules/parseurl/LICENSE
+	new file:   chatia/node_modules/parseurl/README.md
+	new file:   chatia/node_modules/parseurl/index.js
+	new file:   chatia/node_modules/parseurl/package.json
+	new file:   chatia/node_modules/path-to-regexp/LICENSE
+	new file:   chatia/node_modules/path-to-regexp/Readme.md
+	new file:   chatia/node_modules/path-to-regexp/dist/index.d.ts
+	new file:   chatia/node_modules/path-to-regexp/dist/index.js
+	new file:   chatia/node_modules/path-to-regexp/dist/index.js.map
+	new file:   chatia/node_modules/path-to-regexp/package.json
+	new file:   chatia/node_modules/proxy-addr/HISTORY.md
+	new file:   chatia/node_modules/proxy-addr/LICENSE
+	new file:   chatia/node_modules/proxy-addr/README.md
+	new file:   chatia/node_modules/proxy-addr/index.js
+	new file:   chatia/node_modules/proxy-addr/package.json
+	new file:   chatia/node_modules/qs/.editorconfig
+	new file:   chatia/node_modules/qs/.github/FUNDING.yml
+	new file:   chatia/node_modules/qs/.github/SECURITY.md
+	new file:   chatia/node_modules/qs/.github/THREAT_MODEL.md
+	new file:   chatia/node_modules/qs/.nycrc
+	new file:   chatia/node_modules/qs/CHANGELOG.md
+	new file:   chatia/node_modules/qs/LICENSE.md
+	new file:   chatia/node_modules/qs/README.md
+	new file:   chatia/node_modules/qs/dist/qs.js
+	new file:   chatia/node_modules/qs/eslint.config.mjs
+	new file:   chatia/node_modules/qs/lib/formats.js
+	new file:   chatia/node_modules/qs/lib/index.js
+	new file:   chatia/node_modules/qs/lib/parse.js
+	new file:   chatia/node_modules/qs/lib/stringify.js
+	new file:   chatia/node_modules/qs/lib/utils.js
+	new file:   chatia/node_modules/qs/package.json
+	new file:   chatia/node_modules/qs/test/empty-keys-cases.js
+	new file:   chatia/node_modules/qs/test/parse.js
+	new file:   chatia/node_modules/qs/test/stringify.js
+	new file:   chatia/node_modules/qs/test/utils.js
+	new file:   chatia/node_modules/range-parser/HISTORY.md
+	new file:   chatia/node_modules/range-parser/LICENSE
+	new file:   chatia/node_modules/range-parser/README.md
+	new file:   chatia/node_modules/range-parser/index.js
+	new file:   chatia/node_modules/range-parser/package.json
+	new file:   chatia/node_modules/raw-body/LICENSE
+	new file:   chatia/node_modules/raw-body/README.md
+	new file:   chatia/node_modules/raw-body/index.d.ts
+	new file:   chatia/node_modules/raw-body/index.js
+	new file:   chatia/node_modules/raw-body/package.json
+	new file:   chatia/node_modules/router/HISTORY.md
+	new file:   chatia/node_modules/router/LICENSE
+	new file:   chatia/node_modules/router/README.md
+	new file:   chatia/node_modules/router/index.js
+	new file:   chatia/node_modules/router/lib/layer.js
+	new file:   chatia/node_modules/router/lib/route.js
+	new file:   chatia/node_modules/router/package.json
+	new file:   chatia/node_modules/safer-buffer/LICENSE
+	new file:   chatia/node_modules/safer-buffer/Porting-Buffer.md
+	new file:   chatia/node_modules/safer-buffer/Readme.md
+	new file:   chatia/node_modules/safer-buffer/dangerous.js
+	new file:   chatia/node_modules/safer-buffer/package.json
+	new file:   chatia/node_modules/safer-buffer/safer.js
+	new file:   chatia/node_modules/safer-buffer/tests.js
+	new file:   chatia/node_modules/send/LICENSE
+	new file:   chatia/node_modules/send/README.md
+	new file:   chatia/node_modules/send/index.js
+	new file:   chatia/node_modules/send/package.json
+	new file:   chatia/node_modules/serve-static/LICENSE
+	new file:   chatia/node_modules/serve-static/README.md
+	new file:   chatia/node_modules/serve-static/index.js
+	new file:   chatia/node_modules/serve-static/package.json
+	new file:   chatia/node_modules/setprototypeof/LICENSE
+	new file:   chatia/node_modules/setprototypeof/README.md
+	new file:   chatia/node_modules/setprototypeof/index.d.ts
+	new file:   chatia/node_modules/setprototypeof/index.js
+	new file:   chatia/node_modules/setprototypeof/package.json
+	new file:   chatia/node_modules/setprototypeof/test/index.js
+	new file:   chatia/node_modules/side-channel-list/.editorconfig
+	new file:   chatia/node_modules/side-channel-list/.eslintrc
+	new file:   chatia/node_modules/side-channel-list/.github/FUNDING.yml
+	new file:   chatia/node_modules/side-channel-list/.nycrc
+	new file:   chatia/node_modules/side-channel-list/CHANGELOG.md
+	new file:   chatia/node_modules/side-channel-list/LICENSE
+	new file:   chatia/node_modules/side-channel-list/README.md
+	new file:   chatia/node_modules/side-channel-list/index.d.ts
+	new file:   chatia/node_modules/side-channel-list/index.js
+	new file:   chatia/node_modules/side-channel-list/list.d.ts
+	new file:   chatia/node_modules/side-channel-list/package.json
+	new file:   chatia/node_modules/side-channel-list/test/index.js
+	new file:   chatia/node_modules/side-channel-list/tsconfig.json
+	new file:   chatia/node_modules/side-channel-map/.editorconfig
+	new file:   chatia/node_modules/side-channel-map/.eslintrc
+	new file:   chatia/node_modules/side-channel-map/.github/FUNDING.yml
+	new file:   chatia/node_modules/side-channel-map/.nycrc
+	new file:   chatia/node_modules/side-channel-map/CHANGELOG.md
+	new file:   chatia/node_modules/side-channel-map/LICENSE
+	new file:   chatia/node_modules/side-channel-map/README.md
+	new file:   chatia/node_modules/side-channel-map/index.d.ts
+	new file:   chatia/node_modules/side-channel-map/index.js
+	new file:   chatia/node_modules/side-channel-map/package.json
+	new file:   chatia/node_modules/side-channel-map/test/index.js
+	new file:   chatia/node_modules/side-channel-map/tsconfig.json
+	new file:   chatia/node_modules/side-channel-weakmap/.editorconfig
+	new file:   chatia/node_modules/side-channel-weakmap/.eslintrc
+	new file:   chatia/node_modules/side-channel-weakmap/.github/FUNDING.yml
+	new file:   chatia/node_modules/side-channel-weakmap/.nycrc
+	new file:   chatia/node_modules/side-channel-weakmap/CHANGELOG.md
+	new file:   chatia/node_modules/side-channel-weakmap/LICENSE
+	new file:   chatia/node_modules/side-channel-weakmap/README.md
+	new file:   chatia/node_modules/side-channel-weakmap/index.d.ts
+	new file:   chatia/node_modules/side-channel-weakmap/index.js
+	new file:   chatia/node_modules/side-channel-weakmap/package.json
+	new file:   chatia/node_modules/side-channel-weakmap/test/index.js
+	new file:   chatia/node_modules/side-channel-weakmap/tsconfig.json
+	new file:   chatia/node_modules/side-channel/.editorconfig
+	new file:   chatia/node_modules/side-channel/.eslintrc
+	new file:   chatia/node_modules/side-channel/.github/FUNDING.yml
+	new file:   chatia/node_modules/side-channel/.nycrc
+	new file:   chatia/node_modules/side-channel/CHANGELOG.md
+	new file:   chatia/node_modules/side-channel/LICENSE
+	new file:   chatia/node_modules/side-channel/README.md
+	new file:   chatia/node_modules/side-channel/index.d.ts
+	new file:   chatia/node_modules/side-channel/index.js
+	new file:   chatia/node_modules/side-channel/package.json
+	new file:   chatia/node_modules/side-channel/test/index.js
+	new file:   chatia/node_modules/side-channel/tsconfig.json
+	new file:   chatia/node_modules/statuses/HISTORY.md
+	new file:   chatia/node_modules/statuses/LICENSE
+	new file:   chatia/node_modules/statuses/README.md
+	new file:   chatia/node_modules/statuses/codes.json
+	new file:   chatia/node_modules/statuses/index.js
+	new file:   chatia/node_modules/statuses/package.json
+	new file:   chatia/node_modules/toidentifier/HISTORY.md
+	new file:   chatia/node_modules/toidentifier/LICENSE
+	new file:   chatia/node_modules/toidentifier/README.md
+	new file:   chatia/node_modules/toidentifier/index.js
+	new file:   chatia/node_modules/toidentifier/package.json
+	new file:   chatia/node_modules/type-is/HISTORY.md
+	new file:   chatia/node_modules/type-is/LICENSE
+	new file:   chatia/node_modules/type-is/README.md
+	new file:   chatia/node_modules/type-is/index.js
+	new file:   chatia/node_modules/type-is/package.json
+	new file:   chatia/node_modules/unpipe/HISTORY.md
+	new file:   chatia/node_modules/unpipe/LICENSE
+	new file:   chatia/node_modules/unpipe/README.md
+	new file:   chatia/node_modules/unpipe/index.js
+	new file:   chatia/node_modules/unpipe/package.json
+	new file:   chatia/node_modules/vary/HISTORY.md
+	new file:   chatia/node_modules/vary/LICENSE
+	new file:   chatia/node_modules/vary/README.md
+	new file:   chatia/node_modules/vary/index.js
+	new file:   chatia/node_modules/vary/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/LICENSE
+	new file:   chatia/node_modules/web-streams-polyfill/README.md
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.min.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.min.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es2018.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.min.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.min.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.es6.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.min.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.min.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/polyfill.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es2018.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es2018.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es6.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es6.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.js
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.js.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.mjs
+	new file:   chatia/node_modules/web-streams-polyfill/dist/ponyfill.mjs.map
+	new file:   chatia/node_modules/web-streams-polyfill/dist/types/polyfill.d.ts
+	new file:   chatia/node_modules/web-streams-polyfill/dist/types/ponyfill.d.ts
+	new file:   chatia/node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts
+	new file:   chatia/node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts
+	new file:   chatia/node_modules/web-streams-polyfill/dist/types/tsdoc-metadata.json
+	new file:   chatia/node_modules/web-streams-polyfill/es2018/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/es6/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/ponyfill/es2018/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/ponyfill/es6/package.json
+	new file:   chatia/node_modules/web-streams-polyfill/ponyfill/package.json
+	new file:   chatia/node_modules/wrappy/LICENSE
+	new file:   chatia/node_modules/wrappy/README.md
+	new file:   chatia/node_modules/wrappy/package.json
+	new file:   chatia/node_modules/wrappy/wrappy.js
+	new file:   chatia/package-lock.json
+	new file:   chatia/package.json
+	new file:   chatia/public/script.js
+	new file:   chatia/server.js
+	renamed:    token-nelify.txt -> chatia/token-nelify.txt
+	deleted:    contacto.html
+	modified:   curso/biotecnologia.html
+	modified:   curso/ciudades_ecologicas.html
+	modified:   curso/cuantica.html
+	modified:   curso/manipulacion_climatica.html
+	modified:   curso/styles.css
+	modified:   curso/viajes-curso..html
+	deleted:    fonts/Horizon-Font.zip
+	deleted:    fonts/Horizon-Font/Horizon-Font/.DS_Store
+	deleted:    fonts/Horizon-Font/Horizon-Font/Horizon.otf
+	deleted:    fonts/Horizon-Font/Horizon-Font/Horizon.woff2
+	deleted:    fonts/Horizon-Font/Horizon-Font/Horizon_Outlined.otf
+	deleted:    fonts/Horizon-Font/Horizon-Font/Horizon_Outlined.woff2
+	deleted:    fonts/Horizon-Font/__MACOSX/Horizon-Font/._.DS_Store
+	deleted:    fonts/Horizon-Font/__MACOSX/Horizon-Font/._Horizon.otf
+	deleted:    fonts/Horizon-Font/__MACOSX/Horizon-Font/._Horizon.woff2
+	deleted:    fonts/Horizon-Font/__MACOSX/Horizon-Font/._Horizon_Outlined.otf
+	deleted:    fonts/Horizon-Font/__MACOSX/Horizon-Font/._Horizon_Outlined.woff2
+	new file:   formacion_prox.html
+	deleted:    ideas.txt.txt
+	new file:   img/Nostradamus_by_Cesar.jpg
+	renamed:    img/OPALO E-LEARNING.svg -> img/OPALO_E-LEARNING.svg
+	new file:   img/aci-editorial-7202037_00000000_240117125507_550x743.jpg
+	new file:   img/blockchain.jpg
+	new file:   img/cursos-prox.jpg
+	new file:   img/cursos.jpg
+	new file:   img/felicidad.jpg
+	new file:   img/images.jpg
+	new file:   img/neurociencia.jpg
+	new file:   img/profecias.png
+	new file:   img/prox.jpg
+	new file:   img/prox.webp
+	new file:   img/termo.png
+	new file:   index-prueba.html
+	modified:   juego.html
+	deleted:    juego/README.md
+	deleted:    juego/__pycache__/cards.cpython-313.pyc
+	deleted:    juego/__pycache__/enemies.cpython-313.pyc
+	deleted:    juego/__pycache__/game.cpython-313.pyc
+	deleted:    juego/__pycache__/main.cpython-314.pyc.2151662696720
+	deleted:    juego/__pycache__/ui.cpython-313.pyc
+	deleted:    juego/build/version.txt
+	deleted:    juego/build/web-cache/19cba7c472c00dc4b6be4f7314a04410.data
+	deleted:    juego/build/web-cache/19cba7c472c00dc4b6be4f7314a04410.head
+	deleted:    juego/build/web-cache/1b15e19d796839ac93068711d32c2557.data
+	deleted:    juego/build/web-cache/1b15e19d796839ac93068711d32c2557.head
+	deleted:    juego/build/web-cache/38e02d124325c756243ee99a92e528ed.png
+	deleted:    juego/build/web-cache/427729db96c74210a6daf50f46f68e14.data
+	deleted:    juego/build/web-cache/427729db96c74210a6daf50f46f68e14.head
+	deleted:    juego/build/web-cache/43a138bdf7507cad77eb1201a9b99081.data
+	deleted:    juego/build/web-cache/43a138bdf7507cad77eb1201a9b99081.head
+	deleted:    juego/build/web-cache/489f66f53e526d7110d2d34527229eca.tmpl
+	deleted:    juego/build/web-cache/643720a0fcb6b0f44ddf33ff9740fc04.data
+	deleted:    juego/build/web-cache/643720a0fcb6b0f44ddf33ff9740fc04.head
+	deleted:    juego/build/web-cache/7ba5f9b81eefd22864d4f269f6440302.data
+	deleted:    juego/build/web-cache/7ba5f9b81eefd22864d4f269f6440302.head
+	deleted:    juego/build/web-cache/8e0c8197f178117b91e8dc55d7eee0db.data
+	deleted:    juego/build/web-cache/8e0c8197f178117b91e8dc55d7eee0db.head
+	deleted:    juego/build/web-cache/8e7732e36d74b6ca66d825cd22d53b85.data
+	deleted:    juego/build/web-cache/8e7732e36d74b6ca66d825cd22d53b85.head
+	deleted:    juego/build/web-cache/a954d0fa88d49b578037b7e007cf3dc2.data
+	deleted:    juego/build/web-cache/a954d0fa88d49b578037b7e007cf3dc2.head
+	deleted:    juego/build/web-cache/b0023fe2aacd2375a846b7629ddaab1c.data
+	deleted:    juego/build/web-cache/b0023fe2aacd2375a846b7629ddaab1c.head
+	deleted:    juego/build/web-cache/da83f20a925311df5be3721e12eb180b.data
+	deleted:    juego/build/web-cache/da83f20a925311df5be3721e12eb180b.head
+	deleted:    juego/build/web-cache/e81b92874f189a8c7136315a0e88ab5a.data
+	deleted:    juego/build/web-cache/e81b92874f189a8c7136315a0e88ab5a.head
+	deleted:    juego/build/web-cache/ee25ea4dcef639025200b5bea19f91dd.data
+	deleted:    juego/build/web-cache/ee25ea4dcef639025200b5bea19f91dd.head
+	deleted:    juego/build/web-cache/ffe5224cce19ab35b45c00567061a73a.data
+	deleted:    juego/build/web-cache/ffe5224cce19ab35b45c00567061a73a.head
+	deleted:    juego/build/web/favicon.png
+	deleted:    juego/build/web/index.html
+	deleted:    juego/build/web/juego.apk
+	deleted:    juego/cards.py
+	deleted:    juego/enemies.py
+	deleted:    juego/flap.py
+	deleted:    juego/game.py
+	deleted:    juego/main.py
+	deleted:    juego/nuevo.py
+	deleted:    juego/requirements.txt
+	deleted:    juego/ui.py
+	deleted:    node_modules/.bin/tldts
+	deleted:    node_modules/.bin/tldts.cmd
+	deleted:    node_modules/.bin/tldts.ps1
+	modified:   node_modules/.package-lock.json
+	deleted:    node_modules/@acemir/cssom/LICENSE.txt
+	deleted:    node_modules/@acemir/cssom/README.mdown
+	deleted:    node_modules/@acemir/cssom/build/CSSOM.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSConditionRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSContainerRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSCounterStyleRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSDocumentRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSFontFaceRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSGroupingRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSHostRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSImportRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSKeyframeRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSKeyframesRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSLayerBlockRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSLayerStatementRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSMediaRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSNamespaceRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSNestedDeclarations.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSOM.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSPageRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSPropertyRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSRuleList.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSScopeRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSStartingStyleRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSStyleDeclaration.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSStyleRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSStyleSheet.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSSupportsRule.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSValue.js
+	deleted:    node_modules/@acemir/cssom/lib/CSSValueExpression.js
+	deleted:    node_modules/@acemir/cssom/lib/MatcherList.js
+	deleted:    node_modules/@acemir/cssom/lib/MediaList.js
+	deleted:    node_modules/@acemir/cssom/lib/StyleSheet.js
+	deleted:    node_modules/@acemir/cssom/lib/clone.js
+	deleted:    node_modules/@acemir/cssom/lib/cssstyleTryCatchBlock.js
+	deleted:    node_modules/@acemir/cssom/lib/errorUtils.js
+	deleted:    node_modules/@acemir/cssom/lib/index.js
+	deleted:    node_modules/@acemir/cssom/lib/parse.js
+	deleted:    node_modules/@acemir/cssom/lib/regexPatterns.js
+	deleted:    node_modules/@acemir/cssom/package.json
+	deleted:    node_modules/@asamuzakjp/css-color/LICENSE
+	deleted:    node_modules/@asamuzakjp/css-color/README.md
+	deleted:    node_modules/@asamuzakjp/css-color/dist/browser/css-color.min.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/browser/css-color.min.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/cjs/index.cjs
+	deleted:    node_modules/@asamuzakjp/css-color/dist/cjs/index.cjs.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/cjs/index.d.cts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/index.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/index.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/index.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/cache.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/cache.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/cache.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/color.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/color.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/color.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/common.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/common.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/common.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/constant.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/constant.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/constant.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/convert.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/convert.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/convert.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-calc.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-calc.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-calc.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-gradient.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-gradient.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-gradient.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-var.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-var.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/css-var.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/relative-color.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/relative-color.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/relative-color.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/resolve.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/resolve.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/resolve.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/typedef.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/util.d.ts
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/util.js
+	deleted:    node_modules/@asamuzakjp/css-color/dist/esm/js/util.js.map
+	deleted:    node_modules/@asamuzakjp/css-color/package.json
+	deleted:    node_modules/@asamuzakjp/css-color/src/index.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/cache.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/color.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/common.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/constant.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/convert.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/css-calc.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/css-gradient.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/css-var.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/relative-color.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/resolve.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/typedef.ts
+	deleted:    node_modules/@asamuzakjp/css-color/src/js/util.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/LICENSE
+	deleted:    node_modules/@asamuzakjp/dom-selector/README.md
+	deleted:    node_modules/@asamuzakjp/dom-selector/dist/cjs/index.cjs
+	deleted:    node_modules/@asamuzakjp/dom-selector/dist/cjs/index.cjs.map
+	deleted:    node_modules/@asamuzakjp/dom-selector/dist/cjs/index.d.cts
+	deleted:    node_modules/@asamuzakjp/dom-selector/package.json
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/index.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/js/constant.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/js/finder.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/js/matcher.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/js/parser.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/src/js/utility.js
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/index.d.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/js/constant.d.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/js/finder.d.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/js/matcher.d.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/js/parser.d.ts
+	deleted:    node_modules/@asamuzakjp/dom-selector/types/js/utility.d.ts
+	deleted:    node_modules/@asamuzakjp/nwsapi/LICENSE
+	deleted:    node_modules/@asamuzakjp/nwsapi/README.md
+	deleted:    node_modules/@asamuzakjp/nwsapi/package.json
+	deleted:    node_modules/@asamuzakjp/nwsapi/src/nwsapi.js
+	deleted:    node_modules/@csstools/color-helpers/CHANGELOG.md
+	deleted:    node_modules/@csstools/color-helpers/LICENSE.md
+	deleted:    node_modules/@csstools/color-helpers/README.md
+	deleted:    node_modules/@csstools/color-helpers/dist/index.cjs
+	deleted:    node_modules/@csstools/color-helpers/dist/index.d.ts
+	deleted:    node_modules/@csstools/color-helpers/dist/index.mjs
+	deleted:    node_modules/@csstools/color-helpers/package.json
+	deleted:    node_modules/@csstools/css-calc/CHANGELOG.md
+	deleted:    node_modules/@csstools/css-calc/LICENSE.md
+	deleted:    node_modules/@csstools/css-calc/README.md
+	deleted:    node_modules/@csstools/css-calc/dist/index.cjs
+	deleted:    node_modules/@csstools/css-calc/dist/index.d.ts
+	deleted:    node_modules/@csstools/css-calc/dist/index.mjs
+	deleted:    node_modules/@csstools/css-calc/package.json
+	deleted:    node_modules/@csstools/css-color-parser/CHANGELOG.md
+	deleted:    node_modules/@csstools/css-color-parser/LICENSE.md
+	deleted:    node_modules/@csstools/css-color-parser/README.md
+	deleted:    node_modules/@csstools/css-color-parser/dist/index.cjs
+	deleted:    node_modules/@csstools/css-color-parser/dist/index.d.ts
+	deleted:    node_modules/@csstools/css-color-parser/dist/index.mjs
+	deleted:    node_modules/@csstools/css-color-parser/package.json
+	deleted:    node_modules/@csstools/css-parser-algorithms/CHANGELOG.md
+	deleted:    node_modules/@csstools/css-parser-algorithms/LICENSE.md
+	deleted:    node_modules/@csstools/css-parser-algorithms/README.md
+	deleted:    node_modules/@csstools/css-parser-algorithms/dist/index.cjs
+	deleted:    node_modules/@csstools/css-parser-algorithms/dist/index.d.ts
+	deleted:    node_modules/@csstools/css-parser-algorithms/dist/index.mjs
+	deleted:    node_modules/@csstools/css-parser-algorithms/package.json
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/CHANGELOG.md
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/LICENSE.md
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/README.md
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/dist/index.d.ts
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/dist/index.json
+	deleted:    node_modules/@csstools/css-syntax-patches-for-csstree/package.json
+	deleted:    node_modules/@csstools/css-tokenizer/CHANGELOG.md
+	deleted:    node_modules/@csstools/css-tokenizer/LICENSE.md
+	deleted:    node_modules/@csstools/css-tokenizer/README.md
+	deleted:    node_modules/@csstools/css-tokenizer/dist/index.cjs
+	deleted:    node_modules/@csstools/css-tokenizer/dist/index.d.ts
+	deleted:    node_modules/@csstools/css-tokenizer/dist/index.mjs
+	deleted:    node_modules/@csstools/css-tokenizer/package.json
+	deleted:    node_modules/@exodus/bytes/LICENSE
+	deleted:    node_modules/@exodus/bytes/README.md
+	deleted:    node_modules/@exodus/bytes/array.d.ts
+	deleted:    node_modules/@exodus/bytes/array.js
+	deleted:    node_modules/@exodus/bytes/assert.js
+	deleted:    node_modules/@exodus/bytes/base32.js
+	deleted:    node_modules/@exodus/bytes/base58.js
+	deleted:    node_modules/@exodus/bytes/base58check.js
+	deleted:    node_modules/@exodus/bytes/base58check.node.js
+	deleted:    node_modules/@exodus/bytes/base64.d.ts
+	deleted:    node_modules/@exodus/bytes/base64.js
+	deleted:    node_modules/@exodus/bytes/bech32.js
+	deleted:    node_modules/@exodus/bytes/bigint.js
+	deleted:    node_modules/@exodus/bytes/encoding-browser.browser.js
+	deleted:    node_modules/@exodus/bytes/encoding-browser.d.ts
+	deleted:    node_modules/@exodus/bytes/encoding-browser.js
+	deleted:    node_modules/@exodus/bytes/encoding-browser.native.js
+	deleted:    node_modules/@exodus/bytes/encoding-lite.d.ts
+	deleted:    node_modules/@exodus/bytes/encoding-lite.js
+	deleted:    node_modules/@exodus/bytes/encoding.d.ts
+	deleted:    node_modules/@exodus/bytes/encoding.js
+	deleted:    node_modules/@exodus/bytes/fallback/_utils.js
+	deleted:    node_modules/@exodus/bytes/fallback/base32.js
+	deleted:    node_modules/@exodus/bytes/fallback/base58check.js
+	deleted:    node_modules/@exodus/bytes/fallback/base64.js
+	deleted:    node_modules/@exodus/bytes/fallback/encoding.api.js
+	deleted:    node_modules/@exodus/bytes/fallback/encoding.js
+	deleted:    node_modules/@exodus/bytes/fallback/encoding.labels.js
+	deleted:    node_modules/@exodus/bytes/fallback/encoding.util.js
+	deleted:    node_modules/@exodus/bytes/fallback/hex.js
+	deleted:    node_modules/@exodus/bytes/fallback/latin1.js
+	deleted:    node_modules/@exodus/bytes/fallback/multi-byte.encodings.cjs
+	deleted:    node_modules/@exodus/bytes/fallback/multi-byte.encodings.json
+	deleted:    node_modules/@exodus/bytes/fallback/multi-byte.js
+	deleted:    node_modules/@exodus/bytes/fallback/multi-byte.table.js
+	deleted:    node_modules/@exodus/bytes/fallback/single-byte.encodings.js
+	deleted:    node_modules/@exodus/bytes/fallback/single-byte.js
+	deleted:    node_modules/@exodus/bytes/fallback/utf16.js
+	deleted:    node_modules/@exodus/bytes/fallback/utf8.js
+	deleted:    node_modules/@exodus/bytes/hex.d.ts
+	deleted:    node_modules/@exodus/bytes/hex.js
+	deleted:    node_modules/@exodus/bytes/hex.node.js
+	deleted:    node_modules/@exodus/bytes/index.d.ts
+	deleted:    node_modules/@exodus/bytes/index.js
+	deleted:    node_modules/@exodus/bytes/multi-byte.js
+	deleted:    node_modules/@exodus/bytes/multi-byte.node.js
+	deleted:    node_modules/@exodus/bytes/package.json
+	deleted:    node_modules/@exodus/bytes/single-byte.js
+	deleted:    node_modules/@exodus/bytes/single-byte.node.js
+	deleted:    node_modules/@exodus/bytes/utf16.js
+	deleted:    node_modules/@exodus/bytes/utf16.node.js
+	deleted:    node_modules/@exodus/bytes/utf8.d.ts
+	deleted:    node_modules/@exodus/bytes/utf8.js
+	deleted:    node_modules/@exodus/bytes/utf8.node.js
+	deleted:    node_modules/@exodus/bytes/wif.js
+	new file:   node_modules/accepts/HISTORY.md
+	new file:   node_modules/accepts/LICENSE
+	new file:   node_modules/accepts/README.md
+	new file:   node_modules/accepts/index.js
+	new file:   node_modules/accepts/package.json
+	deleted:    node_modules/agent-base/LICENSE
+	deleted:    node_modules/agent-base/README.md
+	deleted:    node_modules/agent-base/dist/helpers.d.ts
+	deleted:    node_modules/agent-base/dist/helpers.d.ts.map
+	deleted:    node_modules/agent-base/dist/helpers.js
+	deleted:    node_modules/agent-base/dist/helpers.js.map
+	deleted:    node_modules/agent-base/dist/index.d.ts
+	deleted:    node_modules/agent-base/dist/index.d.ts.map
+	deleted:    node_modules/agent-base/dist/index.js
+	deleted:    node_modules/agent-base/dist/index.js.map
+	deleted:    node_modules/agent-base/package.json
+	deleted:    node_modules/bidi-js/LICENSE.txt
+	deleted:    node_modules/bidi-js/README.md
+	deleted:    node_modules/bidi-js/dist/bidi.js
+	deleted:    node_modules/bidi-js/dist/bidi.min.js
+	deleted:    node_modules/bidi-js/dist/bidi.min.mjs
+	deleted:    node_modules/bidi-js/dist/bidi.mjs
+	deleted:    node_modules/bidi-js/package.json
+	deleted:    node_modules/bidi-js/src/brackets.js
+	deleted:    node_modules/bidi-js/src/charTypes.js
+	deleted:    node_modules/bidi-js/src/data/bidiBrackets.data.js
+	deleted:    node_modules/bidi-js/src/data/bidiCharTypes.data.js
+	deleted:    node_modules/bidi-js/src/data/bidiMirroring.data.js
+	deleted:    node_modules/bidi-js/src/embeddingLevels.js
+	deleted:    node_modules/bidi-js/src/index.js
+	deleted:    node_modules/bidi-js/src/mirroring.js
+	deleted:    node_modules/bidi-js/src/reordering.js
+	deleted:    node_modules/bidi-js/src/util/parseCharacterMap.js
+	new file:   node_modules/body-parser/LICENSE
+	new file:   node_modules/body-parser/README.md
+	new file:   node_modules/body-parser/index.js
+	new file:   node_modules/body-parser/lib/read.js
+	new file:   node_modules/body-parser/lib/types/json.js
+	new file:   node_modules/body-parser/lib/types/raw.js
+	new file:   node_modules/body-parser/lib/types/text.js
+	new file:   node_modules/body-parser/lib/types/urlencoded.js
+	new file:   node_modules/body-parser/lib/utils.js
+	new file:   node_modules/body-parser/package.json
+	new file:   node_modules/bytes/History.md
+	new file:   node_modules/bytes/LICENSE
+	new file:   node_modules/bytes/Readme.md
+	new file:   node_modules/bytes/index.js
+	new file:   node_modules/bytes/package.json
+	new file:   node_modules/call-bind-apply-helpers/.eslintrc
+	new file:   node_modules/call-bind-apply-helpers/.github/FUNDING.yml
+	new file:   node_modules/call-bind-apply-helpers/.nycrc
+	new file:   node_modules/call-bind-apply-helpers/CHANGELOG.md
+	new file:   node_modules/call-bind-apply-helpers/LICENSE
+	new file:   node_modules/call-bind-apply-helpers/README.md
+	new file:   node_modules/call-bind-apply-helpers/actualApply.d.ts
+	new file:   node_modules/call-bind-apply-helpers/actualApply.js
+	new file:   node_modules/call-bind-apply-helpers/applyBind.d.ts
+	new file:   node_modules/call-bind-apply-helpers/applyBind.js
+	new file:   node_modules/call-bind-apply-helpers/functionApply.d.ts
+	new file:   node_modules/call-bind-apply-helpers/functionApply.js
+	new file:   node_modules/call-bind-apply-helpers/functionCall.d.ts
+	new file:   node_modules/call-bind-apply-helpers/functionCall.js
+	new file:   node_modules/call-bind-apply-helpers/index.d.ts
+	new file:   node_modules/call-bind-apply-helpers/index.js
+	new file:   node_modules/call-bind-apply-helpers/package.json
+	new file:   node_modules/call-bind-apply-helpers/reflectApply.d.ts
+	new file:   node_modules/call-bind-apply-helpers/reflectApply.js
+	new file:   node_modules/call-bind-apply-helpers/test/index.js
+	new file:   node_modules/call-bind-apply-helpers/tsconfig.json
+	new file:   node_modules/call-bound/.eslintrc
+	new file:   node_modules/call-bound/.github/FUNDING.yml
+	new file:   node_modules/call-bound/.nycrc
+	new file:   node_modules/call-bound/CHANGELOG.md
+	new file:   node_modules/call-bound/LICENSE
+	new file:   node_modules/call-bound/README.md
+	new file:   node_modules/call-bound/index.d.ts
+	new file:   node_modules/call-bound/index.js
+	new file:   node_modules/call-bound/package.json
+	new file:   node_modules/call-bound/test/index.js
+	new file:   node_modules/call-bound/tsconfig.json
+	new file:   node_modules/content-disposition/HISTORY.md
+	new file:   node_modules/content-disposition/LICENSE
+	new file:   node_modules/content-disposition/README.md
+	new file:   node_modules/content-disposition/index.js
+	new file:   node_modules/content-disposition/package.json
+	new file:   node_modules/content-type/HISTORY.md
+	new file:   node_modules/content-type/LICENSE
+	new file:   node_modules/content-type/README.md
+	new file:   node_modules/content-type/index.js
+	new file:   node_modules/content-type/package.json
+	new file:   node_modules/cookie-signature/History.md
+	new file:   node_modules/cookie-signature/LICENSE
+	new file:   node_modules/cookie-signature/Readme.md
+	new file:   node_modules/cookie-signature/index.js
+	new file:   node_modules/cookie-signature/package.json
+	new file:   node_modules/cookie/LICENSE
+	new file:   node_modules/cookie/README.md
+	new file:   node_modules/cookie/SECURITY.md
+	new file:   node_modules/cookie/index.js
+	new file:   node_modules/cookie/package.json
+	new file:   node_modules/cors/LICENSE
+	new file:   node_modules/cors/README.md
+	new file:   node_modules/cors/lib/index.js
+	new file:   node_modules/cors/package.json
+	deleted:    node_modules/css-tree/LICENSE
+	deleted:    node_modules/css-tree/README.md
+	deleted:    node_modules/css-tree/cjs/convertor/create.cjs
+	deleted:    node_modules/css-tree/cjs/convertor/index.cjs
+	deleted:    node_modules/css-tree/cjs/data-patch.cjs
+	deleted:    node_modules/css-tree/cjs/data.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/SyntaxError.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/generate.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/index.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/parse.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/scanner.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/tokenizer.cjs
+	deleted:    node_modules/css-tree/cjs/definition-syntax/walk.cjs
+	deleted:    node_modules/css-tree/cjs/generator/create.cjs
+	deleted:    node_modules/css-tree/cjs/generator/index.cjs
+	deleted:    node_modules/css-tree/cjs/generator/sourceMap.cjs
+	deleted:    node_modules/css-tree/cjs/generator/token-before.cjs
+	deleted:    node_modules/css-tree/cjs/index.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/Lexer.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/error.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/generic-an-plus-b.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/generic-const.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/generic-urange.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/generic.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/index.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/match-graph.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/match.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/prepare-tokens.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/search.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/structure.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/trace.cjs
+	deleted:    node_modules/css-tree/cjs/lexer/units.cjs
+	deleted:    node_modules/css-tree/cjs/parser/SyntaxError.cjs
+	deleted:    node_modules/css-tree/cjs/parser/create.cjs
+	deleted:    node_modules/css-tree/cjs/parser/index.cjs
+	deleted:    node_modules/css-tree/cjs/parser/parse-selector.cjs
+	deleted:    node_modules/css-tree/cjs/parser/sequence.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/container.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/font-face.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/import.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/index.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/layer.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/media.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/nest.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/page.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/scope.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/starting-style.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/atrule/supports.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/generator.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/lexer.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/mix.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/parser-selector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/parser.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/config/walker.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/create.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/function/expression.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/function/var.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/index.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/AnPlusB.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Atrule.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/AtrulePrelude.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/AttributeSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Block.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Brackets.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/CDC.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/CDO.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/ClassSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Combinator.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Comment.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Condition.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Declaration.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/DeclarationList.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Dimension.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Feature.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/FeatureFunction.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/FeatureRange.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Function.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/GeneralEnclosed.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Hash.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/IdSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Identifier.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Layer.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/LayerList.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/LayerName.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/LayerNameList.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/MediaCondition.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/MediaFeature.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/MediaFeatureRange.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/MediaQuery.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/MediaQueryList.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/NestingSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Nth.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Number.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Operator.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Parentheses.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Percentage.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/PseudoClassSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/PseudoElementSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Ratio.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Raw.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Rule.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Scope.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Selector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/SelectorList.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/String.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/StyleSheet.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/SupportsDeclaration.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/SupportsFeature.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/TypeSelector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/UnicodeRange.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Url.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/Value.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/WhiteSpace.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/common/feature-range.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/common/feature.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/index-generate.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/index-parse-selector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/index-parse.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/node/index.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/pseudo/index.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/pseudo/lang.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/scope/atrulePrelude.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/scope/default.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/scope/index.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/scope/selector.cjs
+	deleted:    node_modules/css-tree/cjs/syntax/scope/value.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/OffsetToLocation.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/TokenStream.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/adopt-buffer.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/char-code-definitions.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/index.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/names.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/types.cjs
+	deleted:    node_modules/css-tree/cjs/tokenizer/utils.cjs
+	deleted:    node_modules/css-tree/cjs/utils/List.cjs
+	deleted:    node_modules/css-tree/cjs/utils/clone.cjs
+	deleted:    node_modules/css-tree/cjs/utils/create-custom-error.cjs
+	deleted:    node_modules/css-tree/cjs/utils/ident.cjs
+	deleted:    node_modules/css-tree/cjs/utils/index.cjs
+	deleted:    node_modules/css-tree/cjs/utils/names.cjs
+	deleted:    node_modules/css-tree/cjs/utils/string.cjs
+	deleted:    node_modules/css-tree/cjs/utils/url.cjs
+	deleted:    node_modules/css-tree/cjs/version.cjs
+	deleted:    node_modules/css-tree/cjs/walker/create.cjs
+	deleted:    node_modules/css-tree/cjs/walker/index.cjs
+	deleted:    node_modules/css-tree/data/patch.json
+	deleted:    node_modules/css-tree/dist/csstree.esm.js
+	deleted:    node_modules/css-tree/dist/csstree.js
+	deleted:    node_modules/css-tree/dist/data.cjs
+	deleted:    node_modules/css-tree/dist/data.js
+	deleted:    node_modules/css-tree/dist/version.cjs
+	deleted:    node_modules/css-tree/dist/version.js
+	deleted:    node_modules/css-tree/lib/convertor/create.js
+	deleted:    node_modules/css-tree/lib/convertor/index.js
+	deleted:    node_modules/css-tree/lib/data-patch.js
+	deleted:    node_modules/css-tree/lib/data.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/SyntaxError.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/generate.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/index.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/parse.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/scanner.js
+	deleted:    node_modules/css-tree/lib/definition-syntax/walk.js
+	deleted:    node_modules/css-tree/lib/generator/create.js
+	deleted:    node_modules/css-tree/lib/generator/index.js
+	deleted:    node_modules/css-tree/lib/generator/sourceMap.js
+	deleted:    node_modules/css-tree/lib/generator/token-before.js
+	deleted:    node_modules/css-tree/lib/index.js
+	deleted:    node_modules/css-tree/lib/lexer/Lexer.js
+	deleted:    node_modules/css-tree/lib/lexer/error.js
+	deleted:    node_modules/css-tree/lib/lexer/generic-an-plus-b.js
+	deleted:    node_modules/css-tree/lib/lexer/generic-const.js
+	deleted:    node_modules/css-tree/lib/lexer/generic-urange.js
+	deleted:    node_modules/css-tree/lib/lexer/generic.js
+	deleted:    node_modules/css-tree/lib/lexer/index.js
+	deleted:    node_modules/css-tree/lib/lexer/match-graph.js
+	deleted:    node_modules/css-tree/lib/lexer/match.js
+	deleted:    node_modules/css-tree/lib/lexer/prepare-tokens.js
+	deleted:    node_modules/css-tree/lib/lexer/search.js
+	deleted:    node_modules/css-tree/lib/lexer/structure.js
+	deleted:    node_modules/css-tree/lib/lexer/trace.js
+	deleted:    node_modules/css-tree/lib/lexer/units.js
+	deleted:    node_modules/css-tree/lib/parser/SyntaxError.js
+	deleted:    node_modules/css-tree/lib/parser/create.js
+	deleted:    node_modules/css-tree/lib/parser/index.js
+	deleted:    node_modules/css-tree/lib/parser/parse-selector.js
+	deleted:    node_modules/css-tree/lib/parser/sequence.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/container.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/font-face.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/import.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/index.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/layer.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/media.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/nest.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/page.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/scope.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/starting-style.js
+	deleted:    node_modules/css-tree/lib/syntax/atrule/supports.js
+	deleted:    node_modules/css-tree/lib/syntax/config/generator.js
+	deleted:    node_modules/css-tree/lib/syntax/config/lexer.js
+	deleted:    node_modules/css-tree/lib/syntax/config/mix.js
+	deleted:    node_modules/css-tree/lib/syntax/config/parser-selector.js
+	deleted:    node_modules/css-tree/lib/syntax/config/parser.js
+	deleted:    node_modules/css-tree/lib/syntax/config/walker.js
+	deleted:    node_modules/css-tree/lib/syntax/create.js
+	deleted:    node_modules/css-tree/lib/syntax/function/expression.js
+	deleted:    node_modules/css-tree/lib/syntax/function/var.js
+	deleted:    node_modules/css-tree/lib/syntax/index.js
+	deleted:    node_modules/css-tree/lib/syntax/node/AnPlusB.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Atrule.js
+	deleted:    node_modules/css-tree/lib/syntax/node/AtrulePrelude.js
+	deleted:    node_modules/css-tree/lib/syntax/node/AttributeSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Block.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Brackets.js
+	deleted:    node_modules/css-tree/lib/syntax/node/CDC.js
+	deleted:    node_modules/css-tree/lib/syntax/node/CDO.js
+	deleted:    node_modules/css-tree/lib/syntax/node/ClassSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Combinator.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Comment.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Condition.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Declaration.js
+	deleted:    node_modules/css-tree/lib/syntax/node/DeclarationList.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Dimension.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Feature.js
+	deleted:    node_modules/css-tree/lib/syntax/node/FeatureFunction.js
+	deleted:    node_modules/css-tree/lib/syntax/node/FeatureRange.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Function.js
+	deleted:    node_modules/css-tree/lib/syntax/node/GeneralEnclosed.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Hash.js
+	deleted:    node_modules/css-tree/lib/syntax/node/IdSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Identifier.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Layer.js
+	deleted:    node_modules/css-tree/lib/syntax/node/LayerList.js
+	deleted:    node_modules/css-tree/lib/syntax/node/MediaQuery.js
+	deleted:    node_modules/css-tree/lib/syntax/node/MediaQueryList.js
+	deleted:    node_modules/css-tree/lib/syntax/node/NestingSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Nth.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Number.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Operator.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Parentheses.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Percentage.js
+	deleted:    node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/PseudoElementSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Ratio.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Raw.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Rule.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Scope.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Selector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/SelectorList.js
+	deleted:    node_modules/css-tree/lib/syntax/node/String.js
+	deleted:    node_modules/css-tree/lib/syntax/node/StyleSheet.js
+	deleted:    node_modules/css-tree/lib/syntax/node/SupportsDeclaration.js
+	deleted:    node_modules/css-tree/lib/syntax/node/TypeSelector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/UnicodeRange.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Url.js
+	deleted:    node_modules/css-tree/lib/syntax/node/Value.js
+	deleted:    node_modules/css-tree/lib/syntax/node/WhiteSpace.js
+	deleted:    node_modules/css-tree/lib/syntax/node/index-generate.js
+	deleted:    node_modules/css-tree/lib/syntax/node/index-parse-selector.js
+	deleted:    node_modules/css-tree/lib/syntax/node/index-parse.js
+	deleted:    node_modules/css-tree/lib/syntax/node/index.js
+	deleted:    node_modules/css-tree/lib/syntax/pseudo/index.js
+	deleted:    node_modules/css-tree/lib/syntax/pseudo/lang.js
+	deleted:    node_modules/css-tree/lib/syntax/scope/atrulePrelude.js
+	deleted:    node_modules/css-tree/lib/syntax/scope/default.js
+	deleted:    node_modules/css-tree/lib/syntax/scope/index.js
+	deleted:    node_modules/css-tree/lib/syntax/scope/selector.js
+	deleted:    node_modules/css-tree/lib/syntax/scope/value.js
+	deleted:    node_modules/css-tree/lib/tokenizer/OffsetToLocation.js
+	deleted:    node_modules/css-tree/lib/tokenizer/TokenStream.js
+	deleted:    node_modules/css-tree/lib/tokenizer/adopt-buffer.js
+	deleted:    node_modules/css-tree/lib/tokenizer/char-code-definitions.js
+	deleted:    node_modules/css-tree/lib/tokenizer/index.js
+	deleted:    node_modules/css-tree/lib/tokenizer/names.js
+	deleted:    node_modules/css-tree/lib/tokenizer/types.js
+	deleted:    node_modules/css-tree/lib/tokenizer/utils.js
+	deleted:    node_modules/css-tree/lib/utils/List.js
+	deleted:    node_modules/css-tree/lib/utils/clone.js
+	deleted:    node_modules/css-tree/lib/utils/create-custom-error.js
+	deleted:    node_modules/css-tree/lib/utils/ident.js
+	deleted:    node_modules/css-tree/lib/utils/index.js
+	deleted:    node_modules/css-tree/lib/utils/names.js
+	deleted:    node_modules/css-tree/lib/utils/string.js
+	deleted:    node_modules/css-tree/lib/utils/url.js
+	deleted:    node_modules/css-tree/lib/version.js
+	deleted:    node_modules/css-tree/lib/walker/create.js
+	deleted:    node_modules/css-tree/lib/walker/index.js
+	deleted:    node_modules/css-tree/package.json
+	deleted:    node_modules/cssstyle/LICENSE
+	deleted:    node_modules/cssstyle/README.md
+	deleted:    node_modules/cssstyle/lib/CSSStyleDeclaration.js
+	deleted:    node_modules/cssstyle/lib/generated/allProperties.js
+	deleted:    node_modules/cssstyle/lib/generated/implementedProperties.js
+	deleted:    node_modules/cssstyle/lib/generated/properties.js
+	deleted:    node_modules/cssstyle/lib/generated/propertyDefinitions.js
+	deleted:    node_modules/cssstyle/lib/normalize.js
+	deleted:    node_modules/cssstyle/lib/parsers.js
+	deleted:    node_modules/cssstyle/lib/properties/background.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundAttachment.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundClip.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundColor.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundImage.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundOrigin.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundPosition.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundRepeat.js
+	deleted:    node_modules/cssstyle/lib/properties/backgroundSize.js
+	deleted:    node_modules/cssstyle/lib/properties/border.js
+	deleted:    node_modules/cssstyle/lib/properties/borderBottom.js
+	deleted:    node_modules/cssstyle/lib/properties/borderBottomColor.js
+	deleted:    node_modules/cssstyle/lib/properties/borderBottomStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/borderBottomWidth.js
+	deleted:    node_modules/cssstyle/lib/properties/borderCollapse.js
+	deleted:    node_modules/cssstyle/lib/properties/borderColor.js
+	deleted:    node_modules/cssstyle/lib/properties/borderLeft.js
+	deleted:    node_modules/cssstyle/lib/properties/borderLeftColor.js
+	deleted:    node_modules/cssstyle/lib/properties/borderLeftStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/borderLeftWidth.js
+	deleted:    node_modules/cssstyle/lib/properties/borderRight.js
+	deleted:    node_modules/cssstyle/lib/properties/borderRightColor.js
+	deleted:    node_modules/cssstyle/lib/properties/borderRightStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/borderRightWidth.js
+	deleted:    node_modules/cssstyle/lib/properties/borderSpacing.js
+	deleted:    node_modules/cssstyle/lib/properties/borderStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/borderTop.js
+	deleted:    node_modules/cssstyle/lib/properties/borderTopColor.js
+	deleted:    node_modules/cssstyle/lib/properties/borderTopStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/borderTopWidth.js
+	deleted:    node_modules/cssstyle/lib/properties/borderWidth.js
+	deleted:    node_modules/cssstyle/lib/properties/bottom.js
+	deleted:    node_modules/cssstyle/lib/properties/clear.js
+	deleted:    node_modules/cssstyle/lib/properties/clip.js
+	deleted:    node_modules/cssstyle/lib/properties/color.js
+	deleted:    node_modules/cssstyle/lib/properties/display.js
+	deleted:    node_modules/cssstyle/lib/properties/flex.js
+	deleted:    node_modules/cssstyle/lib/properties/flexBasis.js
+	deleted:    node_modules/cssstyle/lib/properties/flexGrow.js
+	deleted:    node_modules/cssstyle/lib/properties/flexShrink.js
+	deleted:    node_modules/cssstyle/lib/properties/float.js
+	deleted:    node_modules/cssstyle/lib/properties/floodColor.js
+	deleted:    node_modules/cssstyle/lib/properties/font.js
+	deleted:    node_modules/cssstyle/lib/properties/fontFamily.js
+	deleted:    node_modules/cssstyle/lib/properties/fontSize.js
+	deleted:    node_modules/cssstyle/lib/properties/fontStyle.js
+	deleted:    node_modules/cssstyle/lib/properties/fontVariant.js
+	deleted:    node_modules/cssstyle/lib/properties/fontWeight.js
+	deleted:    node_modules/cssstyle/lib/properties/height.js
+	deleted:    node_modules/cssstyle/lib/properties/left.js
+	deleted:    node_modules/cssstyle/lib/properties/lightingColor.js
+	deleted:    node_modules/cssstyle/lib/properties/lineHeight.js
+	deleted:    node_modules/cssstyle/lib/properties/margin.js
+	deleted:    node_modules/cssstyle/lib/properties/marginBottom.js
+	deleted:    node_modules/cssstyle/lib/properties/marginLeft.js
+	deleted:    node_modules/cssstyle/lib/properties/marginRight.js
+	deleted:    node_modules/cssstyle/lib/properties/marginTop.js
+	deleted:    node_modules/cssstyle/lib/properties/opacity.js
+	deleted:    node_modules/cssstyle/lib/properties/outlineColor.js
+	deleted:    node_modules/cssstyle/lib/properties/padding.js
+	deleted:    node_modules/cssstyle/lib/properties/paddingBottom.js
+	deleted:    node_modules/cssstyle/lib/properties/paddingLeft.js
+	deleted:    node_modules/cssstyle/lib/properties/paddingRight.js
+	deleted:    node_modules/cssstyle/lib/properties/paddingTop.js
+	deleted:    node_modules/cssstyle/lib/properties/right.js
+	deleted:    node_modules/cssstyle/lib/properties/stopColor.js
+	deleted:    node_modules/cssstyle/lib/properties/top.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitBorderAfterColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitBorderBeforeColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitBorderEndColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitBorderStartColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitColumnRuleColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitTapHighlightColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitTextEmphasisColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitTextFillColor.js
+	deleted:    node_modules/cssstyle/lib/properties/webkitTextStrokeColor.js
+	deleted:    node_modules/cssstyle/lib/properties/width.js
+	deleted:    node_modules/cssstyle/lib/utils/allExtraProperties.js
+	deleted:    node_modules/cssstyle/lib/utils/camelize.js
+	deleted:    node_modules/cssstyle/lib/utils/propertyDescriptors.js
+	deleted:    node_modules/cssstyle/lib/utils/strings.js
+	deleted:    node_modules/cssstyle/package.json
+	new file:   node_modules/data-uri-to-buffer/README.md
+	new file:   node_modules/data-uri-to-buffer/dist/index.d.ts
+	new file:   node_modules/data-uri-to-buffer/dist/index.js
+	new file:   node_modules/data-uri-to-buffer/dist/index.js.map
+	new file:   node_modules/data-uri-to-buffer/package.json
+	new file:   node_modules/data-uri-to-buffer/src/index.ts
+	deleted:    node_modules/data-urls/LICENSE.txt
+	deleted:    node_modules/data-urls/README.md
+	deleted:    node_modules/data-urls/lib/parser.js
+	deleted:    node_modules/data-urls/lib/utils.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/LICENSE.txt
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/README.md
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/index.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/mime-type-parameters.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/mime-type.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/parser.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/serializer.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/sniff.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/lib/utils.js
+	deleted:    node_modules/data-urls/node_modules/whatwg-mimetype/package.json
+	deleted:    node_modules/data-urls/package.json
+	deleted:    node_modules/decimal.js/LICENCE.md
+	deleted:    node_modules/decimal.js/README.md
+	deleted:    node_modules/decimal.js/decimal.d.ts
+	deleted:    node_modules/decimal.js/decimal.js
+	deleted:    node_modules/decimal.js/decimal.mjs
+	deleted:    node_modules/decimal.js/package.json
+	new file:   node_modules/depd/History.md
+	new file:   node_modules/depd/LICENSE
+	new file:   node_modules/depd/Readme.md
+	new file:   node_modules/depd/index.js
+	new file:   node_modules/depd/lib/browser/index.js
+	new file:   node_modules/depd/package.json
+	new file:   node_modules/dotenv/CHANGELOG.md
+	new file:   node_modules/dotenv/LICENSE
+	new file:   node_modules/dotenv/README-es.md
+	new file:   node_modules/dotenv/README.md
+	new file:   node_modules/dotenv/SECURITY.md
+	new file:   node_modules/dotenv/config.d.ts
+	new file:   node_modules/dotenv/config.js
+	new file:   node_modules/dotenv/lib/cli-options.js
+	new file:   node_modules/dotenv/lib/env-options.js
+	new file:   node_modules/dotenv/lib/main.d.ts
+	new file:   node_modules/dotenv/lib/main.js
+	new file:   node_modules/dotenv/package.json
+	new file:   node_modules/dunder-proto/.eslintrc
+	new file:   node_modules/dunder-proto/.github/FUNDING.yml
+	new file:   node_modules/dunder-proto/.nycrc
+	new file:   node_modules/dunder-proto/CHANGELOG.md
+	new file:   node_modules/dunder-proto/LICENSE
+	new file:   node_modules/dunder-proto/README.md
+	new file:   node_modules/dunder-proto/get.d.ts
+	new file:   node_modules/dunder-proto/get.js
+	new file:   node_modules/dunder-proto/package.json
+	new file:   node_modules/dunder-proto/set.d.ts
+	new file:   node_modules/dunder-proto/set.js
+	new file:   node_modules/dunder-proto/test/get.js
+	new file:   node_modules/dunder-proto/test/index.js
+	new file:   node_modules/dunder-proto/test/set.js
+	new file:   node_modules/dunder-proto/tsconfig.json
+	new file:   node_modules/ee-first/LICENSE
+	new file:   node_modules/ee-first/README.md
+	new file:   node_modules/ee-first/index.js
+	new file:   node_modules/ee-first/package.json
+	new file:   node_modules/encodeurl/LICENSE
+	new file:   node_modules/encodeurl/README.md
+	new file:   node_modules/encodeurl/index.js
+	new file:   node_modules/encodeurl/package.json
+	deleted:    node_modules/entities/LICENSE
+	deleted:    node_modules/entities/decode.d.ts
+	deleted:    node_modules/entities/decode.js
+	deleted:    node_modules/entities/dist/commonjs/decode-codepoint.d.ts
+	deleted:    node_modules/entities/dist/commonjs/decode-codepoint.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/decode-codepoint.js
+	deleted:    node_modules/entities/dist/commonjs/decode-codepoint.js.map
+	deleted:    node_modules/entities/dist/commonjs/decode.d.ts
+	deleted:    node_modules/entities/dist/commonjs/decode.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/decode.js
+	deleted:    node_modules/entities/dist/commonjs/decode.js.map
+	deleted:    node_modules/entities/dist/commonjs/encode.d.ts
+	deleted:    node_modules/entities/dist/commonjs/encode.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/encode.js
+	deleted:    node_modules/entities/dist/commonjs/encode.js.map
+	deleted:    node_modules/entities/dist/commonjs/escape.d.ts
+	deleted:    node_modules/entities/dist/commonjs/escape.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/escape.js
+	deleted:    node_modules/entities/dist/commonjs/escape.js.map
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-html.d.ts
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-html.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-html.js
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-html.js.map
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-xml.d.ts
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-xml.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-xml.js
+	deleted:    node_modules/entities/dist/commonjs/generated/decode-data-xml.js.map
+	deleted:    node_modules/entities/dist/commonjs/generated/encode-html.d.ts
+	deleted:    node_modules/entities/dist/commonjs/generated/encode-html.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/generated/encode-html.js
+	deleted:    node_modules/entities/dist/commonjs/generated/encode-html.js.map
+	deleted:    node_modules/entities/dist/commonjs/index.d.ts
+	deleted:    node_modules/entities/dist/commonjs/index.d.ts.map
+	deleted:    node_modules/entities/dist/commonjs/index.js
+	deleted:    node_modules/entities/dist/commonjs/index.js.map
+	deleted:    node_modules/entities/dist/commonjs/package.json
+	deleted:    node_modules/entities/dist/esm/decode-codepoint.d.ts
+	deleted:    node_modules/entities/dist/esm/decode-codepoint.d.ts.map
+	deleted:    node_modules/entities/dist/esm/decode-codepoint.js
+	deleted:    node_modules/entities/dist/esm/decode-codepoint.js.map
+	deleted:    node_modules/entities/dist/esm/decode.d.ts
+	deleted:    node_modules/entities/dist/esm/decode.d.ts.map
+	deleted:    node_modules/entities/dist/esm/decode.js
+	deleted:    node_modules/entities/dist/esm/decode.js.map
+	deleted:    node_modules/entities/dist/esm/encode.d.ts
+	deleted:    node_modules/entities/dist/esm/encode.d.ts.map
+	deleted:    node_modules/entities/dist/esm/encode.js
+	deleted:    node_modules/entities/dist/esm/encode.js.map
+	deleted:    node_modules/entities/dist/esm/escape.d.ts
+	deleted:    node_modules/entities/dist/esm/escape.d.ts.map
+	deleted:    node_modules/entities/dist/esm/escape.js
+	deleted:    node_modules/entities/dist/esm/escape.js.map
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-html.d.ts
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-html.d.ts.map
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-html.js
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-html.js.map
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-xml.d.ts
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-xml.d.ts.map
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-xml.js
+	deleted:    node_modules/entities/dist/esm/generated/decode-data-xml.js.map
+	deleted:    node_modules/entities/dist/esm/generated/encode-html.d.ts
+	deleted:    node_modules/entities/dist/esm/generated/encode-html.d.ts.map
+	deleted:    node_modules/entities/dist/esm/generated/encode-html.js
+	deleted:    node_modules/entities/dist/esm/generated/encode-html.js.map
+	deleted:    node_modules/entities/dist/esm/index.d.ts
+	deleted:    node_modules/entities/dist/esm/index.d.ts.map
+	deleted:    node_modules/entities/dist/esm/index.js
+	deleted:    node_modules/entities/dist/esm/index.js.map
+	deleted:    node_modules/entities/dist/esm/package.json
+	deleted:    node_modules/entities/escape.d.ts
+	deleted:    node_modules/entities/escape.js
+	deleted:    node_modules/entities/package.json
+	deleted:    node_modules/entities/readme.md
+	deleted:    node_modules/entities/src/decode-codepoint.ts
+	deleted:    node_modules/entities/src/decode.spec.ts
+	deleted:    node_modules/entities/src/decode.ts
+	deleted:    node_modules/entities/src/encode.spec.ts
+	deleted:    node_modules/entities/src/encode.ts
+	deleted:    node_modules/entities/src/escape.spec.ts
+	deleted:    node_modules/entities/src/escape.ts
+	deleted:    node_modules/entities/src/generated/.eslintrc.json
+	deleted:    node_modules/entities/src/generated/decode-data-html.ts
+	deleted:    node_modules/entities/src/generated/decode-data-xml.ts
+	deleted:    node_modules/entities/src/generated/encode-html.ts
+	deleted:    node_modules/entities/src/index.spec.ts
+	deleted:    node_modules/entities/src/index.ts
+	new file:   node_modules/es-define-property/.eslintrc
+	new file:   node_modules/es-define-property/.github/FUNDING.yml
+	new file:   node_modules/es-define-property/.nycrc
+	new file:   node_modules/es-define-property/CHANGELOG.md
+	new file:   node_modules/es-define-property/LICENSE
+	new file:   node_modules/es-define-property/README.md
+	new file:   node_modules/es-define-property/index.d.ts
+	new file:   node_modules/es-define-property/index.js
+	new file:   node_modules/es-define-property/package.json
+	new file:   node_modules/es-define-property/test/index.js
+	new file:   node_modules/es-define-property/tsconfig.json
+	new file:   node_modules/es-errors/.eslintrc
+	new file:   node_modules/es-errors/.github/FUNDING.yml
+	new file:   node_modules/es-errors/CHANGELOG.md
+	new file:   node_modules/es-errors/LICENSE
+	new file:   node_modules/es-errors/README.md
+	new file:   node_modules/es-errors/eval.d.ts
+	new file:   node_modules/es-errors/eval.js
+	new file:   node_modules/es-errors/index.d.ts
+	new file:   node_modules/es-errors/index.js
+	new file:   node_modules/es-errors/package.json
+	new file:   node_modules/es-errors/range.d.ts
+	new file:   node_modules/es-errors/range.js
+	new file:   node_modules/es-errors/ref.d.ts
+	new file:   node_modules/es-errors/ref.js
+	new file:   node_modules/es-errors/syntax.d.ts
+	new file:   node_modules/es-errors/syntax.js
+	new file:   node_modules/es-errors/test/index.js
+	new file:   node_modules/es-errors/tsconfig.json
+	new file:   node_modules/es-errors/type.d.ts
+	new file:   node_modules/es-errors/type.js
+	new file:   node_modules/es-errors/uri.d.ts
+	new file:   node_modules/es-errors/uri.js
+	new file:   node_modules/es-object-atoms/.eslintrc
+	new file:   node_modules/es-object-atoms/.github/FUNDING.yml
+	new file:   node_modules/es-object-atoms/CHANGELOG.md
+	new file:   node_modules/es-object-atoms/LICENSE
+	new file:   node_modules/es-object-atoms/README.md
+	new file:   node_modules/es-object-atoms/RequireObjectCoercible.d.ts
+	new file:   node_modules/es-object-atoms/RequireObjectCoercible.js
+	new file:   node_modules/es-object-atoms/ToObject.d.ts
+	new file:   node_modules/es-object-atoms/ToObject.js
+	new file:   node_modules/es-object-atoms/index.d.ts
+	new file:   node_modules/es-object-atoms/index.js
+	new file:   node_modules/es-object-atoms/isObject.d.ts
+	new file:   node_modules/es-object-atoms/isObject.js
+	new file:   node_modules/es-object-atoms/package.json
+	new file:   node_modules/es-object-atoms/test/index.js
+	new file:   node_modules/es-object-atoms/tsconfig.json
+	new file:   node_modules/escape-html/LICENSE
+	new file:   node_modules/escape-html/Readme.md
+	new file:   node_modules/escape-html/index.js
+	new file:   node_modules/escape-html/package.json
+	new file:   node_modules/etag/HISTORY.md
+	new file:   node_modules/etag/LICENSE
+	new file:   node_modules/etag/README.md
+	new file:   node_modules/etag/index.js
+	new file:   node_modules/etag/package.json
+	new file:   node_modules/express/LICENSE
+	new file:   node_modules/express/Readme.md
+	new file:   node_modules/express/index.js
+	new file:   node_modules/express/lib/application.js
+	new file:   node_modules/express/lib/express.js
+	new file:   node_modules/express/lib/request.js
+	new file:   node_modules/express/lib/response.js
+	new file:   node_modules/express/lib/utils.js
+	new file:   node_modules/express/lib/view.js
+	new file:   node_modules/express/package.json
+	new file:   node_modules/fetch-blob/LICENSE
+	new file:   node_modules/fetch-blob/README.md
+	new file:   node_modules/fetch-blob/file.d.ts
+	new file:   node_modules/fetch-blob/file.js
+	new file:   node_modules/fetch-blob/from.d.ts
+	new file:   node_modules/fetch-blob/from.js
+	new file:   node_modules/fetch-blob/index.d.ts
+	new file:   node_modules/fetch-blob/index.js
+	new file:   node_modules/fetch-blob/package.json
+	new file:   node_modules/fetch-blob/streams.cjs
+	new file:   node_modules/finalhandler/HISTORY.md
+	new file:   node_modules/finalhandler/LICENSE
+	new file:   node_modules/finalhandler/README.md
+	new file:   node_modules/finalhandler/index.js
+	new file:   node_modules/finalhandler/package.json
+	new file:   node_modules/formdata-polyfill/FormData.js
+	new file:   node_modules/formdata-polyfill/LICENSE
+	new file:   node_modules/formdata-polyfill/README.md
+	new file:   node_modules/formdata-polyfill/esm.min.d.ts
+	new file:   node_modules/formdata-polyfill/esm.min.js
+	new file:   node_modules/formdata-polyfill/formdata-to-blob.js
+	new file:   node_modules/formdata-polyfill/formdata.min.js
+	new file:   node_modules/formdata-polyfill/package.json
+	new file:   node_modules/forwarded/HISTORY.md
+	new file:   node_modules/forwarded/LICENSE
+	new file:   node_modules/forwarded/README.md
+	new file:   node_modules/forwarded/index.js
+	new file:   node_modules/forwarded/package.json
+	new file:   node_modules/fresh/HISTORY.md
+	new file:   node_modules/fresh/LICENSE
+	new file:   node_modules/fresh/README.md
+	new file:   node_modules/fresh/index.js
+	new file:   node_modules/fresh/package.json
+	new file:   node_modules/function-bind/.eslintrc
+	new file:   node_modules/function-bind/.github/FUNDING.yml
+	new file:   node_modules/function-bind/.github/SECURITY.md
+	new file:   node_modules/function-bind/.nycrc
+	new file:   node_modules/function-bind/CHANGELOG.md
+	new file:   node_modules/function-bind/LICENSE
+	new file:   node_modules/function-bind/README.md
+	new file:   node_modules/function-bind/implementation.js
+	new file:   node_modules/function-bind/index.js
+	new file:   node_modules/function-bind/package.json
+	new file:   node_modules/function-bind/test/.eslintrc
+	new file:   node_modules/function-bind/test/index.js
+	new file:   node_modules/get-intrinsic/.eslintrc
+	new file:   node_modules/get-intrinsic/.github/FUNDING.yml
+	new file:   node_modules/get-intrinsic/.nycrc
+	new file:   node_modules/get-intrinsic/CHANGELOG.md
+	new file:   node_modules/get-intrinsic/LICENSE
+	new file:   node_modules/get-intrinsic/README.md
+	new file:   node_modules/get-intrinsic/index.js
+	new file:   node_modules/get-intrinsic/package.json
+	new file:   node_modules/get-intrinsic/test/GetIntrinsic.js
+	new file:   node_modules/get-proto/.eslintrc
+	new file:   node_modules/get-proto/.github/FUNDING.yml
+	new file:   node_modules/get-proto/.nycrc
+	new file:   node_modules/get-proto/CHANGELOG.md
+	new file:   node_modules/get-proto/LICENSE
+	new file:   node_modules/get-proto/Object.getPrototypeOf.d.ts
+	new file:   node_modules/get-proto/Object.getPrototypeOf.js
+	new file:   node_modules/get-proto/README.md
+	new file:   node_modules/get-proto/Reflect.getPrototypeOf.d.ts
+	new file:   node_modules/get-proto/Reflect.getPrototypeOf.js
+	new file:   node_modules/get-proto/index.d.ts
+	new file:   node_modules/get-proto/index.js
+	new file:   node_modules/get-proto/package.json
+	new file:   node_modules/get-proto/test/index.js
+	new file:   node_modules/get-proto/tsconfig.json
+	new file:   node_modules/gopd/.eslintrc
+	new file:   node_modules/gopd/.github/FUNDING.yml
+	new file:   node_modules/gopd/CHANGELOG.md
+	new file:   node_modules/gopd/LICENSE
+	new file:   node_modules/gopd/README.md
+	new file:   node_modules/gopd/gOPD.d.ts
+	new file:   node_modules/gopd/gOPD.js
+	new file:   node_modules/gopd/index.d.ts
+	new file:   node_modules/gopd/index.js
+	new file:   node_modules/gopd/package.json
+	new file:   node_modules/gopd/test/index.js
+	new file:   node_modules/gopd/tsconfig.json
+	new file:   node_modules/has-symbols/.eslintrc
+	new file:   node_modules/has-symbols/.github/FUNDING.yml
+	new file:   node_modules/has-symbols/.nycrc
+	new file:   node_modules/has-symbols/CHANGELOG.md
+	new file:   node_modules/has-symbols/LICENSE
+	new file:   node_modules/has-symbols/README.md
+	new file:   node_modules/has-symbols/index.d.ts
+	new file:   node_modules/has-symbols/index.js
+	new file:   node_modules/has-symbols/package.json
+	new file:   node_modules/has-symbols/shams.d.ts
+	new file:   node_modules/has-symbols/shams.js
+	new file:   node_modules/has-symbols/test/index.js
+	new file:   node_modules/has-symbols/test/shams/core-js.js
+	new file:   node_modules/has-symbols/test/shams/get-own-property-symbols.js
+	new file:   node_modules/has-symbols/test/tests.js
+	new file:   node_modules/has-symbols/tsconfig.json
+	new file:   node_modules/hasown/.eslintrc
+	new file:   node_modules/hasown/.github/FUNDING.yml
+	new file:   node_modules/hasown/.nycrc
+	new file:   node_modules/hasown/CHANGELOG.md
+	new file:   node_modules/hasown/LICENSE
+	new file:   node_modules/hasown/README.md
+	new file:   node_modules/hasown/index.d.ts
+	new file:   node_modules/hasown/index.js
+	new file:   node_modules/hasown/package.json
+	new file:   node_modules/hasown/tsconfig.json
+	deleted:    node_modules/html-encoding-sniffer/LICENSE.txt
+	deleted:    node_modules/html-encoding-sniffer/README.md
+	deleted:    node_modules/html-encoding-sniffer/lib/html-encoding-sniffer.js
+	deleted:    node_modules/html-encoding-sniffer/package.json
+	new file:   node_modules/http-errors/HISTORY.md
+	new file:   node_modules/http-errors/LICENSE
+	new file:   node_modules/http-errors/README.md
+	new file:   node_modules/http-errors/index.js
+	new file:   node_modules/http-errors/package.json
+	deleted:    node_modules/http-proxy-agent/LICENSE
+	deleted:    node_modules/http-proxy-agent/README.md
+	deleted:    node_modules/http-proxy-agent/dist/index.d.ts
+	deleted:    node_modules/http-proxy-agent/dist/index.d.ts.map
+	deleted:    node_modules/http-proxy-agent/dist/index.js
+	deleted:    node_modules/http-proxy-agent/dist/index.js.map
+	deleted:    node_modules/http-proxy-agent/package.json
+	deleted:    node_modules/https-proxy-agent/LICENSE
+	deleted:    node_modules/https-proxy-agent/README.md
+	deleted:    node_modules/https-proxy-agent/dist/index.d.ts
+	deleted:    node_modules/https-proxy-agent/dist/index.d.ts.map
+	deleted:    node_modules/https-proxy-agent/dist/index.js
+	deleted:    node_modules/https-proxy-agent/dist/index.js.map
+	deleted:    node_modules/https-proxy-agent/dist/parse-proxy-response.d.ts
+	deleted:    node_modules/https-proxy-agent/dist/parse-proxy-response.d.ts.map
+	deleted:    node_modules/https-proxy-agent/dist/parse-proxy-response.js
+	deleted:    node_modules/https-proxy-agent/dist/parse-proxy-response.js.map
+	deleted:    node_modules/https-proxy-agent/package.json
+	new file:   node_modules/iconv-lite/LICENSE
+	new file:   node_modules/iconv-lite/README.md
+	new file:   node_modules/iconv-lite/encodings/dbcs-codec.js
+	new file:   node_modules/iconv-lite/encodings/dbcs-data.js
+	new file:   node_modules/iconv-lite/encodings/index.js
+	new file:   node_modules/iconv-lite/encodings/internal.js
+	new file:   node_modules/iconv-lite/encodings/sbcs-codec.js
+	new file:   node_modules/iconv-lite/encodings/sbcs-data-generated.js
+	new file:   node_modules/iconv-lite/encodings/sbcs-data.js
+	new file:   node_modules/iconv-lite/encodings/tables/big5-added.json
+	new file:   node_modules/iconv-lite/encodings/tables/cp936.json
+	new file:   node_modules/iconv-lite/encodings/tables/cp949.json
+	new file:   node_modules/iconv-lite/encodings/tables/cp950.json
+	new file:   node_modules/iconv-lite/encodings/tables/eucjp.json
+	new file:   node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+	new file:   node_modules/iconv-lite/encodings/tables/gbk-added.json
+	new file:   node_modules/iconv-lite/encodings/tables/shiftjis.json
+	new file:   node_modules/iconv-lite/encodings/utf16.js
+	new file:   node_modules/iconv-lite/encodings/utf32.js
+	new file:   node_modules/iconv-lite/encodings/utf7.js
+	new file:   node_modules/iconv-lite/lib/bom-handling.js
+	new file:   node_modules/iconv-lite/lib/helpers/merge-exports.js
+	new file:   node_modules/iconv-lite/lib/index.d.ts
+	new file:   node_modules/iconv-lite/lib/index.js
+	new file:   node_modules/iconv-lite/lib/streams.js
+	new file:   node_modules/iconv-lite/package.json
+	new file:   node_modules/iconv-lite/types/encodings.d.ts
+	new file:   node_modules/inherits/LICENSE
+	new file:   node_modules/inherits/README.md
+	new file:   node_modules/inherits/inherits.js
+	new file:   node_modules/inherits/inherits_browser.js
+	new file:   node_modules/inherits/package.json
+	new file:   node_modules/ipaddr.js/LICENSE
+	new file:   node_modules/ipaddr.js/README.md
+	new file:   node_modules/ipaddr.js/ipaddr.min.js
+	new file:   node_modules/ipaddr.js/lib/ipaddr.js
+	new file:   node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+	new file:   node_modules/ipaddr.js/package.json
+	deleted:    node_modules/is-potential-custom-element-name/LICENSE-MIT.txt
+	deleted:    node_modules/is-potential-custom-element-name/README.md
+	deleted:    node_modules/is-potential-custom-element-name/index.js
+	deleted:    node_modules/is-potential-custom-element-name/package.json
+	new file:   node_modules/is-promise/LICENSE
+	new file:   node_modules/is-promise/index.d.ts
+	new file:   node_modules/is-promise/index.js
+	new file:   node_modules/is-promise/index.mjs
+	new file:   node_modules/is-promise/package.json
+	new file:   node_modules/is-promise/readme.md
+	deleted:    node_modules/jsdom/LICENSE.txt
+	deleted:    node_modules/jsdom/README.md
+	deleted:    node_modules/jsdom/lib/api.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/Window.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/default-stylesheet.css
+	deleted:    node_modules/jsdom/lib/jsdom/browser/js-globals.json
+	deleted:    node_modules/jsdom/lib/jsdom/browser/not-implemented.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/parser/html.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/parser/index.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/parser/xml.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/async-resource-queue.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/no-op-resource-loader.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/per-document-resource-loader.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/request-manager.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/resource-loader.js
+	deleted:    node_modules/jsdom/lib/jsdom/browser/resources/resource-queue.js
+	deleted:    node_modules/jsdom/lib/jsdom/level2/style.js
+	deleted:    node_modules/jsdom/lib/jsdom/level3/xpath.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/aborting/AbortController-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/aborting/AbortSignal-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/attributes.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/attributes/Attr-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/attributes/NamedNodeMap-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/constraint-validation/DefaultConstraintValidation-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/constraint-validation/ValidityState-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/crypto/Crypto-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/cssom/StyleSheetList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/custom-elements/CustomElementRegistry-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/custom-elements/ElementInternals-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/deviceorientation/DeviceMotionEventAcceleration-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/deviceorientation/DeviceMotionEventRotationRate-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/documents.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/domparsing/DOMParser-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/domparsing/InnerHTML-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/domparsing/XMLSerializer-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/domparsing/parse5-adapter-serialization.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/domparsing/serialization.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/encoding/TextDecoder-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/encoding/TextEncoder-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/BeforeUnloadEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/BlobEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/CloseEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/CompositionEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/CustomEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/DeviceMotionEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/DeviceOrientationEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/ErrorEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/Event-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/EventModifierMixin-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/EventTarget-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/FocusEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/HashChangeEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/InputEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/KeyboardEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/MessageEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/MouseEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/PageTransitionEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/PointerEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/PopStateEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/ProgressEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/PromiseRejectionEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/StorageEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/SubmitEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/TouchEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/TransitionEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/UIEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/events/WheelEvent-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/fetch/Headers-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/fetch/header-list.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/fetch/header-types.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/file-api/Blob-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/file-api/File-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/file-api/FileList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/file-api/FileReader-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/AbortController.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/AbortSignal.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/AbstractRange.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/AddEventListenerOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/AssignedNodesOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Attr.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BarProp.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BeforeUnloadEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BinaryType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Blob.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BlobCallback.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BlobEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BlobEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/BlobPropertyBag.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CDATASection.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CanPlayTypeResult.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CharacterData.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CloseEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CloseEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Comment.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CompositionEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CompositionEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Crypto.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CustomElementConstructor.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CustomElementRegistry.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CustomEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/CustomEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMException.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMImplementation.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMParser.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMRect.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMRectInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMRectReadOnly.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMStringMap.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DOMTokenList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEventAcceleration.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEventAccelerationInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEventRotationRate.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceMotionEventRotationRateInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceOrientationEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DeviceOrientationEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Document.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DocumentFragment.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DocumentReadyState.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/DocumentType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Element.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ElementCreationOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ElementDefinitionOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ElementInternals.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EndingType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ErrorEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ErrorEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Event.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventHandlerNonNull.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventListener.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventListenerOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventModifierInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/EventTarget.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/External.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/File.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FileList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FilePropertyBag.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FileReader.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FocusEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FocusEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/FormData.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Function.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/GetRootNodeOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLAnchorElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLAreaElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLAudioElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLBRElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLBaseElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLBodyElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLButtonElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLCanvasElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLCollection.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDListElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDataElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDataListElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDetailsElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDialogElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDirectoryElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLDivElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLEmbedElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFieldSetElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFontElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFormControlsCollection.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFormElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFrameElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLFrameSetElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLHRElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLHeadElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLHeadingElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLHtmlElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLIFrameElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLImageElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLInputElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLLIElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLLabelElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLLegendElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLLinkElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMapElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMarqueeElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMediaElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMenuElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMetaElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLMeterElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLModElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLOListElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLObjectElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLOptGroupElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLOptionElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLOptionsCollection.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLOutputElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLParagraphElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLParamElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLPictureElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLPreElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLProgressElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLQuoteElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLScriptElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLSelectElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLSlotElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLSourceElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLSpanElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLStyleElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableCaptionElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableCellElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableColElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableRowElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTableSectionElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTemplateElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTextAreaElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTimeElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTitleElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLTrackElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLUListElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLUnknownElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HTMLVideoElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HashChangeEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/HashChangeEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Headers.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/History.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/InputEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/InputEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/KeyboardEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/KeyboardEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Location.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MessageEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MessageEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MimeType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MimeTypeArray.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MouseEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MouseEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MutationCallback.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MutationObserver.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MutationObserverInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/MutationRecord.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/NamedNodeMap.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Navigator.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Node.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/NodeFilter.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/NodeIterator.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/NodeList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/OnBeforeUnloadEventHandlerNonNull.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/OnErrorEventHandlerNonNull.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PageTransitionEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PageTransitionEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Performance.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Plugin.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PluginArray.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PointerEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PointerEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PopStateEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PopStateEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ProcessingInstruction.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ProgressEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ProgressEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PromiseRejectionEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/PromiseRejectionEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/RadioNodeList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Range.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGAnimatedPreserveAspectRatio.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGAnimatedRect.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGAnimatedString.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGBoundingBoxOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGDefsElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGDescElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGGElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGGraphicsElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGMetadataElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGNumber.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGPreserveAspectRatio.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGRect.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGSVGElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGStringList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGSwitchElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGSymbolElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SVGTitleElement.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Screen.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ScrollBehavior.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ScrollIntoViewOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ScrollLogicalPosition.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ScrollOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ScrollRestoration.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Selection.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SelectionMode.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ShadowRoot.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ShadowRootInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ShadowRootMode.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/StaticRange.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/StaticRangeInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Storage.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/StorageEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/StorageEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/StyleSheetList.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SubmitEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SubmitEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/SupportedType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/Text.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextDecodeOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextDecoder.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextDecoderOptions.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextEncoder.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextEncoderEncodeIntoResult.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TextTrackKind.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TouchEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TouchEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TransitionEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TransitionEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/TreeWalker.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/UIEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/UIEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/ValidityState.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/VisibilityState.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/VoidFunction.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/WebSocket.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/WheelEvent.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/WheelEventInit.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLDocument.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLHttpRequest.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLHttpRequestEventTarget.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLHttpRequestResponseType.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLHttpRequestUpload.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/XMLSerializer.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/generated/utils.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/geometry/DOMRect-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/geometry/DOMRectReadOnly-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/agent-factory.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/binary-data.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/colors.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/create-element.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/create-event-accessor.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/custom-elements.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/dates-and-times.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/details.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/events.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/focusing.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/form-controls.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/html-constructor.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/http-request.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/internal-constants.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/is-window.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/iterable-weak-set.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/json.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/mutation-observers.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/namespaces.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/node.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/number-and-date-inputs.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/ordered-set.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/page-transition-event.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/runtime-script-errors.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/shadow-dom.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/strings.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/style-rules.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/stylesheets.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/svg/basic-types.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/svg/render.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/system-colors.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/text.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/traversal.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/helpers/validate-names.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/hr-time/Performance-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/interfaces.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/mutation-observer/MutationObserver-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/mutation-observer/MutationRecord-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/MimeType-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/MimeTypeArray-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/Navigator-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorConcurrentHardware-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorCookies-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorID-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorLanguage-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorOnLine-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/NavigatorPlugins-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/Plugin-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/navigator/PluginArray-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/node-document-position.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/node-type.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/node.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/CDATASection-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/CharacterData-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ChildNode-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Comment-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DOMImplementation-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DOMStringMap-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DOMTokenList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Document-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DocumentFragment-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DocumentOrShadowRoot-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/DocumentType-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Element-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ElementCSSInlineStyle-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ElementContentEditable-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/GlobalEventHandlers-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLAnchorElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLAreaElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLAudioElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLBRElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLBaseElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLBodyElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLButtonElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLCanvasElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLCollection-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDListElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDataElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDataListElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDetailsElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDialogElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDirectoryElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLDivElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLEmbedElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFieldSetElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFontElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormControlsCollection-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFormElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFrameElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLFrameSetElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLHRElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLHeadElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLHeadingElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLHtmlElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLHyperlinkElementUtils-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLIFrameElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLImageElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLInputElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLLIElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLLabelElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLLegendElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLLinkElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMapElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMarqueeElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMediaElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMenuElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMetaElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLMeterElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLModElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOListElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLObjectElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOptGroupElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOptionElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOptionsCollection-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOrSVGElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLOutputElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLParagraphElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLParamElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLPictureElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLPreElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLProgressElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLQuoteElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLScriptElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLSelectElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLSlotElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLSourceElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLSpanElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLStyleElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableCaptionElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableCellElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableColElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableRowElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTableSectionElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTemplateElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTextAreaElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTimeElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTitleElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLTrackElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLUListElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLUnknownElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/HTMLVideoElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/LinkStyle-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Node-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/NodeList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/NonDocumentTypeChildNode-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/NonElementParentNode-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ParentNode-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ProcessingInstruction-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/RadioNodeList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGDefsElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGDescElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGGElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGGraphicsElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGMetadataElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGSVGElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGSwitchElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGSymbolElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGTests-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/SVGTitleElement-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/ShadowRoot-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Slotable-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/Text-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/WindowEventHandlers-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/nodes/XMLDocument-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/range/AbstractRange-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/range/Range-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/range/StaticRange-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/range/boundary-point.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/selection/Selection-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGAnimatedPreserveAspectRatio-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGAnimatedRect-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGAnimatedString-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGListBase.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGNumber-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGPreserveAspectRatio-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGRect-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/svg/SVGStringList-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/traversal/NodeIterator-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/traversal/TreeWalker-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/traversal/helpers.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/webidl/DOMException-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/websockets/WebSocket-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/webstorage/Storage-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window-properties.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/BarProp-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/External-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/History-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/Location-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/Screen-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/SessionHistory.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/window/navigation.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/FormData-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequest-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequestEventTarget-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/XMLHttpRequestUpload-impl.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/multipart-form-data.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/xhr-sync-worker.js
+	deleted:    node_modules/jsdom/lib/jsdom/living/xhr/xhr-utils.js
+	deleted:    node_modules/jsdom/lib/jsdom/utils.js
+	deleted:    node_modules/jsdom/lib/jsdom/virtual-console.js
+	deleted:    node_modules/jsdom/package.json
+	deleted:    node_modules/lru-cache/LICENSE.md
+	deleted:    node_modules/lru-cache/README.md
+	deleted:    node_modules/lru-cache/dist/commonjs/index.d.ts
+	deleted:    node_modules/lru-cache/dist/commonjs/index.d.ts.map
+	deleted:    node_modules/lru-cache/dist/commonjs/index.js
+	deleted:    node_modules/lru-cache/dist/commonjs/index.js.map
+	deleted:    node_modules/lru-cache/dist/commonjs/index.min.js
+	deleted:    node_modules/lru-cache/dist/commonjs/index.min.js.map
+	deleted:    node_modules/lru-cache/dist/commonjs/package.json
+	deleted:    node_modules/lru-cache/dist/esm/index.d.ts
+	deleted:    node_modules/lru-cache/dist/esm/index.d.ts.map
+	deleted:    node_modules/lru-cache/dist/esm/index.js
+	deleted:    node_modules/lru-cache/dist/esm/index.js.map
+	deleted:    node_modules/lru-cache/dist/esm/index.min.js
+	deleted:    node_modules/lru-cache/dist/esm/index.min.js.map
+	deleted:    node_modules/lru-cache/dist/esm/package.json
+	deleted:    node_modules/lru-cache/package.json
+	new file:   node_modules/math-intrinsics/.eslintrc
+	new file:   node_modules/math-intrinsics/.github/FUNDING.yml
+	new file:   node_modules/math-intrinsics/CHANGELOG.md
+	new file:   node_modules/math-intrinsics/LICENSE
+	new file:   node_modules/math-intrinsics/README.md
+	new file:   node_modules/math-intrinsics/abs.d.ts
+	new file:   node_modules/math-intrinsics/abs.js
+	new file:   node_modules/math-intrinsics/constants/maxArrayLength.d.ts
+	new file:   node_modules/math-intrinsics/constants/maxArrayLength.js
+	new file:   node_modules/math-intrinsics/constants/maxSafeInteger.d.ts
+	new file:   node_modules/math-intrinsics/constants/maxSafeInteger.js
+	new file:   node_modules/math-intrinsics/constants/maxValue.d.ts
+	new file:   node_modules/math-intrinsics/constants/maxValue.js
+	new file:   node_modules/math-intrinsics/floor.d.ts
+	new file:   node_modules/math-intrinsics/floor.js
+	new file:   node_modules/math-intrinsics/isFinite.d.ts
+	new file:   node_modules/math-intrinsics/isFinite.js
+	new file:   node_modules/math-intrinsics/isInteger.d.ts
+	new file:   node_modules/math-intrinsics/isInteger.js
+	new file:   node_modules/math-intrinsics/isNaN.d.ts
+	new file:   node_modules/math-intrinsics/isNaN.js
+	new file:   node_modules/math-intrinsics/isNegativeZero.d.ts
+	new file:   node_modules/math-intrinsics/isNegativeZero.js
+	new file:   node_modules/math-intrinsics/max.d.ts
+	new file:   node_modules/math-intrinsics/max.js
+	new file:   node_modules/math-intrinsics/min.d.ts
+	new file:   node_modules/math-intrinsics/min.js
+	new file:   node_modules/math-intrinsics/mod.d.ts
+	new file:   node_modules/math-intrinsics/mod.js
+	new file:   node_modules/math-intrinsics/package.json
+	new file:   node_modules/math-intrinsics/pow.d.ts
+	new file:   node_modules/math-intrinsics/pow.js
+	new file:   node_modules/math-intrinsics/round.d.ts
+	new file:   node_modules/math-intrinsics/round.js
+	new file:   node_modules/math-intrinsics/sign.d.ts
+	new file:   node_modules/math-intrinsics/sign.js
+	new file:   node_modules/math-intrinsics/test/index.js
+	new file:   node_modules/math-intrinsics/tsconfig.json
+	deleted:    node_modules/mdn-data/LICENSE
+	deleted:    node_modules/mdn-data/README.md
+	deleted:    node_modules/mdn-data/api/index.js
+	deleted:    node_modules/mdn-data/api/inheritance.json
+	deleted:    node_modules/mdn-data/api/inheritance.schema.json
+	deleted:    node_modules/mdn-data/css/at-rules.json
+	deleted:    node_modules/mdn-data/css/at-rules.schema.json
+	deleted:    node_modules/mdn-data/css/definitions.json
+	deleted:    node_modules/mdn-data/css/functions.json
+	deleted:    node_modules/mdn-data/css/functions.schema.json
+	deleted:    node_modules/mdn-data/css/index.js
+	deleted:    node_modules/mdn-data/css/properties.json
+	deleted:    node_modules/mdn-data/css/properties.schema.json
+	deleted:    node_modules/mdn-data/css/selectors.json
+	deleted:    node_modules/mdn-data/css/selectors.schema.json
+	deleted:    node_modules/mdn-data/css/syntaxes.json
+	deleted:    node_modules/mdn-data/css/syntaxes.schema.json
+	deleted:    node_modules/mdn-data/css/types.json
+	deleted:    node_modules/mdn-data/css/types.schema.json
+	deleted:    node_modules/mdn-data/css/units.json
+	deleted:    node_modules/mdn-data/css/units.schema.json
+	deleted:    node_modules/mdn-data/index.js
+	deleted:    node_modules/mdn-data/l10n/css.json
+	deleted:    node_modules/mdn-data/l10n/index.js
+	deleted:    node_modules/mdn-data/package.json
+	new file:   node_modules/media-typer/HISTORY.md
+	new file:   node_modules/media-typer/LICENSE
+	new file:   node_modules/media-typer/README.md
+	new file:   node_modules/media-typer/index.js
+	new file:   node_modules/media-typer/package.json
+	new file:   node_modules/merge-descriptors/index.d.ts
+	new file:   node_modules/merge-descriptors/index.js
+	new file:   node_modules/merge-descriptors/license
+	new file:   node_modules/merge-descriptors/package.json
+	new file:   node_modules/merge-descriptors/readme.md
+	new file:   node_modules/mime-db/HISTORY.md
+	new file:   node_modules/mime-db/LICENSE
+	new file:   node_modules/mime-db/README.md
+	new file:   node_modules/mime-db/db.json
+	new file:   node_modules/mime-db/index.js
+	new file:   node_modules/mime-db/package.json
+	new file:   node_modules/mime-types/HISTORY.md
+	new file:   node_modules/mime-types/LICENSE
+	new file:   node_modules/mime-types/README.md
+	new file:   node_modules/mime-types/index.js
+	new file:   node_modules/mime-types/mimeScore.js
+	new file:   node_modules/mime-types/package.json
+	new file:   node_modules/negotiator/HISTORY.md
+	new file:   node_modules/negotiator/LICENSE
+	new file:   node_modules/negotiator/README.md
+	new file:   node_modules/negotiator/index.js
+	new file:   node_modules/negotiator/lib/charset.js
+	new file:   node_modules/negotiator/lib/encoding.js
+	new file:   node_modules/negotiator/lib/language.js
+	new file:   node_modules/negotiator/lib/mediaType.js
+	new file:   node_modules/negotiator/package.json
+	new file:   node_modules/node-domexception/.history/README_20210527203617.md
+	new file:   node_modules/node-domexception/.history/README_20210527212714.md
+	new file:   node_modules/node-domexception/.history/README_20210527213345.md
+	new file:   node_modules/node-domexception/.history/README_20210527213411.md
+	new file:   node_modules/node-domexception/.history/README_20210527213803.md
+	new file:   node_modules/node-domexception/.history/README_20210527214323.md
+	new file:   node_modules/node-domexception/.history/README_20210527214408.md
+	new file:   node_modules/node-domexception/.history/index_20210527203842.js
+	new file:   node_modules/node-domexception/.history/index_20210527203947.js
+	new file:   node_modules/node-domexception/.history/index_20210527204259.js
+	new file:   node_modules/node-domexception/.history/index_20210527204418.js
+	new file:   node_modules/node-domexception/.history/index_20210527204756.js
+	new file:   node_modules/node-domexception/.history/index_20210527204833.js
+	new file:   node_modules/node-domexception/.history/index_20210527211208.js
+	new file:   node_modules/node-domexception/.history/index_20210527211248.js
+	new file:   node_modules/node-domexception/.history/index_20210527212722.js
+	new file:   node_modules/node-domexception/.history/index_20210527212731.js
+	new file:   node_modules/node-domexception/.history/index_20210527212746.js
+	new file:   node_modules/node-domexception/.history/index_20210527212900.js
+	new file:   node_modules/node-domexception/.history/index_20210527213022.js
+	new file:   node_modules/node-domexception/.history/index_20210527213822.js
+	new file:   node_modules/node-domexception/.history/index_20210527213843.js
+	new file:   node_modules/node-domexception/.history/index_20210527213852.js
+	new file:   node_modules/node-domexception/.history/index_20210527213910.js
+	new file:   node_modules/node-domexception/.history/index_20210527214034.js
+	new file:   node_modules/node-domexception/.history/index_20210527214643.js
+	new file:   node_modules/node-domexception/.history/index_20210527214654.js
+	new file:   node_modules/node-domexception/.history/index_20210527214700.js
+	new file:   node_modules/node-domexception/.history/package_20210527203733.json
+	new file:   node_modules/node-domexception/.history/package_20210527203825.json
+	new file:   node_modules/node-domexception/.history/package_20210527204621.json
+	new file:   node_modules/node-domexception/.history/package_20210527204913.json
+	new file:   node_modules/node-domexception/.history/package_20210527204925.json
+	new file:   node_modules/node-domexception/.history/package_20210527205145.json
+	new file:   node_modules/node-domexception/.history/package_20210527205156.json
+	new file:   node_modules/node-domexception/.history/test_20210527205603.js
+	new file:   node_modules/node-domexception/.history/test_20210527205957.js
+	new file:   node_modules/node-domexception/.history/test_20210527210021.js
+	new file:   node_modules/node-domexception/LICENSE
+	new file:   node_modules/node-domexception/README.md
+	new file:   node_modules/node-domexception/index.js
+	new file:   node_modules/node-domexception/package.json
+	new file:   node_modules/node-fetch/@types/index.d.ts
+	new file:   node_modules/node-fetch/LICENSE.md
+	new file:   node_modules/node-fetch/README.md
+	new file:   node_modules/node-fetch/package.json
+	new file:   node_modules/node-fetch/src/body.js
+	new file:   node_modules/node-fetch/src/errors/abort-error.js
+	new file:   node_modules/node-fetch/src/errors/base.js
+	new file:   node_modules/node-fetch/src/errors/fetch-error.js
+	new file:   node_modules/node-fetch/src/headers.js
+	new file:   node_modules/node-fetch/src/index.js
+	new file:   node_modules/node-fetch/src/request.js
+	new file:   node_modules/node-fetch/src/response.js
+	new file:   node_modules/node-fetch/src/utils/get-search.js
+	new file:   node_modules/node-fetch/src/utils/is-redirect.js
+	new file:   node_modules/node-fetch/src/utils/is.js
+	new file:   node_modules/node-fetch/src/utils/multipart-parser.js
+	new file:   node_modules/node-fetch/src/utils/referrer.js
+	new file:   node_modules/object-assign/index.js
+	new file:   node_modules/object-assign/license
+	new file:   node_modules/object-assign/package.json
+	new file:   node_modules/object-assign/readme.md
+	new file:   node_modules/object-inspect/.eslintrc
+	new file:   node_modules/object-inspect/.github/FUNDING.yml
+	new file:   node_modules/object-inspect/.nycrc
+	new file:   node_modules/object-inspect/CHANGELOG.md
+	new file:   node_modules/object-inspect/LICENSE
+	new file:   node_modules/object-inspect/example/all.js
+	new file:   node_modules/object-inspect/example/circular.js
+	new file:   node_modules/object-inspect/example/fn.js
+	new file:   node_modules/object-inspect/example/inspect.js
+	new file:   node_modules/object-inspect/index.js
+	new file:   node_modules/object-inspect/package-support.json
+	new file:   node_modules/object-inspect/package.json
+	new file:   node_modules/object-inspect/readme.markdown
+	new file:   node_modules/object-inspect/test-core-js.js
+	new file:   node_modules/object-inspect/test/bigint.js
+	new file:   node_modules/object-inspect/test/browser/dom.js
+	new file:   node_modules/object-inspect/test/circular.js
+	new file:   node_modules/object-inspect/test/deep.js
+	new file:   node_modules/object-inspect/test/element.js
+	new file:   node_modules/object-inspect/test/err.js
+	new file:   node_modules/object-inspect/test/fakes.js
+	new file:   node_modules/object-inspect/test/fn.js
+	new file:   node_modules/object-inspect/test/global.js
+	new file:   node_modules/object-inspect/test/has.js
+	new file:   node_modules/object-inspect/test/holes.js
+	new file:   node_modules/object-inspect/test/indent-option.js
+	new file:   node_modules/object-inspect/test/inspect.js
+	new file:   node_modules/object-inspect/test/lowbyte.js
+	new file:   node_modules/object-inspect/test/number.js
+	new file:   node_modules/object-inspect/test/quoteStyle.js
+	new file:   node_modules/object-inspect/test/toStringTag.js
+	new file:   node_modules/object-inspect/test/undef.js
+	new file:   node_modules/object-inspect/test/values.js
+	new file:   node_modules/object-inspect/util.inspect.js
+	new file:   node_modules/on-finished/HISTORY.md
+	new file:   node_modules/on-finished/LICENSE
+	new file:   node_modules/on-finished/README.md
+	new file:   node_modules/on-finished/index.js
+	new file:   node_modules/on-finished/package.json
+	new file:   node_modules/once/LICENSE
+	new file:   node_modules/once/README.md
+	new file:   node_modules/once/once.js
+	new file:   node_modules/once/package.json
+	deleted:    node_modules/parse5/LICENSE
+	deleted:    node_modules/parse5/README.md
+	deleted:    node_modules/parse5/dist/common/doctype.d.ts
+	deleted:    node_modules/parse5/dist/common/doctype.js
+	deleted:    node_modules/parse5/dist/common/error-codes.d.ts
+	deleted:    node_modules/parse5/dist/common/error-codes.js
+	deleted:    node_modules/parse5/dist/common/foreign-content.d.ts
+	deleted:    node_modules/parse5/dist/common/foreign-content.js
+	deleted:    node_modules/parse5/dist/common/html.d.ts
+	deleted:    node_modules/parse5/dist/common/html.js
+	deleted:    node_modules/parse5/dist/common/token.d.ts
+	deleted:    node_modules/parse5/dist/common/token.js
+	deleted:    node_modules/parse5/dist/common/unicode.d.ts
+	deleted:    node_modules/parse5/dist/common/unicode.js
+	deleted:    node_modules/parse5/dist/index.d.ts
+	deleted:    node_modules/parse5/dist/index.js
+	deleted:    node_modules/parse5/dist/parser/formatting-element-list.d.ts
+	deleted:    node_modules/parse5/dist/parser/formatting-element-list.js
+	deleted:    node_modules/parse5/dist/parser/index.d.ts
+	deleted:    node_modules/parse5/dist/parser/index.js
+	deleted:    node_modules/parse5/dist/parser/open-element-stack.d.ts
+	deleted:    node_modules/parse5/dist/parser/open-element-stack.js
+	deleted:    node_modules/parse5/dist/serializer/index.d.ts
+	deleted:    node_modules/parse5/dist/serializer/index.js
+	deleted:    node_modules/parse5/dist/tokenizer/index.d.ts
+	deleted:    node_modules/parse5/dist/tokenizer/index.js
+	deleted:    node_modules/parse5/dist/tokenizer/preprocessor.d.ts
+	deleted:    node_modules/parse5/dist/tokenizer/preprocessor.js
+	deleted:    node_modules/parse5/dist/tree-adapters/default.d.ts
+	deleted:    node_modules/parse5/dist/tree-adapters/default.js
+	deleted:    node_modules/parse5/dist/tree-adapters/interface.d.ts
+	deleted:    node_modules/parse5/package.json
+	new file:   node_modules/parseurl/HISTORY.md
+	new file:   node_modules/parseurl/LICENSE
+	new file:   node_modules/parseurl/README.md
+	new file:   node_modules/parseurl/index.js
+	new file:   node_modules/parseurl/package.json
+	new file:   node_modules/path-to-regexp/LICENSE
+	new file:   node_modules/path-to-regexp/Readme.md
+	new file:   node_modules/path-to-regexp/dist/index.d.ts
+	new file:   node_modules/path-to-regexp/dist/index.js
+	new file:   node_modules/path-to-regexp/dist/index.js.map
+	new file:   node_modules/path-to-regexp/package.json
+	new file:   node_modules/proxy-addr/HISTORY.md
+	new file:   node_modules/proxy-addr/LICENSE
+	new file:   node_modules/proxy-addr/README.md
+	new file:   node_modules/proxy-addr/index.js
+	new file:   node_modules/proxy-addr/package.json
+	deleted:    node_modules/punycode/LICENSE-MIT.txt
+	deleted:    node_modules/punycode/README.md
+	deleted:    node_modules/punycode/package.json
+	deleted:    node_modules/punycode/punycode.es6.js
+	deleted:    node_modules/punycode/punycode.js
+	new file:   node_modules/qs/.editorconfig
+	new file:   node_modules/qs/.github/FUNDING.yml
+	new file:   node_modules/qs/.github/SECURITY.md
+	new file:   node_modules/qs/.github/THREAT_MODEL.md
+	new file:   node_modules/qs/.nycrc
+	new file:   node_modules/qs/CHANGELOG.md
+	new file:   node_modules/qs/LICENSE.md
+	new file:   node_modules/qs/README.md
+	new file:   node_modules/qs/dist/qs.js
+	new file:   node_modules/qs/eslint.config.mjs
+	new file:   node_modules/qs/lib/formats.js
+	new file:   node_modules/qs/lib/index.js
+	new file:   node_modules/qs/lib/parse.js
+	new file:   node_modules/qs/lib/stringify.js
+	new file:   node_modules/qs/lib/utils.js
+	new file:   node_modules/qs/package.json
+	new file:   node_modules/qs/test/empty-keys-cases.js
+	new file:   node_modules/qs/test/parse.js
+	new file:   node_modules/qs/test/stringify.js
+	new file:   node_modules/qs/test/utils.js
+	new file:   node_modules/range-parser/HISTORY.md
+	new file:   node_modules/range-parser/LICENSE
+	new file:   node_modules/range-parser/README.md
+	new file:   node_modules/range-parser/index.js
+	new file:   node_modules/range-parser/package.json
+	new file:   node_modules/raw-body/LICENSE
+	new file:   node_modules/raw-body/README.md
+	new file:   node_modules/raw-body/index.d.ts
+	new file:   node_modules/raw-body/index.js
+	new file:   node_modules/raw-body/package.json
+	deleted:    node_modules/require-from-string/index.js
+	deleted:    node_modules/require-from-string/license
+	deleted:    node_modules/require-from-string/package.json
+	deleted:    node_modules/require-from-string/readme.md
+	new file:   node_modules/router/HISTORY.md
+	new file:   node_modules/router/LICENSE
+	new file:   node_modules/router/README.md
+	new file:   node_modules/router/index.js
+	new file:   node_modules/router/lib/layer.js
+	new file:   node_modules/router/lib/route.js
+	new file:   node_modules/router/package.json
+	new file:   node_modules/safer-buffer/LICENSE
+	new file:   node_modules/safer-buffer/Porting-Buffer.md
+	new file:   node_modules/safer-buffer/Readme.md
+	new file:   node_modules/safer-buffer/dangerous.js
+	new file:   node_modules/safer-buffer/package.json
+	new file:   node_modules/safer-buffer/safer.js
+	new file:   node_modules/safer-buffer/tests.js
+	deleted:    node_modules/saxes/README.md
+	deleted:    node_modules/saxes/package.json
+	deleted:    node_modules/saxes/saxes.d.ts
+	deleted:    node_modules/saxes/saxes.js
+	deleted:    node_modules/saxes/saxes.js.map
+	new file:   node_modules/send/LICENSE
+	new file:   node_modules/send/README.md
+	new file:   node_modules/send/index.js
+	new file:   node_modules/send/package.json
+	new file:   node_modules/serve-static/LICENSE
+	new file:   node_modules/serve-static/README.md
+	new file:   node_modules/serve-static/index.js
+	new file:   node_modules/serve-static/package.json
+	new file:   node_modules/setprototypeof/LICENSE
+	new file:   node_modules/setprototypeof/README.md
+	new file:   node_modules/setprototypeof/index.d.ts
+	new file:   node_modules/setprototypeof/index.js
+	new file:   node_modules/setprototypeof/package.json
+	new file:   node_modules/setprototypeof/test/index.js
+	new file:   node_modules/side-channel-list/.editorconfig
+	new file:   node_modules/side-channel-list/.eslintrc
+	new file:   node_modules/side-channel-list/.github/FUNDING.yml
+	new file:   node_modules/side-channel-list/.nycrc
+	new file:   node_modules/side-channel-list/CHANGELOG.md
+	new file:   node_modules/side-channel-list/LICENSE
+	new file:   node_modules/side-channel-list/README.md
+	new file:   node_modules/side-channel-list/index.d.ts
+	new file:   node_modules/side-channel-list/index.js
+	new file:   node_modules/side-channel-list/list.d.ts
+	new file:   node_modules/side-channel-list/package.json
+	new file:   node_modules/side-channel-list/test/index.js
+	new file:   node_modules/side-channel-list/tsconfig.json
+	new file:   node_modules/side-channel-map/.editorconfig
+	new file:   node_modules/side-channel-map/.eslintrc
+	new file:   node_modules/side-channel-map/.github/FUNDING.yml
+	new file:   node_modules/side-channel-map/.nycrc
+	new file:   node_modules/side-channel-map/CHANGELOG.md
+	new file:   node_modules/side-channel-map/LICENSE
+	new file:   node_modules/side-channel-map/README.md
+	new file:   node_modules/side-channel-map/index.d.ts
+	new file:   node_modules/side-channel-map/index.js
+	new file:   node_modules/side-channel-map/package.json
+	new file:   node_modules/side-channel-map/test/index.js
+	new file:   node_modules/side-channel-map/tsconfig.json
+	new file:   node_modules/side-channel-weakmap/.editorconfig
+	new file:   node_modules/side-channel-weakmap/.eslintrc
+	new file:   node_modules/side-channel-weakmap/.github/FUNDING.yml
+	new file:   node_modules/side-channel-weakmap/.nycrc
+	new file:   node_modules/side-channel-weakmap/CHANGELOG.md
+	new file:   node_modules/side-channel-weakmap/LICENSE
+	new file:   node_modules/side-channel-weakmap/README.md
+	new file:   node_modules/side-channel-weakmap/index.d.ts
+	new file:   node_modules/side-channel-weakmap/index.js
+	new file:   node_modules/side-channel-weakmap/package.json
+	new file:   node_modules/side-channel-weakmap/test/index.js
+	new file:   node_modules/side-channel-weakmap/tsconfig.json
+	new file:   node_modules/side-channel/.editorconfig
+	new file:   node_modules/side-channel/.eslintrc
+	new file:   node_modules/side-channel/.github/FUNDING.yml
+	new file:   node_modules/side-channel/.nycrc
+	new file:   node_modules/side-channel/CHANGELOG.md
+	new file:   node_modules/side-channel/LICENSE
+	new file:   node_modules/side-channel/README.md
+	new file:   node_modules/side-channel/index.d.ts
+	new file:   node_modules/side-channel/index.js
+	new file:   node_modules/side-channel/package.json
+	new file:   node_modules/side-channel/test/index.js
+	new file:   node_modules/side-channel/tsconfig.json
+	deleted:    node_modules/source-map-js/LICENSE
+	deleted:    node_modules/source-map-js/README.md
+	deleted:    node_modules/source-map-js/lib/array-set.js
+	deleted:    node_modules/source-map-js/lib/base64-vlq.js
+	deleted:    node_modules/source-map-js/lib/base64.js
+	deleted:    node_modules/source-map-js/lib/binary-search.js
+	deleted:    node_modules/source-map-js/lib/mapping-list.js
+	deleted:    node_modules/source-map-js/lib/quick-sort.js
+	deleted:    node_modules/source-map-js/lib/source-map-consumer.d.ts
+	deleted:    node_modules/source-map-js/lib/source-map-consumer.js
+	deleted:    node_modules/source-map-js/lib/source-map-generator.d.ts
+	deleted:    node_modules/source-map-js/lib/source-map-generator.js
+	deleted:    node_modules/source-map-js/lib/source-node.d.ts
+	deleted:    node_modules/source-map-js/lib/source-node.js
+	deleted:    node_modules/source-map-js/lib/util.js
+	deleted:    node_modules/source-map-js/package.json
+	deleted:    node_modules/source-map-js/source-map.d.ts
+	deleted:    node_modules/source-map-js/source-map.js
+	new file:   node_modules/statuses/HISTORY.md
+	new file:   node_modules/statuses/LICENSE
+	new file:   node_modules/statuses/README.md
+	new file:   node_modules/statuses/codes.json
+	new file:   node_modules/statuses/index.js
+	new file:   node_modules/statuses/package.json
+	deleted:    node_modules/symbol-tree/LICENSE
+	deleted:    node_modules/symbol-tree/README.md
+	deleted:    node_modules/symbol-tree/lib/SymbolTree.js
+	deleted:    node_modules/symbol-tree/lib/SymbolTreeNode.js
+	deleted:    node_modules/symbol-tree/lib/TreeIterator.js
+	deleted:    node_modules/symbol-tree/lib/TreePosition.js
+	deleted:    node_modules/symbol-tree/package.json
+	deleted:    node_modules/tldts-core/LICENSE
+	deleted:    node_modules/tldts-core/README.md
+	deleted:    node_modules/tldts-core/dist/cjs/index.js
+	deleted:    node_modules/tldts-core/dist/cjs/index.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/domain-without-suffix.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/domain-without-suffix.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/domain.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/domain.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/extract-hostname.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/extract-hostname.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/factory.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/factory.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/is-ip.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/is-ip.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/is-valid.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/is-valid.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/lookup/fast-path.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/lookup/fast-path.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/lookup/interface.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/lookup/interface.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/options.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/options.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/src/subdomain.js
+	deleted:    node_modules/tldts-core/dist/cjs/src/subdomain.js.map
+	deleted:    node_modules/tldts-core/dist/cjs/tsconfig.tsbuildinfo
+	deleted:    node_modules/tldts-core/dist/es6/index.js
+	deleted:    node_modules/tldts-core/dist/es6/index.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/domain-without-suffix.js
+	deleted:    node_modules/tldts-core/dist/es6/src/domain-without-suffix.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/domain.js
+	deleted:    node_modules/tldts-core/dist/es6/src/domain.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/extract-hostname.js
+	deleted:    node_modules/tldts-core/dist/es6/src/extract-hostname.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/factory.js
+	deleted:    node_modules/tldts-core/dist/es6/src/factory.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/is-ip.js
+	deleted:    node_modules/tldts-core/dist/es6/src/is-ip.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/is-valid.js
+	deleted:    node_modules/tldts-core/dist/es6/src/is-valid.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/lookup/fast-path.js
+	deleted:    node_modules/tldts-core/dist/es6/src/lookup/fast-path.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/lookup/interface.js
+	deleted:    node_modules/tldts-core/dist/es6/src/lookup/interface.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/options.js
+	deleted:    node_modules/tldts-core/dist/es6/src/options.js.map
+	deleted:    node_modules/tldts-core/dist/es6/src/subdomain.js
+	deleted:    node_modules/tldts-core/dist/es6/src/subdomain.js.map
+	deleted:    node_modules/tldts-core/dist/es6/tsconfig.bundle.tsbuildinfo
+	deleted:    node_modules/tldts-core/dist/types/index.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/domain-without-suffix.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/domain.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/extract-hostname.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/factory.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/is-ip.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/is-valid.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/lookup/fast-path.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/lookup/interface.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/options.d.ts
+	deleted:    node_modules/tldts-core/dist/types/src/subdomain.d.ts
+	deleted:    node_modules/tldts-core/index.ts
+	deleted:    node_modules/tldts-core/package.json
+	deleted:    node_modules/tldts-core/src/domain-without-suffix.ts
+	deleted:    node_modules/tldts-core/src/domain.ts
+	deleted:    node_modules/tldts-core/src/extract-hostname.ts
+	deleted:    node_modules/tldts-core/src/factory.ts
+	deleted:    node_modules/tldts-core/src/is-ip.ts
+	deleted:    node_modules/tldts-core/src/is-valid.ts
+	deleted:    node_modules/tldts-core/src/lookup/fast-path.ts
+	deleted:    node_modules/tldts-core/src/lookup/interface.ts
+	deleted:    node_modules/tldts-core/src/options.ts
+	deleted:    node_modules/tldts-core/src/subdomain.ts
+	deleted:    node_modules/tldts/LICENSE
+	deleted:    node_modules/tldts/README.md
+	deleted:    node_modules/tldts/bin/cli.js
+	deleted:    node_modules/tldts/dist/cjs/index.js
+	deleted:    node_modules/tldts/dist/cjs/index.js.map
+	deleted:    node_modules/tldts/dist/cjs/src/data/trie.js
+	deleted:    node_modules/tldts/dist/cjs/src/data/trie.js.map
+	deleted:    node_modules/tldts/dist/cjs/src/suffix-trie.js
+	deleted:    node_modules/tldts/dist/cjs/src/suffix-trie.js.map
+	deleted:    node_modules/tldts/dist/cjs/tsconfig.tsbuildinfo
+	deleted:    node_modules/tldts/dist/es6/index.js
+	deleted:    node_modules/tldts/dist/es6/index.js.map
+	deleted:    node_modules/tldts/dist/es6/src/data/trie.js
+	deleted:    node_modules/tldts/dist/es6/src/data/trie.js.map
+	deleted:    node_modules/tldts/dist/es6/src/suffix-trie.js
+	deleted:    node_modules/tldts/dist/es6/src/suffix-trie.js.map
+	deleted:    node_modules/tldts/dist/es6/tsconfig.bundle.tsbuildinfo
+	deleted:    node_modules/tldts/dist/index.cjs.min.js
+	deleted:    node_modules/tldts/dist/index.cjs.min.js.map
+	deleted:    node_modules/tldts/dist/index.esm.min.js
+	deleted:    node_modules/tldts/dist/index.esm.min.js.map
+	deleted:    node_modules/tldts/dist/index.umd.min.js
+	deleted:    node_modules/tldts/dist/index.umd.min.js.map
+	deleted:    node_modules/tldts/dist/types/index.d.ts
+	deleted:    node_modules/tldts/dist/types/src/data/trie.d.ts
+	deleted:    node_modules/tldts/dist/types/src/suffix-trie.d.ts
+	deleted:    node_modules/tldts/index.ts
+	deleted:    node_modules/tldts/package.json
+	deleted:    node_modules/tldts/src/data/trie.ts
+	deleted:    node_modules/tldts/src/suffix-trie.ts
+	new file:   node_modules/toidentifier/HISTORY.md
+	new file:   node_modules/toidentifier/LICENSE
+	new file:   node_modules/toidentifier/README.md
+	new file:   node_modules/toidentifier/index.js
+	new file:   node_modules/toidentifier/package.json
+	deleted:    node_modules/tough-cookie/LICENSE
+	deleted:    node_modules/tough-cookie/README.md
+	deleted:    node_modules/tough-cookie/dist/index.cjs
+	deleted:    node_modules/tough-cookie/dist/index.cjs.map
+	deleted:    node_modules/tough-cookie/dist/index.d.cts
+	deleted:    node_modules/tough-cookie/dist/index.d.ts
+	deleted:    node_modules/tough-cookie/dist/index.js
+	deleted:    node_modules/tough-cookie/dist/index.js.map
+	deleted:    node_modules/tough-cookie/package.json
+	deleted:    node_modules/tr46/LICENSE.md
+	deleted:    node_modules/tr46/README.md
+	deleted:    node_modules/tr46/index.js
+	deleted:    node_modules/tr46/lib/mappingTable.json
+	deleted:    node_modules/tr46/lib/regexes.js
+	deleted:    node_modules/tr46/lib/statusMapping.js
+	deleted:    node_modules/tr46/package.json
+	new file:   node_modules/type-is/HISTORY.md
+	new file:   node_modules/type-is/LICENSE
+	new file:   node_modules/type-is/README.md
+	new file:   node_modules/type-is/index.js
+	new file:   node_modules/type-is/package.json
+	new file:   node_modules/unpipe/HISTORY.md
+	new file:   node_modules/unpipe/LICENSE
+	new file:   node_modules/unpipe/README.md
+	new file:   node_modules/unpipe/index.js
+	new file:   node_modules/unpipe/package.json
+	new file:   node_modules/vary/HISTORY.md
+	new file:   node_modules/vary/LICENSE
+	new file:   node_modules/vary/README.md
+	new file:   node_modules/vary/index.js
+	new file:   node_modules/vary/package.json
+	deleted:    node_modules/w3c-xmlserializer/LICENSE.md
+	deleted:    node_modules/w3c-xmlserializer/README.md
+	deleted:    node_modules/w3c-xmlserializer/lib/attributes.js
+	deleted:    node_modules/w3c-xmlserializer/lib/constants.js
+	deleted:    node_modules/w3c-xmlserializer/lib/serialize.js
+	deleted:    node_modules/w3c-xmlserializer/package.json
+	new file:   node_modules/web-streams-polyfill/LICENSE
+	new file:   node_modules/web-streams-polyfill/README.md
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.min.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.min.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.mjs
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es2018.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.min.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.min.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.mjs
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.es6.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.min.js
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.min.js.map
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.mjs
+	new file:   node_modules/web-streams-polyfill/dist/polyfill.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es2018.js
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es2018.js.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es2018.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es6.js
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es6.js.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.es6.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.js
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.js.map
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.mjs
+	new file:   node_modules/web-streams-polyfill/dist/ponyfill.mjs.map
+	new file:   node_modules/web-streams-polyfill/dist/types/polyfill.d.ts
+	new file:   node_modules/web-streams-polyfill/dist/types/ponyfill.d.ts
+	new file:   node_modules/web-streams-polyfill/dist/types/ts3.6/polyfill.d.ts
+	new file:   node_modules/web-streams-polyfill/dist/types/ts3.6/ponyfill.d.ts
+	new file:   node_modules/web-streams-polyfill/dist/types/tsdoc-metadata.json
+	new file:   node_modules/web-streams-polyfill/es2018/package.json
+	new file:   node_modules/web-streams-polyfill/es6/package.json
+	new file:   node_modules/web-streams-polyfill/package.json
+	new file:   node_modules/web-streams-polyfill/ponyfill/es2018/package.json
+	new file:   node_modules/web-streams-polyfill/ponyfill/es6/package.json
+	new file:   node_modules/web-streams-polyfill/ponyfill/package.json
+	deleted:    node_modules/webidl-conversions/LICENSE.md
+	deleted:    node_modules/webidl-conversions/README.md
+	deleted:    node_modules/webidl-conversions/lib/index.js
+	deleted:    node_modules/webidl-conversions/package.json
+	deleted:    node_modules/whatwg-mimetype/LICENSE.txt
+	deleted:    node_modules/whatwg-mimetype/README.md
+	deleted:    node_modules/whatwg-mimetype/lib/mime-type-parameters.js
+	deleted:    node_modules/whatwg-mimetype/lib/mime-type.js
+	deleted:    node_modules/whatwg-mimetype/lib/parser.js
+	deleted:    node_modules/whatwg-mimetype/lib/serializer.js
+	deleted:    node_modules/whatwg-mimetype/lib/utils.js
+	deleted:    node_modules/whatwg-mimetype/package.json
+	deleted:    node_modules/whatwg-url/LICENSE.txt
+	deleted:    node_modules/whatwg-url/README.md
+	deleted:    node_modules/whatwg-url/index.js
+	deleted:    node_modules/whatwg-url/lib/Function.js
+	deleted:    node_modules/whatwg-url/lib/URL-impl.js
+	deleted:    node_modules/whatwg-url/lib/URL.js
+	deleted:    node_modules/whatwg-url/lib/URLSearchParams-impl.js
+	deleted:    node_modules/whatwg-url/lib/URLSearchParams.js
+	deleted:    node_modules/whatwg-url/lib/VoidFunction.js
+	deleted:    node_modules/whatwg-url/lib/encoding.js
+	deleted:    node_modules/whatwg-url/lib/infra.js
+	deleted:    node_modules/whatwg-url/lib/percent-encoding.js
+	deleted:    node_modules/whatwg-url/lib/url-state-machine.js
+	deleted:    node_modules/whatwg-url/lib/urlencoded.js
+	deleted:    node_modules/whatwg-url/lib/utils.js
+	deleted:    node_modules/whatwg-url/package.json
+	deleted:    node_modules/whatwg-url/webidl2js-wrapper.js
+	new file:   node_modules/wrappy/LICENSE
+	new file:   node_modules/wrappy/README.md
+	new file:   node_modules/wrappy/package.json
+	new file:   node_modules/wrappy/wrappy.js
+	deleted:    node_modules/ws/LICENSE
+	deleted:    node_modules/ws/README.md
+	deleted:    node_modules/ws/browser.js
+	deleted:    node_modules/ws/index.js
+	deleted:    node_modules/ws/lib/buffer-util.js
+	deleted:    node_modules/ws/lib/constants.js
+	deleted:    node_modules/ws/lib/event-target.js
+	deleted:    node_modules/ws/lib/extension.js
+	deleted:    node_modules/ws/lib/limiter.js
+	deleted:    node_modules/ws/lib/permessage-deflate.js
+	deleted:    node_modules/ws/lib/receiver.js
+	deleted:    node_modules/ws/lib/sender.js
+	deleted:    node_modules/ws/lib/stream.js
+	deleted:    node_modules/ws/lib/subprotocol.js
+	deleted:    node_modules/ws/lib/validation.js
+	deleted:    node_modules/ws/lib/websocket-server.js
+	deleted:    node_modules/ws/lib/websocket.js
+	deleted:    node_modules/ws/package.json
+	deleted:    node_modules/ws/wrapper.mjs
+	deleted:    node_modules/xml-name-validator/LICENSE.txt
+	deleted:    node_modules/xml-name-validator/README.md
+	deleted:    node_modules/xml-name-validator/lib/xml-name-validator.js
+	deleted:    node_modules/xml-name-validator/package.json
+	deleted:    node_modules/xmlchars/LICENSE
+	deleted:    node_modules/xmlchars/README.md
+	deleted:    node_modules/xmlchars/package.json
+	deleted:    node_modules/xmlchars/xml/1.0/ed4.d.ts
+	deleted:    node_modules/xmlchars/xml/1.0/ed4.js
+	deleted:    node_modules/xmlchars/xml/1.0/ed4.js.map
+	deleted:    node_modules/xmlchars/xml/1.0/ed5.d.ts
+	deleted:    node_modules/xmlchars/xml/1.0/ed5.js
+	deleted:    node_modules/xmlchars/xml/1.0/ed5.js.map
+	deleted:    node_modules/xmlchars/xml/1.1/ed2.d.ts
+	deleted:    node_modules/xmlchars/xml/1.1/ed2.js
+	deleted:    node_modules/xmlchars/xml/1.1/ed2.js.map
+	deleted:    node_modules/xmlchars/xmlchars.d.ts
+	deleted:    node_modules/xmlchars/xmlchars.js
+	deleted:    node_modules/xmlchars/xmlchars.js.map
+	deleted:    node_modules/xmlchars/xmlns/1.0/ed3.d.ts
+	deleted:    node_modules/xmlchars/xmlns/1.0/ed3.js
+	deleted:    node_modules/xmlchars/xmlns/1.0/ed3.js.map
+	modified:   package-lock.json
+	modified:   package.json
+	deleted:    parse.js
+	deleted:    patrocinadores.html
+	deleted:    pruebas/index-prueba.html
+	deleted:    pruebas/styles.css
+	modified:   sobre_nosotros.html
+	new file:   styles.css
+	new file:   tareas importantes a realizar.txt
+	modified:   valores_eticos.html
+
+Unmerged paths:
+  (use "git add/rm <file>..." as appropriate to mark resolution)
+	deleted by them: index.html
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   juego.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	error.txt
+
