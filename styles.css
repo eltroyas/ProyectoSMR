@@ -1,4 +1,11 @@
 /* base */
+:root {
+  --primary-blue: #2b3b95;
+  --dark-blue: #131e4a;
+  --white: #ffffff;
+  --slider-height: 420px;
+  --transition: all .4s ease;
+}
 html {
   scroll-behavior: smooth;
   margin: 0 auto;
@@ -7,8 +14,14 @@ html {
 .inicio-contenido-div {
   color: rgba(245, 245, 245, 0.85);
   font-family: "Space Grotesk", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 30vh;
 }
-
+#inicio-contenido-h2 {
+  text-align: center;
+}
 /* contacto2 */
 
 /* --- SECCIÓN CONTACTO ADAPTADA --- */
@@ -370,8 +383,14 @@ p {
   font-family: inherit;
   font-weight: bold;
   cursor: pointer;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--dark-blue);
+  transition: var(--transition);
 }
-
+.nav-btn:hover {
+  background: var(--primary-blue);
+  color: var(--white);
+}
 /* --- ESTILOS DEL FOOTER --- */
 .main-footer {
   background: #0a0a0a;
@@ -1006,4 +1025,170 @@ color: whitesmoke;
 }
 .slider .slide.inventure:before {
 	background: url("https://hypra.tech/wp-content/themes/hypra_theme/img/inventure_g.png") no-repeat;
+}
+/* slider banner */
+
+/* --- Variables y Reset --- */
+:root {
+  --primary-blue: #2b3b95;
+  --dark-blue: #131e4a;
+  --white: #ffffff;
+  --slider-height: 60vh;
+  --transition: all .4s ease;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 100px;
+}
+
+/* --- Utilidades --- */
+.blackfont { color: #000 !important; }
+.whitefont { color: var(--white) !important; }
+
+/* --- Slider Core --- */
+.hero-slider {
+  border-radius: 50px;
+  margin: 0;
+  padding: 0;
+   border: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 100px;
+  width: 100%;
+  height: var(--slider-height);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-slider .swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.hero-slider .swiper-slide {
+  overflow: hidden;
+  color: var(--white);
+}
+
+.hero-slider .slide-inner {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+
+/* --- Contenido del Slide --- */
+.hero-style .slide-title h2 {
+  font-size: clamp(35px, 5vw, 50px); /* Ajuste automático de fuente */
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 35px;
+  text-transform: capitalize;
+}
+
+.hero-style .slide-text p {
+  font-size: clamp(16px, 3vw, 32px);
+  font-weight: 500;
+  opacity: 0.8;
+  margin-bottom: 40px;
+}
+
+/* --- Botones de Navegación --- */
+.hero-slider .swiper-button-prev,
+.hero-slider .swiper-button-next {
+  width: 40px;
+  height: 40px;
+  border: 2px solid #d4d3d3;
+  border-radius: 50%;
+  opacity: 0;
+  transition: var(--transition);
+  background: transparent;
+}
+
+.hero-slider:hover .swiper-button-prev,
+.hero-slider:hover .swiper-button-next {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.hero-slider .swiper-button-prev { left: 25px; transform: translateX(-20px); }
+.hero-slider .swiper-button-next { right: 25px; transform: translateX(20px); }
+
+/* Iconos de navegación (FontAwesome) */
+.hero-slider .swiper-button-prev::after,
+.hero-slider .swiper-button-next::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 18px;
+  color: #d4d3d3;
+}
+
+.hero-slider .swiper-button-prev::after { content: "\f060"; }
+.hero-slider .swiper-button-next::after { content: "\f061"; }
+
+/* --- Pagination --- */
+.hero-slider .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background: var(--white);
+  opacity: 0.5;
+  transition: var(--transition);
+}
+
+.hero-slider .swiper-pagination-bullet-active {
+  opacity: 1;
+  width: 30px; /* Efecto moderno alargado */
+  border-radius: 5px;
+}
+
+.hero-slider .swiper-pagination {
+  bottom: 30px !important;
+  max-width: 1200px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+
+/* --- Componentes: Botones Temáticos --- */
+.theme-btn, .theme-btn-s2 {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 30px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  display: inline-block;
+  transition: var(--transition);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.theme-btn-s2 {
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--dark-blue);
+}
+
+.theme-btn-s2:hover {
+  background: var(--primary-blue);
+  color: var(--white);
+}
+
+.theme-btn-s3 {
+  font-size: 16px;
+  color: var(--white);
+  text-transform: uppercase;
+  margin-left: 15px;
+}
+
+/* --- Media Queries --- */
+@media (max-width: 767px) {
+  .hero-slider .swiper-button-prev,
+  .hero-slider .swiper-button-next {
+    display: none; /* Ocultar flechas en móvil para limpiar la vista */
+  }
+  
+  .hero-slider .swiper-pagination {
+    text-align: center;
+  }
 }
