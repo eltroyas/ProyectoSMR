@@ -329,7 +329,6 @@ p {
   display: flex;
   justify-content: center; /* Cambiado: centra el contenido interno */
   padding: 0;             /* Eliminamos el padding lateral de aquí */
-  
   box-sizing: border-box;
 }
 
