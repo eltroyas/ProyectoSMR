@@ -583,6 +583,7 @@ header {
   font-family: "Space Grotesk", sans-serif;
   width: 30%;
   margin-top: 20px;
+  font-weight: 900;
 }
 .btn-seccion:hover {
 background: var(--primary-blue);
