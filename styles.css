@@ -567,6 +567,31 @@ header {
 .seccion img {
   width: 100%;
 }
+.btn-seccion {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 30px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  display: inline-block;
+  transition: var(--transition);
+  cursor: pointer;
+  text-decoration: none;
+   background: rgba(255, 255, 255, 0.9);
+  border: none;
+  font-family: "Space Grotesk", sans-serif;
+  width: 30%;
+  margin-top: 20px;
+}
+.btn-seccion:hover {
+background: var(--primary-blue);
+  color: var(--white);
+}
+.img-seccion {
+  max-height: 20vh;
+  object-fit: cover;
+}
 .inicio-articulo-temas-flex {
     display: flex;
     justify-content: space-between;
@@ -909,6 +934,9 @@ color: whitesmoke;
     margin: 0;
     padding: 0;
 }
+.texto-legal img {
+  border-radius: 20px;
+}
 .update {
     font-weight: 900;
     font-style: italic;
@@ -1166,6 +1194,8 @@ color: whitesmoke;
 .theme-btn-s2 {
   background: rgba(255, 255, 255, 0.9);
   color: var(--dark-blue);
+  border: none;
+  font-family: "Space Grotesk", sans-serif;
 }
 
 .theme-btn-s2:hover {
