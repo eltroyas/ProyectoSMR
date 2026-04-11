@@ -239,10 +239,6 @@ h1 {
   background: #6780af;
 
 }
-.card:nth-child(2) .card__content p{
-
-}
-
 .card:nth-child(3) {
   --index: 3;
 }
@@ -888,13 +884,27 @@ background: var(--primary-blue);
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
         }
+.texto-legal {
+  background-color: rgba(255, 255, 255, 0.094);
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 850px;
+  padding: 50px 100px;
+  
+}
+.texto-legal h1 {
+  font-size: 2rem;
+}
 .texto-legal p {
   color: rgba(255, 255, 255, 0.844);
     max-width: 800px;
 }
+.texto-legal p, .texto-legal ul li, .texto-legal ol li {
+  font-size: 0.99em;
+}
 .texto-legal h2 {
   color: whitesmoke;
-  font-size: 2rem;
+  font-size: 1.5rem;
     margin-top: 1em;
 }
 .texto-legal h2 + p,.texto-legal p + p,.texto-legal h3 + p {
