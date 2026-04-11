@@ -1,6 +1,0 @@
-npm init -y
-npm install express cors dotenv node-fetch
-arrancar
-npm init -y
-npm install express cors dotenv node-fetch
-node server.js
