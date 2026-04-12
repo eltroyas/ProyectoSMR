@@ -885,12 +885,20 @@ background: var(--primary-blue);
             -moz-osx-font-smoothing: grayscale;
         }
 .texto-legal {
+  background-blend-mode: normal;
   background-color: rgba(255, 255, 255, 0.094);
   box-sizing: border-box;
   margin: 0 auto;
   max-width: 850px;
   padding: 50px 100px;
-  
+  margin-bottom: 20px;
+background: linear-gradient(
+  to right,
+  #111 0%,
+  rgba(255, 255, 255, 0.094) 45%,
+  rgba(255, 255, 255, 0.094) 55%,
+  #111 100%
+);
 }
 .texto-legal h1 {
   font-size: 2rem;
