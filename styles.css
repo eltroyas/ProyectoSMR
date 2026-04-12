@@ -1899,10 +1899,6 @@ div.container {
   flex-direction: column;
   max-height: 300px;
 }
-.year ul li {
-  scroll-snap-align: start;
-    scroll-snap-stop: always; /* Evita que el usuario se salte párrafos al scrollear rápido */
-}
 div.header {
   height: auto;
   text-align: center;
