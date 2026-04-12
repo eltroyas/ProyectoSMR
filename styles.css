@@ -1898,6 +1898,7 @@ div.container {
   flex: auto;
   flex-direction: column;
   max-height: 300px;
+  margin-top: 30px;
 }
 div.header {
   height: auto;
@@ -1975,7 +1976,7 @@ div.item {
 
 #timeline h3 {
   position: sticky;
-  top: 5rem;
+  top: 0rem;
   color: #888;
   margin: 0;
   font-size: 1em;
