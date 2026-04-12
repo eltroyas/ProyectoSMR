@@ -890,13 +890,14 @@ background: var(--primary-blue);
   box-sizing: border-box;
   margin: 0 auto;
   max-width: 850px;
-  padding: 50px 100px;
+  /*padding: 50px 100px;*/
+  padding: 3% 6.6%;
   margin-bottom: 20px;
 background: linear-gradient(
   to right,
   #111 0%,
-  rgba(255, 255, 255, 0.094) 45%,
-  rgba(255, 255, 255, 0.094) 55%,
+  rgba(255, 255, 255, 0.094) 1%,
+  rgba(255, 255, 255, 0.094) 99%,
   #111 100%
 );
 }
