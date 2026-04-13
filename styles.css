@@ -1962,7 +1962,10 @@ div.item {
   margin-right: auto;
 
 }
-
+#timeline hr {
+  width: 50%;
+  margin: 0 auto;
+}
 #timeline div:after {
   content: '';
   width: 2px;
