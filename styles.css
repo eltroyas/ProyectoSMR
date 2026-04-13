@@ -1947,6 +1947,7 @@ div.header h2 {
 .year h3 {
     position: sticky;
 }
+
 div.item {
   display: flex;
   flex: auto;
@@ -1963,8 +1964,11 @@ div.item {
 
 }
 #timeline hr {
-  width: 50%;
-  margin: 0 auto;
+  position: sticky;
+  top: 0rem;
+  width: 10%;
+  border:0.5px solid #888;
+  margin: 0;
 }
 #timeline div:after {
   content: '';
@@ -1979,7 +1983,7 @@ div.item {
 
 #timeline h3 {
   position: sticky;
-  top: 0rem;
+  top: 2rem;
   color: #888;
   margin: 0;
   font-size: 1em;
@@ -2007,22 +2011,6 @@ div.item {
   margin-bottom: 2.2em;
 }
 
-#timeline section.year section h4 {
-  position: absolute;
-  bottom: 0;
-  font-size: .9em;
-  font-weight: 400;
-  line-height: 1.2em;
-  margin: 0;
-  padding: 0 0 0 89px;
-  color: #C5C5C5;
-}
-
-@media (min-width: 62em) {
-  #timeline section.year section h4 {
-    font-size: 1em;
-  }
-}
 
 #timeline section.year section ul {
   list-style-type: none;
