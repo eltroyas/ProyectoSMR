@@ -631,8 +631,29 @@ background: var(--primary-blue);
 .curso {
   min-height: 40px;
 }
+/* 1. Cambiamos el selector a .item */
 .curso-texto::-webkit-scrollbar {
-  width: 5px;               /* width of the entire scrollbar */
+  width: 5px; /* Ancho de la barra */
+}
+
+.curso-texto::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05); /* Color del fondo de la barra */
+  border-radius: 10px;
+}
+
+.curso-texto::-webkit-scrollbar-thumb {
+  background-color: #ccc; /* Color de la pieza que se mueve */
+  border-radius: 10px;
+}
+
+.curso-texto::-webkit-scrollbar-thumb:hover {
+  background-color: #888; /* Efecto al pasar el ratón */
+}
+
+/* 2. Compatibilidad para Firefox (Estándar moderno) */
+.curso-texto {
+  scrollbar-width: thin;
+  scrollbar-color: #ccc rgba(0, 0, 0, 0.05);
 }
 .curso a {
   color: whitesmoke;
@@ -656,13 +677,7 @@ background: var(--primary-blue);
 .curso-btn button {
   color: white;
 }
-.curso-texto::-webkit-scrollbar-track {
-  background: rgba(255, 255, 255, 0.08);        /* color of the tracking area */
-}
 
-.curso-texto::-webkit-scrollbar-thumb {
-  background-color: whitesmoke;    /* color of the scroll thumb */
-}
 .curso-centrado {
     display: flex;
     flex-direction: column;
@@ -721,15 +736,7 @@ background: var(--primary-blue);
     scroll-snap-stop: always; /* Evita que el usuario se salte párrafos al scrollear rápido */
 }
 
-/* Opcional: Ocultar scrollbar pero mantener funcionalidad para un look más limpio */
-.curso-texto::-webkit-scrollbar {
-    width: 4px;
-}
 
-.curso-texto::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.3);
-    border-radius: 10px;
-}
 /* patrocinadores */
         .marquee-wrapper {
             overflow: hidden;
@@ -1897,7 +1904,7 @@ div.container {
   display: flex;
   flex: auto;
   flex-direction: column;
-  max-height: 300px;
+  max-height: 350px;
   margin-top: 30px;
 }
 div.header {
@@ -1944,6 +1951,7 @@ div.header h2 {
   max-width: 30rem;
   margin: auto;
 }
+
 .year h3 {
     position: sticky;
 }
@@ -1962,13 +1970,6 @@ div.item {
   margin-left: auto;
   margin-right: auto;
 
-}
-#timeline hr {
-  position: sticky;
-  top: 0rem;
-  width: 10%;
-  border:0.5px solid #888;
-  margin: 0;
 }
 #timeline div:after {
   content: '';
@@ -2063,3 +2064,46 @@ div.item {
   font-weight: 500;
 }
 
+/* 1. Cambiamos el selector a .item */
+.item::-webkit-scrollbar {
+  width: 5px; /* Ancho de la barra */
+}
+
+.item::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05); /* Color del fondo de la barra */
+  border-radius: 10px;
+}
+
+.item::-webkit-scrollbar-thumb {
+  background-color: #ccc; /* Color de la pieza que se mueve */
+  border-radius: 10px;
+}
+
+.item::-webkit-scrollbar-thumb:hover {
+  background-color: #888; /* Efecto al pasar el ratón */
+}
+
+/* 2. Compatibilidad para Firefox (Estándar moderno) */
+.item {
+  scrollbar-width: thin;
+  scrollbar-color: #ccc rgba(0, 0, 0, 0.05);
+}
+.item {
+    
+    /* 2. Scroll vertical obligatorio */
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+    
+    /* 3. Limpiamos comportamiento */
+    overscroll-behavior: contain;
+    position: relative;
+}
+
+.item section {
+/* 4. El párrafo DEBE medir lo mismo que el contenedor padre */
+    height: 350px; 
+    width: 100%;
+    /* 6. El imán del scroll */
+    scroll-snap-align: start;
+    scroll-snap-stop: always; /* Evita que el usuario se salte párrafos al scrollear rápido */
+}
