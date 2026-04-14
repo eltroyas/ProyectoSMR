@@ -2107,3 +2107,7 @@ div.item {
     scroll-snap-align: start;
     scroll-snap-stop: always; /* Evita que el usuario se salte párrafos al scrollear rápido */
 }
+.year img {
+  max-height: 100px;
+  object-fit: contain;
+}
