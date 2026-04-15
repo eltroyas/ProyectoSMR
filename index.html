@@ -117,7 +117,7 @@
     </div>
     <div class="card__column-text">
       <h2>Formación disponible próximamente</h2>
-      <p>Trabajamos de forma ardua para ofrecerte formación siempre pendientes de las últimas tendecias y tecnologías.</p>
+      <p>Trabajamos para ofrecerte una enseñanza de calidad y ofrecemos nuevos contenidos constantemente.</p>
       <a href="formacion_prox.html" class="btn-more">Explorar</a>
     </div>
   </div>
@@ -127,7 +127,7 @@
     <div class="card__column-text">
       <h2>Sobre nosotros</h2>
       <p>
-              Fundada en 2025 por Iván Gimeno e Izan Gregorio nos presentamos como una startup de formación en tecnologías frontera en plena etapa de expansión.
+              Fundada en 2025 por Iván Gimeno e Izan Gregorio nos presentamos como una startup de formación en tecnologías y temáticas pintorescas en plena etapa de expansión.
        </p>
       <a href="sobre_nosotros.html" class="btn-more">Explorar</a>
     </div>
@@ -188,23 +188,39 @@
 <section id="contacto">
   <header style="height: 100%;" class="header-footer">
     <h2>Contacto</h2>
-<section class="contacto-section" >
-  <div class="input-container">
-    <div class="styled-input">
-      <input type="text" placeholder=" " required />
-      <label>Nombre</label>
-    </div>
-    <div class="styled-input">
-      <input type="email" placeholder=" " required />
-      <label>Email</label>
-    </div>
-    <div class="styled-input wide">
-      <textarea placeholder=" " required></textarea>
-      <label>Mensaje</label>
-    </div>
-    <button class="submit-btn">Enviar Mensaje</button>
-  </div>
-</section>
+
+    <section class="contacto-section">
+      <!-- ==================== FORMULARIO FORMSubmit ==================== -->
+      <form action="" method="POST">
+        
+        <div class="input-container">
+          
+          <div class="styled-input">
+            <input type="text" name="nombre" placeholder=" " required />
+            <label>Nombre</label>
+          </div>
+
+          <div class="styled-input">
+            <input type="email" name="email" placeholder=" " required />
+            <label>Email</label>
+          </div>
+
+          <div class="styled-input wide">
+            <textarea name="mensaje" placeholder=" " required></textarea>
+            <label>Mensaje</label>
+          </div>
+
+          <!-- Campos ocultos recomendados -->
+          <input type="hidden" name="_subject" value="Nuevo mensaje desde el formulario de contacto">
+          <input type="hidden" name="_next" value="https://tudominio.com/gracias.html"> <!-- Cambia esta URL o bórrala -->
+          <!-- <input type="hidden" name="_captcha" value="false"> --> <!-- Descomenta solo si quieres desactivar el captcha (más riesgo de spam) -->
+
+          <button type="submit" class="submit-btn">Enviar Mensaje</button>
+        </div>
+      </form>
+      <!-- ================================================================ -->
+
+    </section>
   </header>
 </section>
 <!--
