@@ -2042,3 +2042,33 @@ div.item {
   max-height: 100px;
   object-fit: contain;
 }
+/* Asegura que la tarjeta de Microlink no rompa tu diseño */
+.microlink_card {
+  max-width: 100% !important;
+  margin: 2rem auto !important;
+  border: none !important; /* El overlay ya trae su propio diseño */
+  font-family: 'Space Grotesk', sans-serif !important;
+}
+
+/* Si quieres que salgan una al lado de la otra en pantallas grandes */
+.contenedor-previews {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media (min-width: 768px) {
+  .contenedor-previews {
+    flex-direction: row;
+  }
+  .microlink_card {
+    flex: 1;
+  }
+}
+.microlink_card {
+  display: block !important;
+  width: 100% !important;
+  min-height: 200px !important; /* Fuerza una altura mínima mientras carga */
+  max-width: 600px;
+  margin: 20px auto;
+}
