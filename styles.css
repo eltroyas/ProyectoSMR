@@ -630,6 +630,33 @@ background: var(--primary-blue);
 }
 .curso {
   min-height: 40px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50px;
+  backdrop-filter: blur(10px);
+  padding: 20px 0;
+}
+/* curso variants */
+#curso1 {
+  background-color: #2a2260;
+}
+#curso2 {
+  background-color: #6780af;
+}
+#curso3 {
+  background-color: #80d0d4;
+  color: black;
+}
+#curso3 p, #curso3 a {
+  color: black;
+}
+#curso4 {
+  background-color: #7a61dd;
+}
+#curso5 {
+  background-color: #d0a675;
+}
+#curso5 p, #curso5 a {
+  color: black;
 }
 /* 1. Cambiamos el selector a .item */
 .curso-texto::-webkit-scrollbar {
@@ -661,7 +688,6 @@ background: var(--primary-blue);
 }
 .curso-btn {
   color: white;
-  align-self: flex-start;
   padding: 12px 25px;
   background: rgba(255,255,255,0.1);
   border: 1px solid rgba(255,255,255,0.2);
