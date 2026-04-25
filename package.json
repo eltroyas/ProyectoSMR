@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@microlink/mql": "^0.16.0",
-    "curl": "^0.1.4"
-  }
-}
