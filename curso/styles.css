@@ -8,10 +8,10 @@
 .h5p-single-choice-set,
 .h5p-sc-set-wrapper,
 .h5p-question-explanation-container {
-    max-width: 100% !important;
-    width: 100% !important;
+    min-width: 100% !important;
+    height: 100% !important;
     box-sizing: border-box !important;
-    border-radius: 1rem !important;
+
 
 }
 /* Sobrescribir todos los elementos de texto dentro */
