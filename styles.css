@@ -585,8 +585,7 @@ header {
   border-radius: 20px;
 }
 .seccion img {
-  width: 100%;
-  max-height: 20vh;
+
 }
 .btn-seccion {
   text-transform: uppercase;
@@ -613,7 +612,7 @@ background: var(--primary-blue);
 .img-seccion {
   max-height: 20vh;
   object-fit: cover;
-
+min-width: 100%;
 }
 #img-prime {
   max-height: 14.2rem;
