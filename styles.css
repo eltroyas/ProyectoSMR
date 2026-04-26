@@ -615,9 +615,13 @@ background: var(--primary-blue);
 min-width: 100%;
 }
 #img-prime {
+  min-width: 50%;
   max-height: 14.2rem;
   object-fit: cover;
   object-position: top;
+}
+#img-prime img {
+  max-width: 10px;
 }
 .inicio-articulo-temas-flex {
     display: flex;
