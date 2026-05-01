@@ -616,7 +616,7 @@ min-width: 100%;
 }
 #img-prime {
   min-width: 50%;
-  max-height: 14.2rem;
+  max-height: 16.5rem;
   object-fit: cover;
   object-position: top;
 }
