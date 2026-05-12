@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  12 MAY 2026 21:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  12 MAY 2026 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -198,7 +198,8 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 301--302
 [][] 
  []
 
-[11 <./IMG/diagrama1.jpg>] [12] (MEMORIA09.aux
+[11 <./IMG/diagrama1.jpg>] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+(MEMORIA09.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -210,7 +211,7 @@ L3 programming layer <2025-12-24>
 Here is how much of TeX's memory you used:
  3057 strings out of 467871
  49196 string characters out of 5428453
- 466736 words of memory out of 5000000
+ 468736 words of memory out of 5000000
  31938 multiletter control sequences out of 15000+600000
  636868 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -224,9 +225,9 @@ i600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
 /ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (12 pages, 196515 bytes).
+Output written on MEMORIA09.pdf (20 pages, 214458 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
+ 406 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
