@@ -10,4 +10,5 @@
 \contentsline {subsubsection}{\numberline {3.1.5}Conocimiento del Sector:}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{6}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{6}{}%
-\contentsline {section}{\numberline {4}Conclusiones}{10}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{10}{}%
+\contentsline {section}{\numberline {4}Conclusiones}{11}{}%
