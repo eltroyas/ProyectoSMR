@@ -1,22 +1,23 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Objetivos de la práctica}{3}{}%
-\contentsline {section}{\numberline {2}Relación de herramientas (soft/hard) utilizadas en el desarrollo de la práctica.}{3}{}%
-\contentsline {section}{\numberline {3}Realización de la práctica}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Introducción y Contextualización}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}Título del proyecto}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Justificación}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}Objetivos generales}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}Identificación de necesidades}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.5}Conocimiento del Sector:}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{5}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{8}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{9}{}%
-\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{16}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{16}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{16}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{17}{}%
-\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{17}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{17}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}Prototipado previo:}{18}{}%
-\contentsline {section}{\numberline {4}Conclusiones}{22}{}%
+\contentsline {section}{\numberline {1}Objetivos de la práctica}{3}{section.1}%
+\contentsline {section}{\numberline {2}Relación de herramientas (soft/hard) utilizadas en el desarrollo de la práctica.}{3}{section.2}%
+\contentsline {section}{\numberline {3}Realización de la práctica}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Introducción y Contextualización}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Título del proyecto}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Justificación}{3}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Objetivos generales}{3}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Identificación de necesidades}{3}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Conocimiento del Sector:}{4}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{8}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{9}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{16}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{16}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{16}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{17}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{17}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{17}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Prototipado previo:}{18}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Desarrollo frontend}{28}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}Conclusiones}{28}{section.4}%
