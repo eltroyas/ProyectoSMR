@@ -12,4 +12,7 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{6}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{10}{}%
 \contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{11}{}%
-\contentsline {section}{\numberline {4}Conclusiones}{20}{}%
+\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{20}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{20}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{21}{}%
+\contentsline {section}{\numberline {4}Conclusiones}{21}{}%
