@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  13 MAY 2026 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  13 MAY 2026 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -308,16 +308,46 @@ Package pdftex.def Info: IMG/ncpa.cpl.jpg  used on input line 839.
 File: IMG/OPALO-CANVA/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-CANVA/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/LANDING PAGE.png  used on input line 8
-60.
+57.
 (pdftex.def)             Requested size: 130.62521pt x 613.05138pt.
 <IMG/OPALO-NEW/LANDING PAGE.png, id=72, 617.30624pt x 2122.93124pt>
 File: IMG/OPALO-NEW/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-NEW/LANDING PAGE.png>
-Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 867
+Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 864
 .
 (pdftex.def)             Requested size: 178.26068pt x 613.04285pt.
- [19 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>] [
-20
+ [19 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>]
+<IMG/OPALO-CANVA/AVISO LEGAL.png, id=80, 1028.4021pt x 944.0871pt>
+File: IMG/OPALO-CANVA/AVISO LEGAL.png Graphic file (type png)
+<use IMG/OPALO-CANVA/AVISO LEGAL.png>
+Package pdftex.def Info: IMG/OPALO-CANVA/AVISO LEGAL.png  used on input line 87
+9.
+(pdftex.def)             Requested size: 225.21349pt x 206.74902pt.
+<IMG/OPALO-NEW/AVISO LEGAL.png, id=81, 2742.245pt x 3950.76pt>
+File: IMG/OPALO-NEW/AVISO LEGAL.png Graphic file (type png)
+<use IMG/OPALO-NEW/AVISO LEGAL.png>
+Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 886.
+
+(pdftex.def)             Requested size: 225.20029pt x 324.44669pt.
+ [20 <./IMG/OPALO-CANVA/AVISO LEGAL.png (PNG copy)> <./IMG/OPALO-NEW/AVISO LEGA
+L.png>]
+<IMG/OPALO-CANVA/APRENDER MÁS.png, id=85, 1028.4021pt x 1036.5927pt>
+File: IMG/OPALO-CANVA/APRENDER MÁS.png Graphic file (type png)
+<use IMG/OPALO-CANVA/APRENDER MÁS.png>
+Package pdftex.def Info: IMG/OPALO-CANVA/APRENDER MÁS.png  used on input line 
+899.
+(pdftex.def)             Requested size: 225.21349pt x 227.00717pt.
+<IMG/OPALO-NEW/APRENDER MÁS.png, id=86, 2742.245pt x 4229.8025pt>
+File: IMG/OPALO-NEW/APRENDER MÁS.png Graphic file (type png)
+<use IMG/OPALO-NEW/APRENDER MÁS.png>
+Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 90
+6.
+(pdftex.def)             Requested size: 225.20029pt x 347.36238pt.
+ [21 <./IMG/OPALO-CANVA/APRENDER MÁS.png (PNG copy)> <./IMG/OPALO-NEW/APRENDER
+ MÁS.png>] [22
+
+
+
 
 
 ] (MEMORIA09.aux
@@ -330,13 +360,13 @@ L3 programming layer <2025-12-24>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5140 strings out of 467871
- 87102 string characters out of 5428453
- 510410 words of memory out of 5000000
- 33996 multiletter control sequences out of 15000+600000
+ 5178 strings out of 467871
+ 88454 string characters out of 5428453
+ 510684 words of memory out of 5000000
+ 34034 multiletter control sequences out of 15000+600000
  638714 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,8n,77p,480b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,8n,77p,480b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm090
 0.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
@@ -349,9 +379,9 @@ pen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
 nappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (20 pages, 2734945 bytes).
+Output written on MEMORIA09.pdf (22 pages, 11580968 bytes).
 PDF statistics:
- 509 PDF objects out of 1000 (max. 8388607)
+ 525 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
