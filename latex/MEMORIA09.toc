@@ -6,16 +6,17 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Título del proyecto}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}Justificación}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.3}Objetivos generales}{3}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}Identificación de necesidades}{4}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}Identificación de necesidades}{3}{}%
 \contentsline {subsubsection}{\numberline {3.1.5}Conocimiento del Sector:}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{6}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{10}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{11}{}%
-\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{20}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{20}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{21}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{22}{}%
-\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{22}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{22}{}%
-\contentsline {section}{\numberline {4}Conclusiones}{23}{}%
+\contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{8}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{9}{}%
+\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{16}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{16}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{16}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{17}{}%
+\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{17}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{17}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Prototipado previo:}{18}{}%
+\contentsline {section}{\numberline {4}Conclusiones}{20}{}%

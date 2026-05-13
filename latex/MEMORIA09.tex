@@ -4,6 +4,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
 \usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[margin=2cm]{geometry}
 
 \title{Proyecto Intermodular: Opalo E-Learning}
 \author{Iván Gimeno Montoya e Izan Gregorio Vizcarra}
@@ -833,16 +835,45 @@
 	
 	Para terminar dos pasos muy importantes: acudir a ncpa.cpl y poner la IP de loopback como servidor DNS
 	preferido.
-	
 		\begin{center}
 			\includegraphics[width=0.5\textwidth]{IMG/ncpa.cpl}
 		\end{center}
-	
 	En el fichero C:\textbackslash{}Windows\textbackslash{}System32\textbackslash{}drivers\textbackslash{}etc\textbackslash{}hosts escribir lo mismo que ya teníamos en AcrylicHosts.txt.
 	
 	\begin{verbatim}
 		127.0.0.1 opalo.learning
 	\end{verbatim}
+	
+	\subsubsection{Prototipado previo:}
+	A continuación se presentan las imágenes del prototipo en Canva y las actuales.
+	
+	\subparagraph*{{\Large Mockup en Canva}}
+	
+	\subparagraph*{Página de inicio}
+	
+	\clearpage % 1. Vacía elementos previos para empezar en una página limpia
+	\begin{figure}[p] % 2. Fuerza a que use una página exclusiva para flotantes
+		\centering
+		\begin{subfigure}[b]{0.45\textwidth}
+			\centering
+			% 3. Protege las rutas con espacios y limita la altura máxima
+			\includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{IMG/OPALO-CANVA/LANDING PAGE.png}
+			\caption{Interfaz antigua.}
+			\label{fig:antigua}
+		\end{subfigure}
+		\hfill 
+		\begin{subfigure}[b]{0.45\textwidth}
+			\centering
+			\includegraphics[width=\textwidth,height=0.9\textheight,keepaspectratio]{IMG/OPALO-NEW/LANDING PAGE.png}
+			\caption{Interfaz nueva.}
+			\label{fig:nueva}
+		\end{subfigure}
+		\caption{Comparativa de páginas de inicio (index.html)}
+		\label{fig:comparativa}
+	\end{figure}
+	\clearpage % Evita que el texto siguiente se cuele en esta página si sobra espacio
+	
+	
 	\section{Conclusiones}
 	
 	En esta sección se resumen las conclusiones finales del trabajo.
