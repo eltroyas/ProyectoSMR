@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  13 MAY 2026 22:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  13 MAY 2026 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,7 +409,7 @@ Overfull \hbox (1.31927pt too wide) in paragraph at lines 109--110
  []
 
 [4] [5] [6] [7]
-<IMG/diagrama1.jpg, id=202, 1038.12843pt x 221.32687pt>
+<IMG/diagrama1.jpg, id=212, 1038.12843pt x 221.32687pt>
 File: IMG/diagrama1.jpg Graphic file (type jpg)
 <use IMG/diagrama1.jpg>
 Package pdftex.def Info: IMG/diagrama1.jpg  used on input line 304.
@@ -432,32 +432,32 @@ di-fi-ca-mos el ar-chi-vo [][]\T1/cmtt/m/n/10 C:\Program Files (x86)\Acrylic DN
 S Proxy\AcrylicHosts.txt[]\T1/cmr/m/n/10 . 
  []
 
-<IMG/ncpa.cpl.jpg, id=318, 295.1025pt x 336.50719pt>
+<IMG/ncpa.cpl.jpg, id=328, 295.1025pt x 336.50719pt>
 File: IMG/ncpa.cpl.jpg Graphic file (type jpg)
 <use IMG/ncpa.cpl.jpg>
 Package pdftex.def Info: IMG/ncpa.cpl.jpg  used on input line 840.
 (pdftex.def)             Requested size: 250.24199pt x 285.3598pt.
 [17] [18 <./IMG/ncpa.cpl.jpg>]
-<IMG/OPALO-CANVA/LANDING PAGE.png, id=329, 102.8643pt x 482.7636pt>
+<IMG/OPALO-CANVA/LANDING PAGE.png, id=339, 102.8643pt x 482.7636pt>
 File: IMG/OPALO-CANVA/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-CANVA/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/LANDING PAGE.png  used on input line 8
 58.
 (pdftex.def)             Requested size: 130.62521pt x 613.05138pt.
-<IMG/OPALO-NEW/LANDING PAGE.png, id=331, 617.30624pt x 2122.93124pt>
+<IMG/OPALO-NEW/LANDING PAGE.png, id=341, 617.30624pt x 2122.93124pt>
 File: IMG/OPALO-NEW/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-NEW/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 865
 .
 (pdftex.def)             Requested size: 178.26068pt x 613.04285pt.
  [19 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>]
-<IMG/OPALO-CANVA/AVISO LEGAL.png, id=341, 1028.4021pt x 944.0871pt>
+<IMG/OPALO-CANVA/AVISO LEGAL.png, id=351, 1028.4021pt x 944.0871pt>
 File: IMG/OPALO-CANVA/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-CANVA/AVISO LEGAL.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/AVISO LEGAL.png  used on input line 88
 0.
 (pdftex.def)             Requested size: 225.21349pt x 206.74902pt.
-<IMG/OPALO-NEW/AVISO LEGAL.png, id=342, 2742.245pt x 3950.76pt>
+<IMG/OPALO-NEW/AVISO LEGAL.png, id=352, 2742.245pt x 3950.76pt>
 File: IMG/OPALO-NEW/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-NEW/AVISO LEGAL.png>
 Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 887.
@@ -465,13 +465,13 @@ Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 887.
 (pdftex.def)             Requested size: 225.20029pt x 324.44669pt.
  [20 <./IMG/OPALO-CANVA/AVISO LEGAL.png (PNG copy)> <./IMG/OPALO-NEW/AVISO LEGA
 L.png>]
-<IMG/OPALO-CANVA/APRENDER MÁS.png, id=348, 1028.4021pt x 1036.5927pt>
+<IMG/OPALO-CANVA/APRENDER MÁS.png, id=358, 1028.4021pt x 1036.5927pt>
 File: IMG/OPALO-CANVA/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/APRENDER MÁS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/APRENDER MÁS.png  used on input line 
 901.
 (pdftex.def)             Requested size: 225.21349pt x 227.00717pt.
-<IMG/OPALO-NEW/APRENDER MÁS.png, id=349, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/APRENDER MÁS.png, id=359, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-NEW/APRENDER MÁS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 90
@@ -479,25 +479,25 @@ Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 90
 (pdftex.def)             Requested size: 225.20029pt x 347.36238pt.
  [21 <./IMG/OPALO-CANVA/APRENDER MÁS.png (PNG copy)> <./IMG/OPALO-NEW/APRENDER
  MÁS.png>]
-<IMG/OPALO-CANVA/CONTACTO.png, id=355, 1028.4021pt x 655.7298pt>
+<IMG/OPALO-CANVA/CONTACTO.png, id=365, 1028.4021pt x 655.7298pt>
 File: IMG/OPALO-CANVA/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-CANVA/CONTACTO.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/CONTACTO.png  used on input line 923.
 (pdftex.def)             Requested size: 225.21349pt x 143.60063pt.
-<IMG/OPALO-NEW/CONTACTO.png, id=356, 617.30624pt x 307.1475pt>
+<IMG/OPALO-NEW/CONTACTO.png, id=366, 617.30624pt x 307.1475pt>
 File: IMG/OPALO-NEW/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-NEW/CONTACTO.png>
 Package pdftex.def Info: IMG/OPALO-NEW/CONTACTO.png  used on input line 930.
 (pdftex.def)             Requested size: 225.216pt x 112.05869pt.
  [22 <./IMG/OPALO-CANVA/CONTACTO.png (PNG copy)> <./IMG/OPALO-NEW/CONTACTO.png>
 ]
-<IMG/OPALO-CANVA/PATROCINADORES.png, id=363, 1028.4021pt x 578.16pt>
+<IMG/OPALO-CANVA/PATROCINADORES.png, id=373, 1028.4021pt x 578.16pt>
 File: IMG/OPALO-CANVA/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-CANVA/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/PATROCINADORES.png  used on input line
  945.
 (pdftex.def)             Requested size: 225.21349pt x 126.61334pt.
-<IMG/OPALO-NEW/PATROCINADORES.png, id=364, 617.30624pt x 127.97812pt>
+<IMG/OPALO-NEW/PATROCINADORES.png, id=374, 617.30624pt x 127.97812pt>
 File: IMG/OPALO-NEW/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-NEW/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-NEW/PATROCINADORES.png  used on input line 9
@@ -505,13 +505,13 @@ Package pdftex.def Info: IMG/OPALO-NEW/PATROCINADORES.png  used on input line 9
 (pdftex.def)             Requested size: 225.216pt x 46.69112pt.
  [23 <./IMG/OPALO-CANVA/PATROCINADORES.png (PNG copy)> <./IMG/OPALO-NEW/PATROCI
 NADORES.png>]
-<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=371, 1028.4021pt x 1811.3271pt>
+<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=381, 1028.4021pt x 1811.3271pt>
 File: IMG/OPALO-CANVA/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/SOBRE NOSOTROS.png  used on input line
  967.
 (pdftex.def)             Requested size: 225.21349pt x 396.66905pt.
-<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=372, 2742.245pt x 3195.94pt>
+<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=382, 2742.245pt x 3195.94pt>
 File: IMG/OPALO-NEW/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-NEW/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/SOBRE NOSOTROS.png  used on input line 9
@@ -519,7 +519,7 @@ Package pdftex.def Info: IMG/OPALO-NEW/SOBRE NOSOTROS.png  used on input line 9
 (pdftex.def)             Requested size: 225.20029pt x 262.45891pt.
  [24 <./IMG/OPALO-CANVA/SOBRE NOSOTROS.png (PNG copy)> <./IMG/OPALO-NEW/SOBRE N
 OSOTROS.png>]
-<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=378, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=388, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/FORMACIÓN PROX.png Graphic file (type png)
 <use IMG/OPALO-NEW/FORMACIÓN PROX.png>
 Package pdftex.def Info: IMG/OPALO-NEW/FORMACIÓN PROX.png  used on input line 
@@ -527,20 +527,20 @@ Package pdftex.def Info: IMG/OPALO-NEW/FORMACIÓN PROX.png  used on input line
 (pdftex.def)             Requested size: 397.42705pt x 613.01523pt.
 
 [25 <./IMG/OPALO-NEW/FORMACIÓN PROX.png>]
-<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=385, 2742.245pt x 6048.5975pt>
+<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=395, 2742.245pt x 6048.5975pt>
 File: IMG/OPALO-NEW/VALORES ÉTICOS.png Graphic file (type png)
 <use IMG/OPALO-NEW/VALORES ÉTICOS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/VALORES ÉTICOS.png  used on input line 
 1002.
 (pdftex.def)             Requested size: 277.92276pt x 613.01707pt.
  [26 <./IMG/OPALO-NEW/VALORES ÉTICOS.png>]
-<IMG/OPALO-NEW/JUEGO.png, id=391, 2742.245pt x 2832.5825pt>
+<IMG/OPALO-NEW/JUEGO.png, id=401, 2742.245pt x 2832.5825pt>
 File: IMG/OPALO-NEW/JUEGO.png Graphic file (type png)
 <use IMG/OPALO-NEW/JUEGO.png>
 Package pdftex.def Info: IMG/OPALO-NEW/JUEGO.png  used on input line 1016.
 (pdftex.def)             Requested size: 500.48694pt x 516.97444pt.
  [27 <./IMG/OPALO-NEW/JUEGO.png>]
-<IMG/github-cut.png, id=399, 1506.3778pt x 1168.365pt>
+<IMG/github-cut.png, id=409, 1506.3778pt x 1168.365pt>
 File: IMG/github-cut.png Graphic file (type png)
 <use IMG/github-cut.png>
 Package pdftex.def Info: IMG/github-cut.png  used on input line 1035.
@@ -573,13 +573,13 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `MEMORIA09.out' has not changed.
-(rerunfilecheck)             Checksum: 00EBB3E20832FE7CDA6663DCCF7F39B5;4793.
+(rerunfilecheck)             Checksum: BFA4772209A152EE33FCC7AE3C53E279;5293.
  ) 
 Here is how much of TeX's memory you used:
- 12419 strings out of 467871
- 200865 string characters out of 5428453
+ 12423 strings out of 467871
+ 200935 string characters out of 5428453
  626379 words of memory out of 5000000
- 40993 multiletter control sequences out of 15000+600000
+ 40995 multiletter control sequences out of 15000+600000
  638714 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,531b,542s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -595,9 +595,9 @@ pen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
 nappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (28 pages, 29899392 bytes).
+Output written on MEMORIA09.pdf (28 pages, 29902104 bytes).
 PDF statistics:
- 879 PDF objects out of 1000 (max. 8388607)
- 190 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 891 PDF objects out of 1000 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
