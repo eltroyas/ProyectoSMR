@@ -752,10 +752,97 @@
 	\begin{itemize}
 		\item Desarrollo de cursos en formato H5P.
 		\item 	Los cursos tratan sobre: viajes espaciales, cuántica, biotecnología, ciudades ecológicas, manipulación climática y premoniciones.
-		\item 	Todos ellos cuentan con una introducción que detalla los puntos clave del curso y al público al que se
-		\item 	dirige.
+		\item 	Todos ellos cuentan con una introducción que detalla los puntos clave del curso y al público al que se dirige.
 	\end{itemize}
 	
+	\subparagraph*{14/01/2026-27/01/2026}
+	
+	\begin{itemize}
+		\item El juego está basado en el clásico de Space Race (1973).
+		\item 	Está desarrollado mediante el lenguaje de programación Python añadiendo la biblioteca para juegos Pygame.
+		\item 	La integración en la web se hace con un iframe de la herramienta de Pickcode.
+	\end{itemize}
+	
+	\subparagraph*{28/01/2026-10/02/2026}
+	
+	\begin{itemize}
+		\item Desde el equipo de Opalo E-Learning hemos desarrollado un manifiesto sobre los principios, valores y conductas que nos representan como la organización empresarial y ética que somos.
+		\item 	Así mismo, destacamos la importancia y el trabajo que le dedicamos a la sostenibilidad, el medioambiente y el cumplimiento de los Objetivos de Desarrollo Sostenible.
+	\end{itemize}
+	
+	\subparagraph*{11/02/2026-23/02/2026}
+	
+	\begin{itemize}
+		\item Por último, comprobación de errores detectados y modificaciones necesarias tras los comentarios recibidos tanto; por parte, del tutor responsable del trabajo; como parte de los compañeros.
+		\item 	Desde el punto de vista técnico, nuestro objetivo era optimizar el código y los contenidos para evitar "engordar" de forma innecesaria el proyecto.
+	\end{itemize}
+	
+	\subparagraph*{24/02/2026}
+	
+	\begin{itemize}
+		\item Creación de los preparativos para la "demo" o muestra del proyecto.
+		\item 	Desarrollo del documento necesario para realizar la explicación y sentido del proyecto ante el jurado, y escritura de la memoria que se trata de un compendio de los trabajos preparativos anteriores basada en el índice previamente acordado.
+		\item 	La presentación en cuestión se realiza en la sala de actos del centro ante el jurado que decidirá, en última instancia; el ganador.
+	\end{itemize}
+	
+	\subsubsection{Recursos necesarios}
+	
+	El grupo lo componen Iván Gimeno Montoya e Izan Gregorio Vizcarra.
+	
+	El equipo utilizado como servidor web es un VDI con Windows Server 2022 Standard junto a los programas de XAMPP para el servidor Apache y el resolutor de nombres Acrylic DNS Proxy.
+	
+	\subsection{Implementación y desarrollo (el núcleo técnico)}
+	
+	\subsubsection{Configuración de servicios de red:}
+	
+	Para la instalación del servidor web se requiere apache, en este caso, hemos optado por instalar XAMPP que
+	contiene Apache y una fácil configuración.
+	
+	Cuando instalamos XAMPP en nuestro sistema, por defecto, se crea una carpeta y sus diferentes binarios,
+	carpetas y archivos de configuración. Ésta es creada en Windows \verb|C:\xampp\htdocs| o en Linux \verb|/etc/xampp|.
+	
+	Dentro de la carpeta de XAMPP se crean htdocs. Aquí es donde se guarda la carpeta que contiene nuestro
+	sitio web del proyecto.
+	
+	Para que Apache sepa qué carpeta servir según el nombre que reciba, editamos el archivo:
+	
+	\begin{verbatim}
+		C:\xampp\apache\conf\extra\httpd-vhosts.conf
+	\end{verbatim}
+
+	Escribimos lo siguiente:
+	
+	\begin{verbatim}
+		<VirtualHost *:80>
+			DocumentRoot "C:/xampp/htdocs/opalo"
+			ServerName opalo.learning
+			<Directory “C:/xampp/htdocs/opalo”>
+				AllowOverride All
+				Require all granted
+			</Directory>
+		</VirtualHost>
+	\end{verbatim}
+	
+	Para la resolución de DNS tenemos Acrylic DNS Proxy. Modificamos el archivo \verb|C:\Program Files (x86)\Acrylic DNS Proxy\AcrylicHosts.txt|.
+	
+	\begin{verbatim}
+		127.0.0.1 opalo.learning
+	\end{verbatim}
+	
+	Aquí le decimos que acuda al loopback, es decir, nuestro propio equipo, cuando ingresemos la dirección DNS opalo.learning.
+	
+	Para terminar dos pasos muy importantes: acudir a ncpa.cpl y poner la IP de loopback como servidor DNS
+	preferido.
+	
+		\begin{center}
+			\includegraphics[width=0.5\textwidth]{IMG/ncpa.cpl}
+		\end{center}
+	
+	En el fichero C:\textbackslash{}Windows\textbackslash{}System32\textbackslash{}drivers\textbackslash{}etc\textbackslash{}hosts escribir lo mismo que ya teníamos en AcrylicHosts.txt.
+	
+	\begin{verbatim}
+		127.0.0.1 opalo.learning
+	\end{verbatim}
 	\section{Conclusiones}
 	
 	En esta sección se resumen las conclusiones finales del trabajo.
