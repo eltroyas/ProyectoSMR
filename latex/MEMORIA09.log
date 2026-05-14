@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  14 MAY 2026 19:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  14 MAY 2026 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,11 +573,11 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `MEMORIA09.out' has not changed.
-(rerunfilecheck)             Checksum: AFC0113DC4D67FA8457201679D8A3F43;6969.
+(rerunfilecheck)             Checksum: 6C6939DA74621BAE2E3518F08C6FB291;6979.
  ) 
 Here is how much of TeX's memory you used:
  12445 strings out of 467871
- 201315 string characters out of 5428453
+ 201325 string characters out of 5428453
  626379 words of memory out of 5000000
  41005 multiletter control sequences out of 15000+600000
  638714 words of font info for 61 fonts, out of 8000000 for 9000
@@ -595,9 +595,9 @@ pen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
 nappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (32 pages, 29934058 bytes).
+Output written on MEMORIA09.pdf (32 pages, 29933630 bytes).
 PDF statistics:
- 993 PDF objects out of 1000 (max. 8388607)
+ 992 PDF objects out of 1000 (max. 8388607)
  204 named destinations out of 1000 (max. 500000)
  347 words of extra memory for PDF output out of 10000 (max. 10000000)
 

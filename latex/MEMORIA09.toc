@@ -26,8 +26,8 @@
 \contentsline {subsubsection}{\numberline {3.5.2}Gestión de incidencias}{29}{subsubsection.3.5.2}%
 \contentsline {subsection}{\numberline {3.6}Análisis de sostenibilidad y digitalización}{29}{subsection.3.6}%
 \contentsline {subsubsection}{\numberline {3.6.1}Aspectos de sostenibilidad}{29}{subsubsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.7}Ética y protección de datos}{29}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Conclusiones y valoración personal}{31}{subsection.3.8}%
-\contentsline {subsubsection}{\numberline {3.8.1}Análisis del sector}{31}{subsubsection.3.8.1}%
-\contentsline {subsubsection}{\numberline {3.8.2}Revisión del cronograma}{31}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.6.2}Ética y protección de datos}{29}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Conclusiones y valoración personal}{31}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Análisis del sector}{31}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Revisión del cronograma}{31}{subsubsection.3.7.2}%
 \contentsline {section}{\numberline {4}Conclusiones}{32}{section.4}%
