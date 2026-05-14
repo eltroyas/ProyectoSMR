@@ -10,24 +10,24 @@
 \contentsline {subsubsection}{\numberline {3.1.5}Conocimiento del Sector:}{4}{subsubsection.3.1.5}%
 \contentsline {subsection}{\numberline {3.2}Análisis técnico y diseño de la solución}{5}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Requerimientos del sistema:}{5}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{8}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{9}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{16}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{16}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{16}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{17}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{17}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{17}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Prototipado previo:}{18}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}Desarrollo frontend}{28}{subsubsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4}Integración de elementos externos}{28}{subsubsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.5}Pruebas, verificación y mantenimiento}{28}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Protocolos de pruebas}{28}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Gestión de incidencias}{29}{subsubsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.6}Análisis de sostenibilidad y digitalización}{29}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}Aspectos de sostenibilidad}{29}{subsubsection.3.6.1}%
-\contentsline {subsubsection}{\numberline {3.6.2}Ética y protección de datos}{29}{subsubsection.3.6.2}%
-\contentsline {subsection}{\numberline {3.7}Conclusiones y valoración personal}{31}{subsection.3.7}%
-\contentsline {subsubsection}{\numberline {3.7.1}Análisis del sector}{31}{subsubsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.2}Revisión del cronograma}{31}{subsubsection.3.7.2}%
-\contentsline {section}{\numberline {4}Conclusiones}{32}{section.4}%
+\contentsline {subsubsection}{\numberline {3.2.2}Diseño de la infrestructura de red}{6}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Estudio de viabilidad y proveedores}{6}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Planificación y gestión del proyecto}{11}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Metodología de trabajo:}{11}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Cronograma de ejecución:}{11}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Recursos necesarios}{12}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Implementación y desarrollo (el núcleo técnico)}{12}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Configuración de servicios de red:}{12}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Prototipado previo:}{13}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Desarrollo frontend}{23}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Integración de elementos externos}{23}{subsubsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.5}Pruebas, verificación y mantenimiento}{23}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Protocolos de pruebas}{23}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Gestión de incidencias}{24}{subsubsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.6}Análisis de sostenibilidad y digitalización}{24}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Aspectos de sostenibilidad}{24}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Ética y protección de datos}{24}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Conclusiones y valoración personal}{26}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Análisis del sector}{26}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Revisión del cronograma}{26}{subsubsection.3.7.2}%
+\contentsline {section}{\numberline {4}Conclusiones}{27}{section.4}%
