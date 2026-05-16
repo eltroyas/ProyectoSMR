@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {1.5}Conocimiento del Sector:}{4}{subsection.1.5}%
 \contentsline {subsubsection}{\numberline {1.5.1}Indra}{4}{subsubsection.1.5.1}%
 \contentsline {subsubsection}{\numberline {1.5.2}Accenture España}{4}{subsubsection.1.5.2}%
-\contentsline {subsubsection}{\numberline {1.5.3}Hiberus}{4}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.3}Hiberus}{5}{subsubsection.1.5.3}%
 \contentsline {subsubsection}{\numberline {1.5.4}Comparativa}{5}{subsubsection.1.5.4}%
 \contentsline {section}{\numberline {2}Análisis técnico y diseño de la solución}{5}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Requerimientos del sistema:}{5}{subsection.2.1}%
@@ -19,7 +19,7 @@
 \contentsline {subsubsection}{\numberline {2.1.5}Patrocinadores}{6}{subsubsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.2}Diseño de la infrestructura de red}{6}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}DHCP}{6}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}DNS}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}DNS}{7}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Diagrama}{7}{subsubsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.3}Estudio de viabilidad y proveedores}{7}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Datos de empresas}{7}{subsubsection.2.3.1}%
