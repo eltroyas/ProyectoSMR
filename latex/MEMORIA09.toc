@@ -55,7 +55,10 @@
 \contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{31}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{31}{subsection.9.3}%
 \contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{31}{subsection.9.4}%
-\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{31}{subsection.9.5}%
-\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{31}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{31}{subsection.9.7}%
-\contentsline {section}{\numberline {10}Conclusiones}{31}{section.10}%
+\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{31}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{33}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{34}{subsubsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{35}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{35}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{35}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Conclusiones}{35}{section.10}%

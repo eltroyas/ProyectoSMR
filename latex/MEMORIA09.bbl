@@ -1,0 +1,117 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{alvarez-2016}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=78953491a1010cb20a9ef283a35fe887}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={Miguel\bibnamedelima Ángel},
+           giveni={M\bibinitperiod\bibinitdelim Á\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Blogs Averroes}%
+      }
+      \strng{namehash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{fullhash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{fullhashraw}{78953491a1010cb20a9ef283a35fe887}
+      \strng{bibnamehash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{authorbibnamehash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{authornamehash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{authorfullhash}{78953491a1010cb20a9ef283a35fe887}
+      \strng{authorfullhashraw}{78953491a1010cb20a9ef283a35fe887}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{12}
+      \field{title}{{Manual JavaScript}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://blogsaverroes.juntadeandalucia.es/plataformaeiv/files/2016/09/manual-javascript.pdf
+      \endverb
+      \verb{url}
+      \verb https://blogsaverroes.juntadeandalucia.es/plataformaeiv/files/2016/09/manual-javascript.pdf
+      \endverb
+    \endentry
+    \entry{unknown-author-2007}{report}{}{}
+      \list{publisher}{1}{%
+        {Ingenieros}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{month}{10}
+      \field{title}{Introducción CSS}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
+      \endverb
+    \endentry
+    \entry{riveira-espinosa-2005}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2db4c26724bd3838d0921a4e84eec8e}{%
+           family={Riveira\bibnamedelimb Espinosa},
+           familyi={R\bibinitperiod},
+           given={Sergio\bibnamedelimb Arturo},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad del Atlántico Medio}%
+      }
+      \strng{namehash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{fullhash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{fullhashraw}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{bibnamehash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{authorbibnamehash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{authornamehash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{authorfullhash}{a2db4c26724bd3838d0921a4e84eec8e}
+      \strng{authorfullhashraw}{a2db4c26724bd3838d0921a4e84eec8e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{month}{3}
+      \field{title}{Manual de HTML}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://profesores.fi-b.unam.mx/cintia/Manualhtml.pdf
+      \endverb
+      \verb{url}
+      \verb http://profesores.fi-b.unam.mx/cintia/Manualhtml.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

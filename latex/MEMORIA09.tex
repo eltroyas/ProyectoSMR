@@ -1,3 +1,5 @@
+% !TeX TXS-program:bibliography = txs:///biber
+
 \documentclass[11.5pt]{article}
 
 \usepackage[T1]{fontenc}
@@ -8,6 +10,12 @@
 \usepackage[margin=2cm]{geometry}
 \usepackage{hyperref}
 \usepackage{fancyhdr}
+\usepackage{biblatex}
+
+\nocite{*} 
+
+
+\addbibresource{bib.bib} 
 
 \pagestyle{fancy}
 
@@ -1188,13 +1196,296 @@
 	
 	La adopción sistemática del APA 7 no solo refuerza la credibilidad académica del trabajo, sino que también facilita al lector la localización y verificación de las fuentes, demostrando un compromiso claro con las buenas prácticas de investigación y el respeto a la propiedad intelectual.
 	\subsection{Fuentes bibliográficas}
+	
+	\printbibliography[heading=none, type=book]
+	\printbibliography[heading=none, type=article]
+	
 	\subsection{Fuentes web}
+	
+	\printbibliography[heading=none, type=online]
+	
 	\subsection{Documentación técnica consultada}
+	
+	\printbibliography[heading=none, type=manual]
+	\printbibliography[heading=none, type=report]
+	
 	\section{Anexos}
 	\subsection{Planos, diagramas y esquemas}
+	
+	En esta sección se listan y referencian los esquemas técnicos del proyecto:
+	
+	\begin{itemize}
+		\item \textbf{Diagrama del sistema:} El diagrama detallado de la infraestructura del hardware se encuentra integrado en el cuerpo del documento como la \textbf{Figura \ref{fig:Página de inicio Canva}} en la \textbf{página \pageref{fig:Página de inicio Canva}}.
+		
+		\item \textbf{Plano de planta:} (Si tienes otro plano o esquema en el texto, añades su propia etiqueta aquí usando el mismo método).
+	\end{itemize}
+	
 	\subsection{Código fuente (si aplica)}
 	\subsection{Presupuestos detallados}
 	\subsection{Documentación técnica ampliada}
+	
+	\subsubsection{HTML: El lenguaje fundamental de la web}
+	
+	El HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear y estructurar las páginas web. Los navegadores lo interpretan y lo convierten en la interfaz visual que los usuarios experimentan a diario. Gracias a ello, el HTML se ha consolidado como la tecnología base más extendida de internet, permitiendo combinar de forma estructurada textos, imágenes, sonidos, vídeos y otros elementos multimedia.
+	
+	A diferencia de los medios tradicionales (como libros o revistas), el HTML incorpora una capacidad transformadora: los hipervínculos. Esta funcionalidad permite conectar documentos entre sí, generando una red de información interrelacionada que revolucionó el acceso y la distribución del conocimiento.
+	
+	\noindent\textbf{{\large Orígenes y evolución del HTML}}
+
+	El HTML nació con un propósito principalmente divulgativo y académico, orientado a compartir documentos científicos de manera sencilla. Nadie previó que la web se convertiría en un entorno multimedia, comercial y de ocio masivo. Esta visión inicial limitada generó ciertas carencias estructurales que se han ido resolviendo a lo largo del tiempo.
+	
+	Hoy en día, el HTML ya no sigue un modelo de versiones numeradas estáticas. Se mantiene como un Living Standard (estándar vivo) gestionado por el WHATWG. La base de este estándar moderno es HTML5, que introdujo importantes mejoras en semántica, multimedia, accesibilidad y capacidades para aplicaciones web. Este enfoque evolutivo continuo permite incorporar nuevas funcionalidades sin necesidad de grandes actualizaciones formales.
+	
+	A pesar de su evolución algo irregular en el pasado, el HTML actual se complementa perfectamente con tecnologías auxiliares que resuelven sus limitaciones originales:
+	
+	\begin{itemize}
+		\item CSS (Cascading Style Sheets) para el diseño y la presentación visual.
+		\item 	JavaScript para la interactividad y el comportamiento dinámico.
+	\end{itemize}
+	
+	Estas tecnologías permiten organizar, optimizar y automatizar el funcionamiento de las páginas web de manera mucho más eficiente.
+	
+	\noindent\textbf{{\large Herramientas para crear páginas web}}
+	
+	Crear una página HTML sigue siendo técnicamente sencillo: se trata de un archivo de texto plano con extensión \verb|.html|.
+
+	Comience con herramientas simples como el Bloc de Notas (Windows) o editores básicos equivalentes. Esta simplicidad ayuda a concentrarse en el código y comprender los fundamentos del lenguaje.
+	
+	Entre los editores recomendados más avanzados se reconocen:
+	
+	\begin{itemize}
+		\item Visual Studio Code: Ligero, potente, con miles de extensiones, vista previa en vivo y excelente soporte para HTML, CSS y JavaScript.
+		\item 	Otras opciones sólidas: Notepad++, Sublime Text u otros editores especializados que aumentan notablemente la productividad una vez dominados los conceptos básicos.
+	\end{itemize}
+	
+	\noindent\textbf{{\large HTML: Sintaxis, etiquetas y estructura básica}}
+	
+	El HTML se basa en un sistema de etiquetas (tags) que permiten estructurar y dar significado al contenido de una página web.
+	
+	La mayoría de las etiquetas siguen una estructura de apertura y cierre. Todo el contenido situado entre ellas recibe las características definidas por esa etiqueta.
+	
+	Ejemplo práctico:
+	
+	Las etiquetas <strong> y </strong> definen un texto con importancia (tradicionalmente mostrado en negrita).
+	
+	Código:
+	\begin{verbatim}
+		<strong>Este texto está en negrita</strong>
+	\end{verbatim}
+	
+	Resultado:
+	
+	\begin{quotation}
+		Este texto está en negrita.
+	\end{quotation}
+	
+	Las etiquetas <p> y </p> definen un párrafo.
+	
+	Código:
+	
+	\begin{verbatim}
+	<p>Hola, estamos en el párrafo 1</p>
+	<p>Ahora hemos cambiado de párrafo</p>
+	\end{verbatim}
+	
+	Resultado:
+	
+	\begin{quotation}
+	Hola, estamos en el párrafo 1.
+	
+	Ahora hemos cambiado de párrafo.
+	
+	\end{quotation}
+	
+	\noindent\textbf{{\large Estructura generla de un documento HTML}}
+	
+	Todo documento HTML debe seguir una estructura básica y bien definida:
+	
+	\begin{verbatim}
+		<!DOCTYPE html>
+		<html lang="es">
+			<head>
+				<!-- Contenido del encabezado (metadatos) -->
+			</head>
+			<body>
+				<!-- Contenido visible de la página -->
+			</body>
+		</html>
+	\end{verbatim}
+	
+	Un documento HTML se divide principalmente en dos secciones:
+	
+	\textbf{{\small 1. El encabezado (<head>)}}
+	
+	Aquí se incluye información meta que no se visualiza directamente en la página, pero es esencial para los navegadores y motores de búsqueda. Ejemplos comunes:
+	
+	\begin{itemize}
+		\item El título de la página (<title>)
+		\item 	Codificación de caracteres
+		\item 	Descripciones, palabras clave y metadatos
+		\item 	Enlaces a hojas de estilo (CSS), scripts, etc.
+	\end{itemize}
+	
+	\textbf{{\small 2. El cuerpo (<body>)}}
+	
+	Es la sección donde se coloca todo el contenido que el usuario verá: textos, imágenes, vídeos, formularios, menús y demás elementos.
+	
+	\subsubsection{CSS: Separando contenido y presentación}
+	
+	Las CSS (Cascading Style Sheets o Hojas de Estilo en Cascada) surgieron para resolver una limitación fundamental del HTML: la mezcla entre contenido y presentación.
+	
+	Mientras que el HTML se encarga de estructurar y dar significado al contenido (qué es un título, un párrafo, una imagen, etc.), las CSS controlan cómo se muestra ese contenido: colores, tipografías, espaciados, distribuciones, tamaños, animaciones y comportamientos responsivos.
+	
+	\noindent\textbf{{\large ¿Qué son las CSS?}}
+
+	Las CSS son un lenguaje específico diseñado para definir la presentación visual de documentos escritos en HTML. Permiten a desarrolladores y diseñadores crear reglas de estilo que se aplican de forma consistente en una página o en todo un sitio web.
+	
+	Ventajas clave:
+	
+	\begin{itemize}
+		\item Separación clara de responsabilidades: El HTML se centra en la estructura semántica y las CSS en el diseño.
+		\item 	Mayor control y eficiencia: Un solo archivo CSS puede definir el aspecto de cientos o miles de páginas.
+		\item 	Mantenibilidad: Cambiar el diseño de todo un sitio (por ejemplo, actualizar colores corporativos o tipografía) se reduce a modificar unas pocas líneas en la hoja de estilos.
+		\item 	Consistencia: Garantiza que todos los elementos del mismo tipo (títulos, botones, enlaces…) se muestren de forma uniforme.
+		\item 	Flexibilidad: Múltiples hojas de estilo pueden aplicarse a una misma página, combinándose según un sistema de prioridades conocido como “cascada”.
+	\end{itemize}
+	
+	\noindent\textbf{{\large El concepto de “Cascada”}}
+	
+	El término Cascading hace referencia a que los estilos se aplican en capas y siguen un orden de prioridad. Un mismo elemento puede recibir estilos desde diferentes fuentes (hoja de estilos del navegador, hoja del autor y estilos inline), y las CSS resuelven los conflictos aplicando reglas de cascada, especificidad y orden de declaración.
+	
+	\noindent\textbf{{\large Evolución frente al HTML antiguo}}
+	
+	En versiones antiguas de HTML era común incluir información de formato directamente en las etiquetas (atributos como \verb|color|, \verb|size|, \verb|face|, etc.). Esto generaba código repetitivo, difícil de mantener y que impedía a los usuarios modificar la visualización según sus necesidades (por ejemplo, personas con discapacidad visual).
+	
+	Con las CSS modernas:
+	
+	Las etiquetas HTML se utilizan exclusivamente para definir estructura y significado (<h1>, <p>, <article>, etc.).
+	
+	Toda la información de presentación se mueve a las hojas de estilo.ç
+	
+	Se mejora drásticamente la accesibilidad, el rendimiento y la adaptabilidad a diferentes dispositivos.
+	
+	\noindent\textbf{Ejemplo práctico:}
+	
+	En lugar de escribir:
+	
+	\begin{verbatim}
+		<h1><font color="blue" size="6">Título</font></h1>
+	\end{verbatim}
+	
+	Se escribe:
+	
+	\begin{verbatim}
+		<h1>Título</h1>
+	\end{verbatim}
+	
+	Y en un archivo CSS separado:
+	
+	\begin{verbatim}
+	h1 {
+		color: #0033a0;
+		font-size: 2.5rem;
+		font-family: 'Inter', sans-serif;
+	}
+	\end{verbatim}
+	
+	En resumen, las CSS son una de las tecnologías más importantes del desarrollo web actual. Junto con HTML y JavaScript forman el trío fundamental para crear experiencias digitales profesionales, mantenibles, accesibles y visualmente atractivas.
+	
+	\subsubsection{JavaScript: Añadiendo interactividad e inteligencia a la web}
+	
+	JavaScript es un lenguaje de programación que permite crear comportamientos dinámicos e interactivos dentro de las páginas web. Mientras que el HTML se encarga de la estructura y las CSS del diseño visual, JavaScript aporta la capa lógica e interacción, transformando páginas estáticas en experiencias dinámicas y funcionales.
+	
+	El navegador del usuario es el encargado de interpretar y ejecutar el código JavaScript directamente en el lado cliente. Esto significa que gran parte de la lógica y las funcionalidad pueden ejecutarse sin comunicarse constantemente con el servidor, ofreciendo mayor velocidad y una experiencia más fluida.
+	
+	\noindent\textbf{{\large Capacidades principales de JavaScript}}
+	
+	JavaScript ofrece dos grandes vertientes de valor:
+	
+	\noindent\textbf{{\small Efectos y contenidos dinámicos}}
+	
+	Permite crear elementos que se mueven, cambian de apariencia, se muestran u ocultan según condiciones, galerías interactivas, sliders, animaciones y actualizaciones de contenido en tiempo real sin recargar la página.
+	
+	\noindent\textbf{{\small Interactividad con el usuario}}
+	
+	Responde a las acciones del usuario (clics, desplazamiento, escritura, gestos táctiles, etc.) para ejecutar funciones específicas: validación de formularios, calculadoras, menús desplegables, carritos de compra, juegos simples, dashboards interactivos y aplicaciones web completas.
+	
+	Gracias a su evolución, JavaScript moderno es un lenguaje robusto que soporta programación asíncrona, manipulación avanzada del DOM, consumo de APIs, almacenamiento local, y una enorme cantidad de frameworks y librerías (React, Vue, Angular, etc.) que facilitan el desarrollo de aplicaciones web profesionales a gran escala.
+	
+	En resumen, JavaScript convierte al desarrollador en el verdadero controlador de la experiencia del usuario. Dominar este lenguaje es esencial para crear páginas web modernas, interactivas y competitivas.
+	
+	\noindent\textbf{{\large Ejemplos prácticos y rápidos}}
+	
+	En esta sección final de la introducción a JavaScript veremos varios ejemplos sencillos pero útiles que demuestran la potencia del lenguaje y su capacidad para añadir interactividad con muy poco código.
+	
+	Estos ejemplos sirven como muestra práctica de lo que se puede lograr rápidamente y ayudan a comprender mejor las posibilidades de este lenguaje.
+	
+	\noindent\textbf{{\small Abrir una ventana secundaria}}
+	
+	Con una sola línea de JavaScript es posible abrir una nueva ventana del navegador sin barras de herramientas ni menús:
+	
+	\begin{verbatim}
+	<a href="#" 
+		onclick="window.open(
+			'https://www.google.com',
+			'google',
+			'width=800,
+			height=600,
+			menubar=no,
+			toolbar=no,
+			scrollbars=yes'
+		); return false;">
+		Abrir Google en ventana nueva 
+	</a>
+	\end{verbatim}
+	
+	Este tipo de funcionalidad permite crear ventanas emergentes personalizadas, aunque debe usarse con moderación debido a los bloqueadores de ventanas emergentes de los navegadores modernos.
+	
+	\noindent\textbf{{\small Mensaje de bienvenida}}
+	
+	Podemos mostrar un mensaje emergente cuando el usuario carga la página:
+	
+	Las etiquetas \verb|<script></script>| nos sirven para introducir código JavaScript dentro de un archivo HTML. Alternativamente, se puede colocar en el \verb|<head></head>| un \verb|<script src="script.js"></script>| que apunte a un archivo JavaScript independiente.
+	
+	\begin{verbatim}
+	<script>
+		window.onload = function() {
+			alert("¡Bienvenido a nuestro sitio web!");
+		};
+	</script>
+	\end{verbatim}
+	
+	\noindent\textbf{{\small Mostrar la fecha actual}}
+	
+	Este script muestra la fecha de hoy en el lugar donde se inserte, lo que ayuda a transmitir que el sitio está actualizado:
+	
+	\begin{verbatim}
+	
+	<p>Fecha de hoy: <span id="fecha"></span></p>
+	
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				const fecha = new Date();
+				document.getElementById('fecha').textContent = fecha.toLocaleDateString('es-ES', {
+					weekday: 'long',
+					year: 'numeric',
+					month: 'long',
+					day: 'numeric'
+				});
+			});
+	</script>
+	\end{verbatim}
+	
+	\noindent\textbf{{\small Botón para volver atrás}}
+
+	Crear un botón que simule el comportamiento del botón “Atrás” del navegador es muy sencillo:
+	
+	\begin{verbatim}
+		<button onclick="history.back()">← Volver a la página anterior</button>
+	\end{verbatim}
+	
+	Estos ejemplos, aunque básicos, ilustran la facilidad con la que JavaScript puede enriquecer una página web, responder a acciones del usuario y manipular el contenido dinámicamente.
+	
 	\subsection{Capturas de pruebas y validaciones}
 	\subsection{Actas de reuniones}
 	\subsection{Material de la presentación final}
