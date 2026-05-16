@@ -19,6 +19,19 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global/global}
+    \entry{accenture-elinforma}{online}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{Accenture Slu: consulte teléfono, CIF y dirección| eInforma}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.einforma.com/informacion-empresa/accenture
+      \endverb
+      \verb{url}
+      \verb https://www.einforma.com/informacion-empresa/accenture
+      \endverb
+    \endentry
     \entry{alvarez-2016}{report}{}{}
       \name{author}{1}{}{%
         {{hash=78953491a1010cb20a9ef283a35fe887}{%
@@ -55,6 +68,122 @@
       \verb https://blogsaverroes.juntadeandalucia.es/plataformaeiv/files/2016/09/manual-javascript.pdf
       \endverb
     \endentry
+    \entry{indra-wikipedia}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2e8706069cd24e673fa99b092d6986f5}{%
+           family={{colaboradores de Wikipedia}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{fullhash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{fullhashraw}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{bibnamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorbibnamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authornamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorfullhash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorfullhashraw}{2e8706069cd24e673fa99b092d6986f5}
+      \field{extraname}{1}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{5}
+      \field{title}{Indra Sistemas}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://es.wikipedia.org/wiki/Indra_Sistemas
+      \endverb
+      \verb{url}
+      \verb https://es.wikipedia.org/wiki/Indra_Sistemas
+      \endverb
+    \endentry
+    \entry{dhcp-wikipedia}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2e8706069cd24e673fa99b092d6986f5}{%
+           family={{colaboradores de Wikipedia}},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{fullhash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{fullhashraw}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{bibnamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorbibnamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authornamehash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorfullhash}{2e8706069cd24e673fa99b092d6986f5}
+      \strng{authorfullhashraw}{2e8706069cd24e673fa99b092d6986f5}
+      \field{extraname}{2}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{5}
+      \field{title}{Protocolo de configuración dinámica de host}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host
+      \endverb
+      \verb{url}
+      \verb https://es.wikipedia.org/wiki/Protocolo_de_configuraci%C3%B3n_din%C3%A1mica_de_host
+      \endverb
+    \endentry
+    \entry{apache-configuration}{online}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{Configuration Files - Apache HTTP Server Version 2.4}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://httpd.apache.org/docs/current/configuring.html
+      \endverb
+      \verb{url}
+      \verb https://httpd.apache.org/docs/current/configuring.html
+      \endverb
+    \endentry
+    \entry{apache-starter}{online}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{Getting started - Apache HTTP Server version 2.4}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://httpd.apache.org/docs/current/getting-started.html
+      \endverb
+      \verb{url}
+      \verb https://httpd.apache.org/docs/current/getting-started.html
+      \endverb
+    \endentry
+    \entry{hiberus-elinforma}{online}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{title}{Hiberus Tecnologias de la Informacion Sociedad Limitada}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.einforma.com/informacion-empresa/hiberus-tecnologias-informacion
+      \endverb
+      \verb{url}
+      \verb https://www.einforma.com/informacion-empresa/hiberus-tecnologias-informacion
+      \endverb
+    \endentry
+    \entry{indra-elinforma}{online}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeltitlesource}{title}
+      \field{title}{Indra Sistemas, Sociedad Anonima: teléono, CIF y dirección}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.einforma.com/informacion-empresa/indra-sistemas
+      \endverb
+      \verb{url}
+      \verb https://www.einforma.com/informacion-empresa/indra-sistemas
+      \endverb
+    \endentry
     \entry{unknown-author-2007}{report}{}{}
       \list{publisher}{1}{%
         {Ingenieros}%
@@ -73,6 +202,19 @@
       \endverb
       \verb{url}
       \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
+      \endverb
+    \endentry
+    \entry{rfc-dhcp}{online}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{title}{RFC 2131: Dynamic Host Configuration Protocol}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://datatracker.ietf.org/doc/html/rfc2131
+      \endverb
+      \verb{url}
+      \verb https://datatracker.ietf.org/doc/html/rfc2131
       \endverb
     \endentry
     \entry{riveira-espinosa-2005}{report}{}{}
@@ -109,6 +251,19 @@
       \endverb
       \verb{url}
       \verb http://profesores.fi-b.unam.mx/cintia/Manualhtml.pdf
+      \endverb
+    \endentry
+    \entry{acrlylic-dns-configuration}{online}{}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{Windows 10 Configuration}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://mayakron.altervista.org/support/acrylic/Windows10Configuration.htm
+      \endverb
+      \verb{url}
+      \verb https://mayakron.altervista.org/support/acrylic/Windows10Configuration.htm
       \endverb
     \endentry
   \enddatalist
