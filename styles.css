@@ -407,6 +407,92 @@ p {
   background: var(--primary-blue);
   color: var(--white);
 }
+/* ==========================================================================
+   MENÚ HAMBURGUESA PURAMENTE CSS (SIN TOCAR HTML)
+   ========================================================================== */
+
+@media screen and (max-width: 768px) {
+  
+  /* 1. Forzamos al contenedor a tener una posición relativa para controlar el despliegue */
+  .nav-container {
+    position: relative;
+    margin-top: 0;
+    border-radius: 0 0 15px 15px;
+    padding: 1rem 1.5rem;
+    background: rgba(17, 17, 17, 0.95);
+  }
+
+  /* 2. Creamos el icono de tres líneas (hamburguesa) usando pseudo-elementos en el contenedor */
+  .nav-container::before {
+    content: "";
+    position: absolute;
+    right: 1.5rem;
+    top: 1.5rem;
+    width: 28px;
+    height: 3px;
+    background: #fff;
+    /* Crea la línea superior e inferior con sombras */
+    box-shadow: 0 8px 0 #fff, 0 16px 0 #fff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+
+  /* 3. Ocultamos los enlaces y el botón por defecto en móvil */
+  .nav-links, 
+  .nav-container > a {
+    display: none;
+    opacity: 0;
+    width: 100%;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+
+  /* 4. Cuando el usuario pasa el dedo o interactúa con el menú, este se despliega */
+  .nav-container:hover,
+  .nav-container:focus-within {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding-bottom: 2rem;
+  }
+
+  /* Mostramos el contenido al activar el contenedor */
+  .nav-container:hover .nav-links,
+  .nav-container:focus-within .nav-links,
+  .nav-container:hover > a,
+  .nav-container:focus-within > a {
+    display: flex;
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Transformamos el icono de hamburguesa en una flecha o cruz sutil al abrirse */
+  .nav-container:hover::before,
+  .nav-container:focus-within::before {
+    box-shadow: none;
+    transform: rotate(135deg);
+    top: 2rem;
+  }
+
+  /* 5. Reorganizamos los elementos verticalmente */
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 1rem 0 0 0;
+  }
+
+  /* Aseguramos que el botón de contacto ocupe un buen espacio al final */
+  .nav-container > a {
+    justify-content: center;
+    width: 80%;
+  }
+
+  .nav-btn {
+    width: 100%;
+    padding: 0.8rem;
+  }
+}
 /* --- ESTILOS DEL FOOTER --- */
 .main-footer {
   background: #0a0a0a;

@@ -1,3 +1,5 @@
+
+// MENÚ SLIDER
 $(document).ready(function() {
     // 1. Preparamos el array para el menú (si decides usarlo en el futuro)
     var menu = [];
