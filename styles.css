@@ -515,7 +515,7 @@ p {
 
 .footer-col p {
   font-size: 1rem;
-  opacity: 0.6;
+  
 }
 
 .footer-col ul {
@@ -530,7 +530,7 @@ p {
 .footer-col ul a {
   text-decoration: none;
   color: #fff;
-  opacity: 0.5;
+  opacity: 0.6;
   transition: opacity 0.3s;
 }
 
@@ -543,7 +543,7 @@ p {
 }
 .footer-bottom {
   text-align: center;
-  opacity: 0.4;
+  opacity: 0.6;
 }
 .footer-bottom p {
   font-size: 20px;
