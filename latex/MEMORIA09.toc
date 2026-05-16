@@ -43,10 +43,10 @@
 \contentsline {subsection}{\numberline {7.1}Análisis del sector}{29}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Valoración del equipo}{29}{subsection.7.2}%
 \contentsline {subsection}{\numberline {7.3}Competencias adquirida}{30}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Propuestas de mejora}{31}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{31}{subsection.7.5}%
-\contentsline {section}{\numberline {8}Bibliografía}{31}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Normas de citación}{31}{subsection.8.1}%
+\contentsline {subsection}{\numberline {7.4}Propuestas de mejora}{30}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{30}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Bibliografía}{30}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Normas de citación}{30}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Fuentes bibliográficas}{31}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Fuentes web}{31}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}Documentación técnica consultada}{31}{subsection.8.4}%

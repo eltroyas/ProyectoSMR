@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  16 MAY 2026 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  16 MAY 2026 13:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -919,10 +919,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [29]
-LaTeX Info: Redefining \. on input line 1194.
-LaTeX Info: Redefining \% on input line 1194.
-LaTeX Info: Redefining \. on input line 1194.
-LaTeX Info: Redefining \% on input line 1194.
+LaTeX Info: Redefining \. on input line 1190.
+LaTeX Info: Redefining \% on input line 1190.
+LaTeX Info: Redefining \. on input line 1190.
+LaTeX Info: Redefining \% on input line 1190.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -932,10 +932,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [30]
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
  [31] (MEMORIA09.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
@@ -948,10 +948,10 @@ Package rerunfilecheck Info: File `MEMORIA09.out' has not changed.
 (rerunfilecheck)             Checksum: 50A524672754D5FD136A2936B8169788;10538.
  ) 
 Here is how much of TeX's memory you used:
- 12748 strings out of 467871
- 207384 string characters out of 5428453
+ 12749 strings out of 467871
+ 207402 string characters out of 5428453
  640176 words of memory out of 5000000
- 41392 multiletter control sequences out of 15000+600000
+ 41393 multiletter control sequences out of 15000+600000
  639533 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,93p,691b,853s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -968,9 +968,9 @@ nappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
 our/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (31 pages, 30007312 bytes).
+Output written on MEMORIA09.pdf (31 pages, 30010009 bytes).
 PDF statistics:
- 1074 PDF objects out of 1200 (max. 8388607)
+ 1077 PDF objects out of 1200 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
  576 words of extra memory for PDF output out of 10000 (max. 10000000)
 
