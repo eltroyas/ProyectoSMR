@@ -14,12 +14,11 @@
 \contentsline {subsection}{\numberline {2.1}Requerimientos del sistema:}{5}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Página de inicio}{5}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Sobre nosotros}{5}{subsubsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.3}Aprender más y formación próximamente}{6}{subsubsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.4}Contacto}{6}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}Patrocinadores}{6}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.3}Contacto}{6}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Patrocinadores}{6}{subsubsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.2}Diseño de la infrestructura de red}{6}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}DHCP}{6}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}DNS}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}DNS}{6}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Diagrama}{7}{subsubsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.3}Estudio de viabilidad y proveedores}{7}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Datos de empresas}{7}{subsubsection.2.3.1}%
