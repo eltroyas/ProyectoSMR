@@ -265,34 +265,62 @@
 
     <section class="contacto-section">
 
-      <form action="" method="POST">
+  <form action="" method="POST">
+    
+    <fieldset style="border: none; padding: 0; margin: 0;">
+      <legend style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;">
+        Formulario de contacto de Ópalo E-Learning
+      </legend>
+
+      <div class="input-container">
         
-        <div class="input-container">
-          
-          <div class="styled-input">
-            <input type="text" name="nombre" placeholder=" " required />
-            <label>Nombre</label>
-          </div>
-
-          <div class="styled-input">
-            <input type="email" name="email" placeholder=" " required />
-            <label>Email</label>
-          </div>
-
-          <div class="styled-input wide">
-            <textarea name="mensaje" placeholder=" " required></textarea>
-            <label>Mensaje</label>
-          </div>
-
-          <!-- Campos ocultos recomendados -->
-          <input type="hidden" name="_subject" value="Nuevo mensaje desde el formulario de contacto">
-          <input type="hidden" name="_next" value="">
-
-          <button type="submit" class="submit-btn">Enviar Mensaje</button>
+        <div class="styled-input">
+          <input 
+            type="text" 
+            id="contacto-nombre" 
+            name="nombre" 
+            placeholder=" " 
+            required 
+            aria-required="true" 
+            autocomplete="name"
+          />
+          <label for="contacto-nombre">Nombre</label>
         </div>
-      </form>
 
-    </section>
+        <div class="styled-input">
+          <input 
+            type="email" 
+            id="contacto-email" 
+            name="email" 
+            placeholder=" " 
+            required 
+            aria-required="true" 
+            autocomplete="email"
+          />
+          <label for="contacto-email">Email</label>
+        </div>
+
+        <div class="styled-input wide">
+          <textarea 
+            id="contacto-mensaje" 
+            name="mensaje" 
+            placeholder=" " 
+            required 
+            aria-required="true"
+          ></textarea>
+          <label for="contacto-mensaje">Mensaje</label>
+        </div>
+
+        <input type="hidden" name="_subject" value="Nuevo mensaje desde el formulario de contacto" aria-hidden="true" />
+        <input type="hidden" name="_next" value="" aria-hidden="true" />
+
+        <button type="submit" class="submit-btn">Enviar Mensaje</button>
+      </div>
+
+    </fieldset>
+  </form>
+
+</section>
   </header>
 </section>
 
