@@ -236,7 +236,7 @@ h1 {
   --index: 2;
 }
 .card:nth-child(2) .card__content {
-  background: #6780af;
+  background: #445e8e;
 
 }
 .card:nth-child(3) {
@@ -670,9 +670,7 @@ header {
 .seccion iframe {
   border-radius: 20px;
 }
-.seccion img {
 
-}
 .btn-seccion {
   text-transform: uppercase;
   font-size: 16px;
