@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1459,7 +1459,7 @@ Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 Here is how much of TeX's memory you used:
  21943 strings out of 467871
  383300 string characters out of 5428453
- 1223401 words of memory out of 5000000
+ 1223400 words of memory out of 5000000
  50424 multiletter control sequences out of 15000+600000
  640511 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1479,7 +1479,7 @@ our/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (48 pages, 30311570 bytes).
+Output written on MEMORIA09.pdf (48 pages, 30311566 bytes).
 PDF statistics:
  1498 PDF objects out of 1728 (max. 8388607)
  206 named destinations out of 1000 (max. 500000)
