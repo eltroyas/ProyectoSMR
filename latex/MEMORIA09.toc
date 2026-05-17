@@ -16,53 +16,56 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Sobre nosotros}{6}{subsubsection.2.1.2}%
 \contentsline {subsubsection}{\numberline {2.1.3}Contacto}{7}{subsubsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.4}Patrocinadores}{7}{subsubsection.2.1.4}%
-\contentsline {subsection}{\numberline {2.2}Diseño de la infrestructura de red}{7}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}DHCP}{7}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}DNS}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.1.5}Aviso legal}{7}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Aprender más y formación próxima}{8}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}Valores Éticos}{8}{subsubsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.2}Diseño de la infrestructura de red}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}DHCP}{8}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}DNS}{8}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Diagrama}{8}{subsubsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.3}Estudio de viabilidad y proveedores}{8}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Datos de empresas}{8}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Solución por descarte}{13}{subsubsection.2.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3}Conclusiones}{14}{subsubsection.2.3.3}%
-\contentsline {section}{\numberline {3}Planificación y gestión del proyecto}{14}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Metodología de trabajo:}{14}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Cronograma de ejecución:}{14}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Recursos necesarios}{15}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Implementación y desarrollo (el núcleo técnico)}{15}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Configuración de servicios de red:}{15}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Prototipado previo:}{17}{subsubsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.2}Desarrollo frontend}{27}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Integración de elementos externos}{27}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Pruebas, verificación y mantenimiento}{27}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Protocolos de pruebas}{27}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Gestión de incidencias}{28}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Análisis de sostenibilidad y digitalización}{28}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Aspectos de sostenibilidad}{28}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Ética y protección de datos}{28}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Conclusiones y valoración personal}{30}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Análisis del sector}{30}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Valoración del equipo}{30}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Competencias adquiridas}{31}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Propuestas de mejora}{31}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{32}{subsection.7.5}%
-\contentsline {section}{\numberline {8}Bibliografía}{32}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Normas de citación}{32}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Fuentes bibliográficas}{33}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Fuentes web}{33}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Documentación técnica consultada}{33}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Anexos}{33}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{33}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{34}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{34}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{36}{subsection.9.4}%
-\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{36}{subsubsection.9.4.1}%
-\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{37}{subsubsection.9.4.2}%
-\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{38}{subsubsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{40}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{40}{subsubsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{41}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{42}{subsection.9.7}%
-\contentsline {subsubsection}{\numberline {9.7.1}Por qué el nombre de Opalo E-Learning}{42}{subsubsection.9.7.1}%
-\contentsline {subsubsection}{\numberline {9.7.2}Por qué usamos Github y Netlify}{42}{subsubsection.9.7.2}%
-\contentsline {subsubsection}{\numberline {9.7.3}Cómo funciona nuestro juego de Python}{43}{subsubsection.9.7.3}%
-\contentsline {section}{\numberline {10}Conclusiones}{45}{section.10}%
+\contentsline {subsection}{\numberline {2.3}Estudio de viabilidad y proveedores}{9}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Datos de empresas}{9}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Solución por descarte}{14}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Conclusiones}{15}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}Planificación y gestión del proyecto}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Metodología de trabajo:}{15}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Cronograma de ejecución:}{15}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Recursos necesarios}{16}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Implementación y desarrollo (el núcleo técnico)}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Configuración de servicios de red:}{16}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Prototipado previo:}{18}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}Desarrollo frontend}{28}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Integración de elementos externos}{28}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Pruebas, verificación y mantenimiento}{28}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Protocolos de pruebas}{28}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Gestión de incidencias}{29}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Análisis de sostenibilidad y digitalización}{29}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Aspectos de sostenibilidad}{29}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Ética y protección de datos}{29}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Conclusiones y valoración personal}{31}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Análisis del sector}{31}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Valoración del equipo}{31}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Competencias adquiridas}{32}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Propuestas de mejora}{32}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{33}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Bibliografía}{33}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Normas de citación}{33}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Fuentes bibliográficas}{34}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Fuentes web}{34}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Documentación técnica consultada}{34}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Anexos}{34}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{34}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{35}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{35}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{37}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{37}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{38}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{39}{subsubsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{41}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{41}{subsubsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{42}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{43}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Por qué el nombre de Opalo E-Learning}{43}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Por qué usamos Github y Netlify}{43}{subsubsection.9.7.2}%
+\contentsline {subsubsection}{\numberline {9.7.3}Cómo funciona nuestro juego de Python}{44}{subsubsection.9.7.3}%
+\contentsline {section}{\numberline {10}Conclusiones}{46}{section.10}%
