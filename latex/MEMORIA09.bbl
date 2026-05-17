@@ -23,7 +23,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{title}{Accenture Slu: consulte teléfono, CIF y dirección| eInforma}
+      \field{title}{Accenture Slu: consulte teléfono, CIF y dirección eInforma}
       \true{nocite}
       \verb{urlraw}
       \verb https://www.einforma.com/informacion-empresa/accenture
@@ -72,7 +72,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{title}{Análisis económico del sector de las tecnologías de la información y comunicaciones (TIC´s) en Aragón - Universidad de Zaragoza Repository}
+      \field{title}{Análisis económico del sector de las tecnologías de la información y comunicaciones (TICs) en Aragón - Universidad de Zaragoza Repository}
       \field{year}{2012}
       \field{dateera}{ce}
       \true{nocite}
@@ -250,6 +250,37 @@
       \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
       \endverb
     \endentry
+    \entry{kats-2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=ecc781dbfd84d496c84bc0990fa40ea4}{%
+           family={Kats},
+           familyi={K\bibinitperiod},
+           given={Yefim},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{fullhash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{fullhashraw}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{bibnamehash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{authorbibnamehash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{authornamehash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{authorfullhash}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \strng{authorfullhashraw}{ecc781dbfd84d496c84bc0990fa40ea4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{month}{4}
+      \field{subtitle}{Best Practices in Online Education}
+      \field{title}{Learning Management Systems and Instructional Design: Best Practices in Online Education}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{lamport-1994}{book}{}{}
       \name{author}{1}{}{%
         {{hash=5d77435450d10a850a5b58577b9a456b}{%
@@ -295,7 +326,7 @@
            giveni={P\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {"O'Reilly Media, Inc."}%
+        {O'Reilly Media, Inc.}%
       }
       \strng{namehash}{cafa8baa3629c7233cf20546c9cb9e54}
       \strng{fullhash}{cafa8baa3629c7233cf20546c9cb9e54}
@@ -324,8 +355,9 @@
            given={Doug},
            giveni={D\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {John Wiley & Sons}%
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons}%
       }
       \strng{namehash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
       \strng{fullhash}{8b83e4c3273a6c70c63d5c21afc0a6f9}

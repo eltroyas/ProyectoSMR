@@ -57,16 +57,16 @@
 \contentsline {section}{\numberline {9}Anexos}{36}{section.9}%
 \contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{36}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{36}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{36}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{38}{subsection.9.4}%
-\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{38}{subsubsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{37}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{39}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{39}{subsubsection.9.4.1}%
 \contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{40}{subsubsection.9.4.2}%
 \contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{41}{subsubsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{42}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{42}{subsubsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{43}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{44}{subsection.9.7}%
-\contentsline {subsubsection}{\numberline {9.7.1}Por qué el nombre de Opalo E-Learning}{44}{subsubsection.9.7.1}%
-\contentsline {subsubsection}{\numberline {9.7.2}Por qué usamos Github y Netlify}{44}{subsubsection.9.7.2}%
-\contentsline {subsubsection}{\numberline {9.7.3}Cómo funciona nuestro juego de Python}{45}{subsubsection.9.7.3}%
-\contentsline {section}{\numberline {10}Conclusiones}{47}{section.10}%
+\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{43}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{43}{subsubsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{44}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{45}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}Por qué el nombre de Opalo E-Learning}{45}{subsubsection.9.7.1}%
+\contentsline {subsubsection}{\numberline {9.7.2}Por qué usamos Github y Netlify}{45}{subsubsection.9.7.2}%
+\contentsline {subsubsection}{\numberline {9.7.3}Cómo funciona nuestro juego de Python}{46}{subsubsection.9.7.3}%
+\contentsline {section}{\numberline {10}Conclusiones}{48}{section.10}%

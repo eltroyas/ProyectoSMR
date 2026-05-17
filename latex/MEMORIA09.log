@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1302,18 +1302,6 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-! Misplaced alignment tab character &.
-<argument> John Wiley &
-                        Sons
-l.1331 ...intbibliography[heading=none, type=book]
-                                                  
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
 
 Package biblatex Warning: Type 'article' not found on input line 1332.
 
@@ -1372,10 +1360,10 @@ T1/cmr/m/n/10 . 19 de dic. de 2016. \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : []$\T1/
 cmtt/m/n/10 https : / / blogsaverroes . juntadeandalucia .
  []
 
-LaTeX Info: Redefining \. on input line 1349.
-LaTeX Info: Redefining \% on input line 1349.
-LaTeX Info: Redefining \. on input line 1349.
-LaTeX Info: Redefining \% on input line 1349.
+LaTeX Info: Redefining \. on input line 1341.
+LaTeX Info: Redefining \% on input line 1341.
+LaTeX Info: Redefining \. on input line 1341.
+LaTeX Info: Redefining \% on input line 1341.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.1638pt, for example:
@@ -1384,75 +1372,80 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [35]
-LaTeX Info: Redefining \. on input line 1405.
-LaTeX Info: Redefining \% on input line 1405.
+LaTeX Info: Redefining \. on input line 1386.
+LaTeX Info: Redefining \% on input line 1386.
  [36]
-LaTeX Info: Redefining \. on input line 1469.
-LaTeX Info: Redefining \% on input line 1469.
-LaTeX Info: Redefining \. on input line 1469.
-LaTeX Info: Redefining \% on input line 1469.
+LaTeX Info: Redefining \. on input line 1447.
+LaTeX Info: Redefining \% on input line 1447.
+LaTeX Info: Redefining \. on input line 1447.
+LaTeX Info: Redefining \% on input line 1447.
  [37]
-LaTeX Info: Redefining \. on input line 1525.
-LaTeX Info: Redefining \% on input line 1525.
-LaTeX Info: Redefining \. on input line 1525.
-LaTeX Info: Redefining \% on input line 1525.
+LaTeX Info: Redefining \. on input line 1509.
+LaTeX Info: Redefining \% on input line 1509.
+LaTeX Info: Redefining \. on input line 1509.
+LaTeX Info: Redefining \% on input line 1509.
  [38]
-LaTeX Info: Redefining \. on input line 1593.
-LaTeX Info: Redefining \% on input line 1593.
-LaTeX Info: Redefining \. on input line 1593.
-LaTeX Info: Redefining \% on input line 1593.
+LaTeX Info: Redefining \. on input line 1566.
+LaTeX Info: Redefining \% on input line 1566.
+LaTeX Info: Redefining \. on input line 1566.
+LaTeX Info: Redefining \% on input line 1566.
  [39]
-LaTeX Info: Redefining \. on input line 1652.
-LaTeX Info: Redefining \% on input line 1652.
-LaTeX Info: Redefining \. on input line 1652.
-LaTeX Info: Redefining \% on input line 1652.
+LaTeX Info: Redefining \. on input line 1628.
+LaTeX Info: Redefining \% on input line 1628.
+LaTeX Info: Redefining \. on input line 1628.
+LaTeX Info: Redefining \% on input line 1628.
  [40]
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
+LaTeX Info: Redefining \. on input line 1687.
+LaTeX Info: Redefining \% on input line 1687.
+LaTeX Info: Redefining \. on input line 1687.
+LaTeX Info: Redefining \% on input line 1687.
  [41]
-LaTeX Info: Redefining \. on input line 1748.
-LaTeX Info: Redefining \% on input line 1748.
-LaTeX Info: Redefining \. on input line 1748.
-LaTeX Info: Redefining \% on input line 1748.
+LaTeX Info: Redefining \. on input line 1750.
+LaTeX Info: Redefining \% on input line 1750.
+LaTeX Info: Redefining \. on input line 1750.
+LaTeX Info: Redefining \% on input line 1750.
  [42]
-<IMG/9.5pruebas-initial.png, id=692, 2056.68375pt x 782.925pt>
+LaTeX Info: Redefining \. on input line 1767.
+LaTeX Info: Redefining \% on input line 1767.
+LaTeX Info: Redefining \. on input line 1767.
+LaTeX Info: Redefining \% on input line 1767.
+ [43]
+<IMG/9.5pruebas-initial.png, id=738, 2056.68375pt x 782.925pt>
 File: IMG/9.5pruebas-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-initial.png>
-Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1753.
+Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1772.
 (pdftex.def)             Requested size: 500.484pt x 190.52211pt.
-<IMG/9.5pruebas-movil-initial.png, id=693, 2056.68375pt x 784.43062pt>
+<IMG/9.5pruebas-movil-initial.png, id=739, 2056.68375pt x 784.43062pt>
 File: IMG/9.5pruebas-movil-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-movil-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-movil-initial.png  used on input line 1
-762.
+781.
 (pdftex.def)             Requested size: 500.484pt x 190.88849pt.
-LaTeX Info: Redefining \. on input line 1797.
-LaTeX Info: Redefining \% on input line 1797.
-LaTeX Info: Redefining \. on input line 1797.
-LaTeX Info: Redefining \% on input line 1797.
- [43
+LaTeX Info: Redefining \. on input line 1816.
+LaTeX Info: Redefining \% on input line 1816.
+LaTeX Info: Redefining \. on input line 1816.
+LaTeX Info: Redefining \% on input line 1816.
+ [44
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1846.
-LaTeX Info: Redefining \% on input line 1846.
-LaTeX Info: Redefining \. on input line 1846.
-LaTeX Info: Redefining \% on input line 1846.
- [44]
-LaTeX Info: Redefining \. on input line 1918.
-LaTeX Info: Redefining \% on input line 1918.
-LaTeX Info: Redefining \. on input line 1918.
-LaTeX Info: Redefining \% on input line 1918.
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
+LaTeX Info: Redefining \. on input line 1865.
+LaTeX Info: Redefining \% on input line 1865.
  [45]
-LaTeX Info: Redefining \. on input line 1980.
-LaTeX Info: Redefining \% on input line 1980.
-LaTeX Info: Redefining \. on input line 1980.
-LaTeX Info: Redefining \% on input line 1980.
+LaTeX Info: Redefining \. on input line 1937.
+LaTeX Info: Redefining \% on input line 1937.
+LaTeX Info: Redefining \. on input line 1937.
+LaTeX Info: Redefining \% on input line 1937.
  [46]
-LaTeX Info: Redefining \. on input line 1989.
-LaTeX Info: Redefining \% on input line 1989.
- [47] (MEMORIA09.aux
+LaTeX Info: Redefining \. on input line 1999.
+LaTeX Info: Redefining \% on input line 1999.
+LaTeX Info: Redefining \. on input line 1999.
+LaTeX Info: Redefining \% on input line 1999.
+ [47]
+LaTeX Info: Redefining \. on input line 2008.
+LaTeX Info: Redefining \% on input line 2008.
+ [48] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1468,34 +1461,32 @@ Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21946 strings out of 467871
- 383246 string characters out of 5428453
- 1223429 words of memory out of 5000000
- 50426 multiletter control sequences out of 15000+600000
- 642422 words of font info for 67 fonts, out of 8000000 for 9000
+ 21945 strings out of 467871
+ 383320 string characters out of 5428453
+ 1223344 words of memory out of 5000000
+ 50425 multiletter control sequences out of 15000+600000
+ 641279 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,91p,700b,2427s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt100
 0.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx
-0900.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
-cti1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\eccc1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecrm0500.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecrm0900.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
-/ec/dpi600\ectt1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm0700.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\tcrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\M
-iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (47 pages, 30305189 bytes).
+0900.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+ccc1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm0900.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ectt1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm0700.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecti1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on MEMORIA09.pdf (48 pages, 30312976 bytes).
 PDF statistics:
- 1467 PDF objects out of 1728 (max. 8388607)
- 204 named destinations out of 1000 (max. 500000)
+ 1504 PDF objects out of 1728 (max. 8388607)
+ 206 named destinations out of 1000 (max. 500000)
  674 words of extra memory for PDF output out of 10000 (max. 10000000)
 
