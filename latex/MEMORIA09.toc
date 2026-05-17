@@ -54,12 +54,12 @@
 \contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{32}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{33}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{33}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{33}{subsection.9.4}%
-\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{33}{subsubsection.9.4.1}%
-\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{35}{subsubsection.9.4.2}%
-\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{36}{subsubsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{37}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{37}{subsubsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{38}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{38}{subsection.9.7}%
-\contentsline {section}{\numberline {10}Conclusiones}{38}{section.10}%
+\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{35}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{35}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{36}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{37}{subsubsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{39}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{39}{subsubsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{40}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{40}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Conclusiones}{40}{section.10}%

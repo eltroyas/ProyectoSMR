@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1283,52 +1283,62 @@ LaTeX Info: Redefining \% on input line 1283.
 LaTeX Info: Redefining \. on input line 1283.
 LaTeX Info: Redefining \% on input line 1283.
 [32]
-LaTeX Info: Redefining \. on input line 1333.
-LaTeX Info: Redefining \% on input line 1333.
-LaTeX Info: Redefining \. on input line 1333.
-LaTeX Info: Redefining \% on input line 1333.
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
  [33]
-LaTeX Info: Redefining \. on input line 1412.
-LaTeX Info: Redefining \% on input line 1412.
-LaTeX Info: Redefining \. on input line 1412.
-LaTeX Info: Redefining \% on input line 1412.
+LaTeX Info: Redefining \. on input line 1407.
+LaTeX Info: Redefining \% on input line 1407.
+LaTeX Info: Redefining \. on input line 1407.
+LaTeX Info: Redefining \% on input line 1407.
  [34]
-LaTeX Info: Redefining \. on input line 1473.
-LaTeX Info: Redefining \% on input line 1473.
-LaTeX Info: Redefining \. on input line 1473.
-LaTeX Info: Redefining \% on input line 1473.
+LaTeX Info: Redefining \. on input line 1464.
+LaTeX Info: Redefining \% on input line 1464.
+LaTeX Info: Redefining \. on input line 1464.
+LaTeX Info: Redefining \% on input line 1464.
  [35]
-LaTeX Info: Redefining \. on input line 1535.
-LaTeX Info: Redefining \% on input line 1535.
-LaTeX Info: Redefining \. on input line 1535.
-LaTeX Info: Redefining \% on input line 1535.
+LaTeX Info: Redefining \. on input line 1526.
+LaTeX Info: Redefining \% on input line 1526.
+LaTeX Info: Redefining \. on input line 1526.
+LaTeX Info: Redefining \% on input line 1526.
  [36]
-LaTeX Info: Redefining \. on input line 1569.
-LaTeX Info: Redefining \% on input line 1569.
-LaTeX Info: Redefining \. on input line 1569.
-LaTeX Info: Redefining \% on input line 1569.
+LaTeX Info: Redefining \. on input line 1585.
+LaTeX Info: Redefining \% on input line 1585.
+LaTeX Info: Redefining \. on input line 1585.
+LaTeX Info: Redefining \% on input line 1585.
  [37]
-<IMG/9.5pruebas-initial.png, id=593, 2056.68375pt x 782.925pt>
+LaTeX Info: Redefining \. on input line 1648.
+LaTeX Info: Redefining \% on input line 1648.
+LaTeX Info: Redefining \. on input line 1648.
+LaTeX Info: Redefining \% on input line 1648.
+ [38]
+LaTeX Info: Redefining \. on input line 1665.
+LaTeX Info: Redefining \% on input line 1665.
+LaTeX Info: Redefining \. on input line 1665.
+LaTeX Info: Redefining \% on input line 1665.
+ [39]
+<IMG/9.5pruebas-initial.png, id=613, 2056.68375pt x 782.925pt>
 File: IMG/9.5pruebas-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-initial.png>
-Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1574.
+Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1670.
 (pdftex.def)             Requested size: 500.484pt x 190.52211pt.
-<IMG/9.5pruebas-movil-initial.png, id=594, 2056.68375pt x 784.43062pt>
+<IMG/9.5pruebas-movil-initial.png, id=614, 2056.68375pt x 784.43062pt>
 File: IMG/9.5pruebas-movil-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-movil-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-movil-initial.png  used on input line 1
-583.
+679.
 (pdftex.def)             Requested size: 500.484pt x 190.88849pt.
-LaTeX Info: Redefining \. on input line 1606.
-LaTeX Info: Redefining \% on input line 1606.
-LaTeX Info: Redefining \. on input line 1606.
-LaTeX Info: Redefining \% on input line 1606.
- [38
+LaTeX Info: Redefining \. on input line 1702.
+LaTeX Info: Redefining \% on input line 1702.
+LaTeX Info: Redefining \. on input line 1702.
+LaTeX Info: Redefining \% on input line 1702.
+ [40
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1611.
-LaTeX Info: Redefining \% on input line 1611.
- [39] (MEMORIA09.aux
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
+ [41] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1344,8 +1354,8 @@ Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20250 strings out of 467871
- 360002 string characters out of 5428453
+ 20264 strings out of 467871
+ 360148 string characters out of 5428453
  1203975 words of memory out of 5000000
  48798 multiletter control sequences out of 15000+600000
  641279 words of font info for 65 fonts, out of 8000000 for 9000
@@ -1367,9 +1377,9 @@ ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\
 fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (39 pages, 30265757 bytes).
+Output written on MEMORIA09.pdf (41 pages, 30271300 bytes).
 PDF statistics:
- 1314 PDF objects out of 1440 (max. 8388607)
- 150 named destinations out of 1000 (max. 500000)
+ 1338 PDF objects out of 1440 (max. 8388607)
+ 164 named destinations out of 1000 (max. 500000)
  618 words of extra memory for PDF output out of 10000 (max. 10000000)
 
