@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 12:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1336,10 +1336,10 @@ LaTeX Info: Redefining \% on input line 1714.
  [40
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1741.
-LaTeX Info: Redefining \% on input line 1741.
-LaTeX Info: Redefining \. on input line 1741.
-LaTeX Info: Redefining \% on input line 1741.
+LaTeX Info: Redefining \. on input line 1744.
+LaTeX Info: Redefining \% on input line 1744.
+LaTeX Info: Redefining \. on input line 1744.
+LaTeX Info: Redefining \% on input line 1744.
  [41] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
@@ -1349,15 +1349,22 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-Package rerunfilecheck Info: File `MEMORIA09.out' has not changed.
-(rerunfilecheck)             Checksum: 6637FCFD9A474A742549D2E332615739;11678.
+
+
+Package rerunfilecheck Warning: File `MEMORIA09.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MEMORIA09.out':
+(rerunfilecheck)             Before: 6637FCFD9A474A742549D2E332615739;11678
+(rerunfilecheck)             After:  BFE93A1D9BA9F1FD9EACBFD854194294;12009.
 Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 \openout1 = `MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20268 strings out of 467871
- 360192 string characters out of 5428453
+ 20269 strings out of 467871
+ 360211 string characters out of 5428453
  1203975 words of memory out of 5000000
  48798 multiletter control sequences out of 15000+600000
  641279 words of font info for 65 fonts, out of 8000000 for 9000
@@ -1379,9 +1386,9 @@ ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\
 fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (41 pages, 30272764 bytes).
+Output written on MEMORIA09.pdf (41 pages, 30273059 bytes).
 PDF statistics:
- 1342 PDF objects out of 1440 (max. 8388607)
- 168 named destinations out of 1000 (max. 500000)
+ 1344 PDF objects out of 1440 (max. 8388607)
+ 169 named destinations out of 1000 (max. 500000)
  618 words of extra memory for PDF output out of 10000 (max. 10000000)
 
