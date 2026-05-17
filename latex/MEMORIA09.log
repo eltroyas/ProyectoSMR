@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -676,7 +676,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 30.
-<IMG/opalo-logo.jpg, id=259, 95.8782pt x 77.088pt>
+<IMG/opalo-logo.jpg, id=263, 95.8782pt x 77.088pt>
 File: IMG/opalo-logo.jpg Graphic file (type jpg)
 <use IMG/opalo-logo.jpg>
 Package pdftex.def Info: IMG/opalo-logo.jpg  used on input line 32.
@@ -766,7 +766,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [6]
-<IMG/diagrama1.jpg, id=359, 1038.12843pt x 221.32687pt>
+<IMG/diagrama1.jpg, id=364, 1038.12843pt x 221.32687pt>
 File: IMG/diagrama1.jpg Graphic file (type jpg)
 <use IMG/diagrama1.jpg>
 Package pdftex.def Info: IMG/diagrama1.jpg  used on input line 257.
@@ -890,7 +890,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [15]
-<IMG/ncpa.cpl.jpg, id=407, 295.1025pt x 336.50719pt>
+<IMG/ncpa.cpl.jpg, id=412, 295.1025pt x 336.50719pt>
 File: IMG/ncpa.cpl.jpg Graphic file (type jpg)
 <use IMG/ncpa.cpl.jpg>
 Package pdftex.def Info: IMG/ncpa.cpl.jpg  used on input line 755.
@@ -908,13 +908,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [16 <./IMG/ncpa.cpl.jpg>]
-<IMG/OPALO-CANVA/LANDING PAGE.png, id=412, 102.8643pt x 482.7636pt>
+<IMG/OPALO-CANVA/LANDING PAGE.png, id=417, 102.8643pt x 482.7636pt>
 File: IMG/OPALO-CANVA/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-CANVA/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/LANDING PAGE.png  used on input line 7
 73.
 (pdftex.def)             Requested size: 130.62521pt x 613.05138pt.
-<IMG/OPALO-NEW/LANDING PAGE.png, id=414, 617.30624pt x 2122.93124pt>
+<IMG/OPALO-NEW/LANDING PAGE.png, id=419, 617.30624pt x 2122.93124pt>
 File: IMG/OPALO-NEW/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-NEW/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 780
@@ -933,13 +933,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [17 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>]
-<IMG/OPALO-CANVA/AVISO LEGAL.png, id=423, 1028.4021pt x 944.0871pt>
+<IMG/OPALO-CANVA/AVISO LEGAL.png, id=428, 1028.4021pt x 944.0871pt>
 File: IMG/OPALO-CANVA/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-CANVA/AVISO LEGAL.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/AVISO LEGAL.png  used on input line 79
 5.
 (pdftex.def)             Requested size: 225.21349pt x 206.74902pt.
-<IMG/OPALO-NEW/AVISO LEGAL.png, id=424, 2742.245pt x 3950.76pt>
+<IMG/OPALO-NEW/AVISO LEGAL.png, id=429, 2742.245pt x 3950.76pt>
 File: IMG/OPALO-NEW/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-NEW/AVISO LEGAL.png>
 Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 802.
@@ -959,13 +959,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18 <./IMG/OPALO-CANVA/AVISO LEGAL.png (PNG copy)> <./IMG/OPALO-NEW/AVISO LEGAL
 .png>]
-<IMG/OPALO-CANVA/APRENDER MÁS.png, id=430, 1028.4021pt x 1036.5927pt>
+<IMG/OPALO-CANVA/APRENDER MÁS.png, id=435, 1028.4021pt x 1036.5927pt>
 File: IMG/OPALO-CANVA/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/APRENDER MÁS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/APRENDER MÁS.png  used on input line 
 816.
 (pdftex.def)             Requested size: 225.21349pt x 227.00717pt.
-<IMG/OPALO-NEW/APRENDER MÁS.png, id=431, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/APRENDER MÁS.png, id=436, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-NEW/APRENDER MÁS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 82
@@ -985,12 +985,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19 <./IMG/OPALO-CANVA/APRENDER MÁS.png (PNG copy)> <./IMG/OPALO-NEW/APRENDER 
 MÁS.png>]
-<IMG/OPALO-CANVA/CONTACTO.png, id=438, 1028.4021pt x 655.7298pt>
+<IMG/OPALO-CANVA/CONTACTO.png, id=443, 1028.4021pt x 655.7298pt>
 File: IMG/OPALO-CANVA/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-CANVA/CONTACTO.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/CONTACTO.png  used on input line 838.
 (pdftex.def)             Requested size: 225.21349pt x 143.60063pt.
-<IMG/OPALO-NEW/CONTACTO.png, id=439, 617.30624pt x 307.1475pt>
+<IMG/OPALO-NEW/CONTACTO.png, id=444, 617.30624pt x 307.1475pt>
 File: IMG/OPALO-NEW/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-NEW/CONTACTO.png>
 Package pdftex.def Info: IMG/OPALO-NEW/CONTACTO.png  used on input line 845.
@@ -1008,13 +1008,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [20 <./IMG/OPALO-CANVA/CONTACTO.png (PNG copy)> <./IMG/OPALO-NEW/CONTACTO.png>]
-<IMG/OPALO-CANVA/PATROCINADORES.png, id=446, 1028.4021pt x 578.16pt>
+<IMG/OPALO-CANVA/PATROCINADORES.png, id=451, 1028.4021pt x 578.16pt>
 File: IMG/OPALO-CANVA/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-CANVA/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/PATROCINADORES.png  used on input line
  860.
 (pdftex.def)             Requested size: 225.21349pt x 126.61334pt.
-<IMG/OPALO-NEW/PATROCINADORES.png, id=447, 617.30624pt x 127.97812pt>
+<IMG/OPALO-NEW/PATROCINADORES.png, id=452, 617.30624pt x 127.97812pt>
 File: IMG/OPALO-NEW/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-NEW/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-NEW/PATROCINADORES.png  used on input line 8
@@ -1033,13 +1033,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [21 <./IMG/OPALO-CANVA/PATROCINADORES.png (PNG copy)> <./IMG/OPALO-NEW/PATROCIN
 ADORES.png>]
-<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=454, 1028.4021pt x 1811.3271pt>
+<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=459, 1028.4021pt x 1811.3271pt>
 File: IMG/OPALO-CANVA/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/SOBRE NOSOTROS.png  used on input line
  882.
 (pdftex.def)             Requested size: 225.21349pt x 396.66905pt.
-<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=455, 2742.245pt x 3195.94pt>
+<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=460, 2742.245pt x 3195.94pt>
 File: IMG/OPALO-NEW/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-NEW/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/SOBRE NOSOTROS.png  used on input line 8
@@ -1059,7 +1059,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [22 <./IMG/OPALO-CANVA/SOBRE NOSOTROS.png (PNG copy)> <./IMG/OPALO-NEW/SOBRE NO
 SOTROS.png>]
-<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=461, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=466, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/FORMACIÓN PROX.png Graphic file (type png)
 <use IMG/OPALO-NEW/FORMACIÓN PROX.png>
 Package pdftex.def Info: IMG/OPALO-NEW/FORMACIÓN PROX.png  used on input line 
@@ -1078,7 +1078,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [23 <./IMG/OPALO-NEW/FORMACIÓN PROX.png>]
-<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=467, 2742.245pt x 6048.5975pt>
+<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=472, 2742.245pt x 6048.5975pt>
 File: IMG/OPALO-NEW/VALORES ÉTICOS.png Graphic file (type png)
 <use IMG/OPALO-NEW/VALORES ÉTICOS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/VALORES ÉTICOS.png  used on input line 
@@ -1097,7 +1097,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [24 <./IMG/OPALO-NEW/VALORES ÉTICOS.png>]
-<IMG/OPALO-NEW/JUEGO.png, id=473, 2742.245pt x 2832.5825pt>
+<IMG/OPALO-NEW/JUEGO.png, id=478, 2742.245pt x 2832.5825pt>
 File: IMG/OPALO-NEW/JUEGO.png Graphic file (type png)
 <use IMG/OPALO-NEW/JUEGO.png>
 Package pdftex.def Info: IMG/OPALO-NEW/JUEGO.png  used on input line 931.
@@ -1115,7 +1115,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [25 <./IMG/OPALO-NEW/JUEGO.png>]
-<IMG/github-cut.png, id=482, 1506.3778pt x 1168.365pt>
+<IMG/github-cut.png, id=487, 1506.3778pt x 1168.365pt>
 File: IMG/github-cut.png Graphic file (type png)
 <use IMG/github-cut.png>
 Package pdftex.def Info: IMG/github-cut.png  used on input line 950.
@@ -1318,12 +1318,12 @@ LaTeX Info: Redefining \% on input line 1665.
 LaTeX Info: Redefining \. on input line 1665.
 LaTeX Info: Redefining \% on input line 1665.
  [39]
-<IMG/9.5pruebas-initial.png, id=613, 2056.68375pt x 782.925pt>
+<IMG/9.5pruebas-initial.png, id=618, 2056.68375pt x 782.925pt>
 File: IMG/9.5pruebas-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1670.
 (pdftex.def)             Requested size: 500.484pt x 190.52211pt.
-<IMG/9.5pruebas-movil-initial.png, id=614, 2056.68375pt x 784.43062pt>
+<IMG/9.5pruebas-movil-initial.png, id=619, 2056.68375pt x 784.43062pt>
 File: IMG/9.5pruebas-movil-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-movil-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-movil-initial.png  used on input line 1
@@ -1336,11 +1336,14 @@ LaTeX Info: Redefining \% on input line 1714.
  [40
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1744.
-LaTeX Info: Redefining \% on input line 1744.
-LaTeX Info: Redefining \. on input line 1744.
-LaTeX Info: Redefining \% on input line 1744.
- [41] (MEMORIA09.aux
+LaTeX Info: Redefining \. on input line 1755.
+LaTeX Info: Redefining \% on input line 1755.
+LaTeX Info: Redefining \. on input line 1755.
+LaTeX Info: Redefining \% on input line 1755.
+ [41]
+LaTeX Info: Redefining \. on input line 1762.
+LaTeX Info: Redefining \% on input line 1762.
+ [42] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1356,17 +1359,17 @@ Package rerunfilecheck Warning: File `MEMORIA09.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `MEMORIA09.out':
-(rerunfilecheck)             Before: 6637FCFD9A474A742549D2E332615739;11678
-(rerunfilecheck)             After:  BFE93A1D9BA9F1FD9EACBFD854194294;12009.
+(rerunfilecheck)             Before: D805F719A44C9BD9D016145061101789;11952
+(rerunfilecheck)             After:  8AD0E6BF9C2A83FD25138310F3F9E843;12193.
 Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 \openout1 = `MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20269 strings out of 467871
- 360211 string characters out of 5428453
- 1203975 words of memory out of 5000000
- 48798 multiletter control sequences out of 15000+600000
+ 20272 strings out of 467871
+ 360258 string characters out of 5428453
+ 1203978 words of memory out of 5000000
+ 48799 multiletter control sequences out of 15000+600000
  641279 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,93p,700b,2443s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1386,9 +1389,9 @@ ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\
 fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (41 pages, 30273059 bytes).
+Output written on MEMORIA09.pdf (42 pages, 30276839 bytes).
 PDF statistics:
- 1344 PDF objects out of 1440 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
- 618 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1354 PDF objects out of 1440 (max. 8388607)
+ 171 named destinations out of 1000 (max. 500000)
+ 626 words of extra memory for PDF output out of 10000 (max. 10000000)
 
