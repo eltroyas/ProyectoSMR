@@ -12,6 +12,7 @@
 \usepackage{fancyhdr}
 \usepackage{biblatex}
 \usepackage{float}
+\usepackage{listings}
 
 \nocite{*} 
 
@@ -725,16 +726,22 @@
 
 	Escribimos lo siguiente:
 	
-	\begin{verbatim}
+	\label{Apache}
+	\begin{lstlisting}[language=, caption={httpd-vhosts.conf}, label=lst:Apache]
 		<VirtualHost *:80>
-			DocumentRoot "C:/xampp/htdocs/opalo"
-			ServerName opalo.learning
-			<Directory “C:/xampp/htdocs/opalo”>
-				AllowOverride All
-				Require all granted
-			</Directory>
+		ServerName opalo.learning
+		DocumentRoot "C:/xampp/htdocs/opalo"
+		
+		<Directory "C:/xampp/htdocs/opalo">
+		Options Indexes FollowSymLinks
+		AllowOverride All
+		Require all granted
+		</Directory>
+		
+		ErrorLog "logs/opalo.learning-error.log"
+		CustomLog "logs/opalo.learning-access.log" common
 		</VirtualHost>
-	\end{verbatim}
+	\end{lstlisting}
 	
 	Para la resolución de DNS tenemos Acrylic DNS Proxy. Modificamos el archivo:
 	\begin{verbatim}
@@ -743,9 +750,10 @@
 	
 	Escribimos:
 	
-	\begin{verbatim}
+	\label{Apache2}
+	\begin{lstlisting}[language=, caption={AcrylicHosts.txt}, label=lst:Apache2]
 		127.0.0.1 opalo.learning
-	\end{verbatim}
+	\end{lstlisting}
 	
 	Aquí le decimos que acuda al loopback, es decir, nuestro propio equipo, cuando ingresemos la dirección DNS opalo.learning.
 	
@@ -756,9 +764,10 @@
 		\end{center}
 	En el fichero C:\textbackslash{}Windows\textbackslash{}System32\textbackslash{}drivers\textbackslash{}etc\textbackslash{}hosts escribir lo mismo que ya teníamos en AcrylicHosts.txt.
 	
-	\begin{verbatim}
+	\label{Apache3}
+	\begin{lstlisting}[language=, caption={hosts}, label=lst:Apache3]
 		127.0.0.1 opalo.learning
-	\end{verbatim}
+	\end{lstlisting}
 	
 	\subsubsection{Prototipado previo:}
 	A continuación se presentan las imágenes del prototipo en Canva y las actuales.
@@ -1277,6 +1286,14 @@
 	\end{itemize}
 	
 	\subsection{Código fuente (si aplica)}
+	
+	En esta sección se listan y referencian el código fuente de los archivos de configuración detallados en el proyecto:
+	
+	\begin{itemize}
+		\item La configuración de los VirtualHost de Apache se muestra en la subsección \ref{Apache} y en la página \pageref{Apache}.
+		\item La configuración de los VirtualHosts de Acrylic DNS Proxy se muestra en la subsección \ref{Apache2} y en la página \pageref{Apache2}.
+		\item La configuración de los VirtualHosts de Windows se muestra en la subsección \ref{Apache3} y en la página \pageref{Apache3}.
+	\end{itemize}
 	\subsection{Presupuestos detallados}
 	
 	A continuación se presenta un análisis comparativo de presupuestos estimados para el desarrollo de una página web corporativa profesional (similar a la planteada en el proyecto), basada en el posicionamiento de mercado, tamaño y enfoque de cada proveedor en España durante 2026.
@@ -1746,7 +1763,151 @@
 		\item Netlify distribuye nuestra web con gran rendimiento a través de una red de servidores en todo el mundo (Content Delivery Network). 
 		\item Aunque ahora usemos Netlify, nuestro código está en GitHub. Fácilmente lo podemos trasladar a cualquier \textit{hosting} en cualquier momento (Cloudflare Pages, AWS, etc).
 	\end{itemize}
-
+	
+	\subsubsection{Cómo funciona nuestro juego de Python}
+	
+	El juego que hemos desarrollado es muy sencillo.
+	
+	A continuación, lo explicamos línea por línea.
+	
+	\begin{verbatim}
+		import pygame
+		import sys
+	\end{verbatim}
+	
+	\verb|import pygame|: Trae la librería Pygame para poder hacer juegos y gráficos.
+	
+	\verb|import sys|: Sirve para poder cerrar el programa correctamente.
+	
+	\begin{verbatim}
+		pygame.init()
+	\end{verbatim}
+	
+	Esta línea \textit{enciende} Pygame. Es obligatoria. 
+	
+	\begin{verbatim}
+		NEGRO = (0, 0, 0)
+		BLANCO = (255, 255, 255)
+		ROJO = (255, 0, 0)
+	\end{verbatim}
+	
+	Creamos las variables para cada uno de los colores que vamos a utilizar en el juego.
+	
+	\begin{verbatim}
+		ANCHO = 800
+		ALTO = 600
+	\end{verbatim}
+	
+	Definimos el tamaño de la ventana del juego en píxeles: 800 píxeles de ancho y 600 de alto.
+	
+	\begin{verbatim}
+		pantalla = pygame.display.set_mode((ANCHO, ALTO))
+		pygame.display.set_caption("Cuadrado que se Mueve")	
+	\end{verbatim}
+	
+	La primera línea crea la ventana del juego.
+	
+	La segunda pone el título arriba de la ventana.
+	
+	\begin{verbatim}
+		reloj = pygame.time.Clock()
+	\end{verbatim}
+	
+	Creamos un "reloj" que controla la velocidad del juego (para que no vaya demasiado rápido).
+	
+	\begin{verbatim}
+		tamano = 60
+		x = ANCHO // 2 - tamano // 2
+		y = ALTO // 2 - tamano // 2
+		velocidad = 8
+	\end{verbatim}
+	\verb|tamano = 60|: El cuadrado medirá 60x60 píxeles.
+	\verb|x e y|: Son las coordenadas donde está el cuadrado.
+	La fórmula \verb|ANCHO // 2 - tamano // 2| lo coloca en el centro de la pantalla.
+	\verb|velocidad = 8|: Cuántos píxeles se mueve cada vez (mientras mantengas la tecla presionada).
+	
+	\begin{verbatim}
+		while True:
+	\end{verbatim}
+	
+	Esto significa un bucle que repite todo el código para siempre hasta que acabe el juego.
+	
+	\begin{verbatim}
+		for evento in pygame.event.get():
+		if evento.type == pygame.QUIT:
+		pygame.quit()
+		sys.exit()
+	\end{verbatim}
+	
+	Esta parte revisa si el usuario hizo algo (como presionar la X para cerrar la ventana).
+	
+	Si detecta que hemos cerrado la ventana: cierra Pygame y sale del programa.
+	
+	\begin{verbatim}
+		teclas = pygame.key.get_pressed()
+	\end{verbatim}
+	
+	Creamos una variable que equivale a las teclas que presiona el usuario.
+	
+	\begin{verbatim}
+		if teclas[pygame.K_LEFT] or teclas[pygame.K_a]:
+		x -= velocidad
+		if teclas[pygame.K_RIGHT] or teclas[pygame.K_d]:
+		x += velocidad
+		if teclas[pygame.K_UP] or teclas[pygame.K_w]:
+		y -= velocidad
+		if teclas[pygame.K_DOWN] or teclas[pygame.K_s]:
+		y += velocidad
+	\end{verbatim}
+	
+	Aquí movemos el cuadrado:
+	
+	\begin{itemize}
+		\item Si presionas flecha izquierda o A: x -= velocidad (resta, se mueve a la izquierda)
+		\item 	Si presionas flecha derecha o D: x += velocidad (suma, se mueve a la derecha)
+		\item 	Arriba (W o flecha): restamos a y (porque en pantalla Y va hacia abajo)
+		\item 	Abajo (S o flecha): sumamos a y
+	\end{itemize}
+	
+	\begin{verbatim}
+		if x < 0:
+		x = 0
+		if x + tamano > ANCHO:
+		x = ANCHO - tamano
+		if y < 0:
+		y = 0
+		if y + tamano > ALTO:
+		y = ALTO - tamano
+	\end{verbatim}
+	
+	Evita que el cuadrado se salga de la pantalla.
+	
+	Si intenta irse por la izquierda, lo ponemos en la posición 0, y así con los demás bordes.
+	
+	\begin{verbatim}
+		pantalla.fill(NEGRO)
+	\end{verbatim}
+	
+	Pinta toda la pantalla de negro (borra lo que había antes).
+	
+	\begin{verbatim}
+		pygame.draw.rect(pantalla, ROJO, (x, y, tamano, tamano))
+		pygame.draw.rect(pantalla, BLANCO, (x, y, tamano, tamano), 5)
+	\end{verbatim}
+	
+	Dibuja el cuadrado con un relleno rojo y un borde blanco.
+	
+	\begin{verbatim}
+		pygame.display.flip()
+	\end{verbatim}
+	
+	Actualiza la pantalla para que veas los cambios.
+	
+	\begin{verbatim}
+		reloj.tick(60)
+	\end{verbatim}
+	
+	El movimiento se ejecuta 60 veces por segundo.
 	\section{Conclusiones}
 	
 	En definitiva, este Trabajo de Fin de Grado nos ha proporcionado a ambos una gran experiencia de aprendizaje. A lo largo de más de dos meses de desarrollo, hemos podido aplicar de manera integrada los conocimientos adquiridos durante los dos años del Grado Medio con desarrollo web, creación de contenidos educativos y sensibilización en materia de sostenibilidad.

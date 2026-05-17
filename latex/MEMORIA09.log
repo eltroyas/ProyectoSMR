@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 18:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  17 MAY 2026 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -551,12 +551,46 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box54
 )
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count433
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count434
+\lst@currlwidth=\dimen172
+\lst@column=\count435
+\lst@pos=\count436
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
+\lst@newlines=\count437
+\lst@lineno=\count438
+\lst@maxwidth=\dimen175
+
+(C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count439
+\lst@skipnumbers=\count440
+\lst@framebox=\box56
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count433
-\@quotereset=\count434
+\@quotelevel=\count441
+\@quotereset=\count442
 
 LaTeX Warning: Unused global option(s):
     [11.5pt].
@@ -569,39 +603,39 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `MEMORIA09.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count435
-\scratchdimen=\dimen172
-\scratchbox=\box55
-\nofMPsegments=\count436
-\nofMParguments=\count437
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count438
-\MPscratchDim=\dimen173
-\MPnumerator=\count439
-\makeMPintoPDFobject=\count440
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count443
+\scratchdimen=\dimen176
+\scratchbox=\box57
+\nofMPsegments=\count444
+\nofMParguments=\count445
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count446
+\MPscratchDim=\dimen177
+\MPnumerator=\count447
+\makeMPintoPDFobject=\count448
+\everyMPtoPDFconversion=\toks27
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -613,6 +647,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 *geometry* driver: auto-detecting
@@ -649,7 +684,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 28.
 (MEMORIA09.out) (MEMORIA09.out)
 \@outlinefile=\write4
 \openout4 = `MEMORIA09.out'.
@@ -668,18 +703,19 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MEMORIA09.bbl' found.
  (MEMORIA09.bbl)
-Package biblatex Info: Reference section=0 on input line 27.
-Package biblatex Info: Reference segment=0 on input line 27.
+Package biblatex Info: Reference section=0 on input line 28.
+Package biblatex Info: Reference segment=0 on input line 28.
+\c@lstlisting=\count449
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 30.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
-<IMG/opalo-logo.jpg, id=263, 95.8782pt x 77.088pt>
+(Font)              <6> on input line 31.
+<IMG/opalo-logo.jpg, id=271, 95.8782pt x 77.088pt>
 File: IMG/opalo-logo.jpg Graphic file (type jpg)
 <use IMG/opalo-logo.jpg>
-Package pdftex.def Info: IMG/opalo-logo.jpg  used on input line 32.
+Package pdftex.def Info: IMG/opalo-logo.jpg  used on input line 33.
 (pdftex.def)             Requested size: 125.12099pt x 100.60254pt.
 
 [1
@@ -713,10 +749,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \tf@toc=\write5
 \openout5 = `MEMORIA09.toc'.
 
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -726,8 +762,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [3]
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
+LaTeX Info: Redefining \. on input line 87.
+LaTeX Info: Redefining \% on input line 87.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -737,16 +773,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [4]
-Overfull \hbox (1.31927pt too wide) in paragraph at lines 120--121
+Overfull \hbox (1.31927pt too wide) in paragraph at lines 121--122
 []\T1/cmr/bx/n/10 Volumen de ne-go-cio\T1/cmr/m/n/10 : To-tal 4,843M \TS1/cmr/m
 /n/10 �\T1/cmr/m/n/10 ; 40$ $% en soft-wa-re/defensa (1,937M \TS1/cmr/m/n/10 � 
 \T1/cmr/m/n/10 es-ti-ma-do), 30$ $% en da-tos/movilidad
  []
 
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
+LaTeX Info: Redefining \. on input line 159.
+LaTeX Info: Redefining \% on input line 159.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.1638pt, for example:
@@ -755,8 +791,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [5]
-LaTeX Info: Redefining \. on input line 209.
-LaTeX Info: Redefining \% on input line 209.
+LaTeX Info: Redefining \. on input line 210.
+LaTeX Info: Redefining \% on input line 210.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -766,15 +802,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [6]
-<IMG/diagrama1.jpg, id=364, 1038.12843pt x 221.32687pt>
+<IMG/diagrama1.jpg, id=374, 1038.12843pt x 221.32687pt>
 File: IMG/diagrama1.jpg Graphic file (type jpg)
 <use IMG/diagrama1.jpg>
-Package pdftex.def Info: IMG/diagrama1.jpg  used on input line 257.
+Package pdftex.def Info: IMG/diagrama1.jpg  used on input line 258.
 (pdftex.def)             Requested size: 500.484pt x 106.70172pt.
-LaTeX Info: Redefining \. on input line 270.
-LaTeX Info: Redefining \% on input line 270.
-LaTeX Info: Redefining \. on input line 270.
-LaTeX Info: Redefining \% on input line 270.
+LaTeX Info: Redefining \. on input line 271.
+LaTeX Info: Redefining \% on input line 271.
+LaTeX Info: Redefining \. on input line 271.
+LaTeX Info: Redefining \% on input line 271.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -784,10 +820,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [7]
-LaTeX Info: Redefining \. on input line 311.
-LaTeX Info: Redefining \% on input line 311.
-LaTeX Info: Redefining \. on input line 311.
-LaTeX Info: Redefining \% on input line 311.
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -797,10 +833,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [8 <./IMG/diagrama1.jpg>]
-LaTeX Info: Redefining \. on input line 370.
-LaTeX Info: Redefining \% on input line 370.
-LaTeX Info: Redefining \. on input line 370.
-LaTeX Info: Redefining \% on input line 370.
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
+LaTeX Info: Redefining \. on input line 371.
+LaTeX Info: Redefining \% on input line 371.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -810,10 +846,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [9]
-LaTeX Info: Redefining \. on input line 423.
-LaTeX Info: Redefining \% on input line 423.
-LaTeX Info: Redefining \. on input line 423.
-LaTeX Info: Redefining \% on input line 423.
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -823,10 +859,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [10]
-LaTeX Info: Redefining \. on input line 481.
-LaTeX Info: Redefining \% on input line 481.
-LaTeX Info: Redefining \. on input line 481.
-LaTeX Info: Redefining \% on input line 481.
+LaTeX Info: Redefining \. on input line 482.
+LaTeX Info: Redefining \% on input line 482.
+LaTeX Info: Redefining \. on input line 482.
+LaTeX Info: Redefining \% on input line 482.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -836,10 +872,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [11]
-LaTeX Info: Redefining \. on input line 543.
-LaTeX Info: Redefining \% on input line 543.
-LaTeX Info: Redefining \. on input line 543.
-LaTeX Info: Redefining \% on input line 543.
+LaTeX Info: Redefining \. on input line 544.
+LaTeX Info: Redefining \% on input line 544.
+LaTeX Info: Redefining \. on input line 544.
+LaTeX Info: Redefining \% on input line 544.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -849,10 +885,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [12]
-LaTeX Info: Redefining \. on input line 595.
-LaTeX Info: Redefining \% on input line 595.
-LaTeX Info: Redefining \. on input line 595.
-LaTeX Info: Redefining \% on input line 595.
+LaTeX Info: Redefining \. on input line 596.
+LaTeX Info: Redefining \% on input line 596.
+LaTeX Info: Redefining \. on input line 596.
+LaTeX Info: Redefining \% on input line 596.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -862,8 +898,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.51453pt}.
 
 [13]
-LaTeX Info: Redefining \. on input line 666.
-LaTeX Info: Redefining \% on input line 666.
+LaTeX Info: Redefining \. on input line 667.
+LaTeX Info: Redefining \% on input line 667.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -873,15 +909,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [14]
-Overfull \hbox (4.37108pt too wide) in paragraph at lines 690--691
+Overfull \hbox (4.37108pt too wide) in paragraph at lines 691--692
 []\T1/cmr/m/n/10 Desde el pun-to de vis-ta t�c-ni-co, nues-tro ob-je-ti-vo era 
 op-ti-mi-zar el c�-di-go y los con-te-ni-dos pa-ra evi-tar .[]gordar"de
  []
 
-LaTeX Info: Redefining \. on input line 728.
-LaTeX Info: Redefining \% on input line 728.
-LaTeX Info: Redefining \. on input line 728.
-LaTeX Info: Redefining \% on input line 728.
+LaTeX Info: Redefining \. on input line 730.
+LaTeX Info: Redefining \% on input line 730.
+LaTeX Info: Redefining \. on input line 730.
+LaTeX Info: Redefining \% on input line 730.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.1638pt, for example:
@@ -890,15 +926,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [15]
-<IMG/ncpa.cpl.jpg, id=412, 295.1025pt x 336.50719pt>
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 730.
+<IMG/ncpa.cpl.jpg, id=422, 295.1025pt x 336.50719pt>
 File: IMG/ncpa.cpl.jpg Graphic file (type jpg)
 <use IMG/ncpa.cpl.jpg>
-Package pdftex.def Info: IMG/ncpa.cpl.jpg  used on input line 755.
+Package pdftex.def Info: IMG/ncpa.cpl.jpg  used on input line 763.
 (pdftex.def)             Requested size: 250.24199pt x 285.3598pt.
-LaTeX Info: Redefining \. on input line 767.
-LaTeX Info: Redefining \% on input line 767.
-LaTeX Info: Redefining \. on input line 767.
-LaTeX Info: Redefining \% on input line 767.
+LaTeX Info: Redefining \. on input line 768.
+LaTeX Info: Redefining \% on input line 768.
+LaTeX Info: Redefining \. on input line 768.
+LaTeX Info: Redefining \% on input line 768.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -908,22 +946,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [16 <./IMG/ncpa.cpl.jpg>]
-<IMG/OPALO-CANVA/LANDING PAGE.png, id=417, 102.8643pt x 482.7636pt>
+LaTeX Info: Redefining \. on input line 776.
+LaTeX Info: Redefining \% on input line 776.
+LaTeX Info: Redefining \. on input line 776.
+LaTeX Info: Redefining \% on input line 776.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.1638pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.1638pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
+
+[17]
+<IMG/OPALO-CANVA/LANDING PAGE.png, id=449, 102.8643pt x 482.7636pt>
 File: IMG/OPALO-CANVA/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-CANVA/LANDING PAGE.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/LANDING PAGE.png  used on input line 7
-73.
+82.
 (pdftex.def)             Requested size: 130.62521pt x 613.05138pt.
-<IMG/OPALO-NEW/LANDING PAGE.png, id=419, 617.30624pt x 2122.93124pt>
+<IMG/OPALO-NEW/LANDING PAGE.png, id=451, 617.30624pt x 2122.93124pt>
 File: IMG/OPALO-NEW/LANDING PAGE.png Graphic file (type png)
 <use IMG/OPALO-NEW/LANDING PAGE.png>
-Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 780
+Package pdftex.def Info: IMG/OPALO-NEW/LANDING PAGE.png  used on input line 789
 .
 (pdftex.def)             Requested size: 178.26068pt x 613.04285pt.
-LaTeX Info: Redefining \. on input line 787.
-LaTeX Info: Redefining \% on input line 787.
-LaTeX Info: Redefining \. on input line 787.
-LaTeX Info: Redefining \% on input line 787.
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
+LaTeX Info: Redefining \. on input line 796.
+LaTeX Info: Redefining \% on input line 796.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -932,23 +983,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[17 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>]
-<IMG/OPALO-CANVA/AVISO LEGAL.png, id=428, 1028.4021pt x 944.0871pt>
+[18 <./IMG/OPALO-CANVA/LANDING PAGE.png> <./IMG/OPALO-NEW/LANDING PAGE.png>]
+<IMG/OPALO-CANVA/AVISO LEGAL.png, id=460, 1028.4021pt x 944.0871pt>
 File: IMG/OPALO-CANVA/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-CANVA/AVISO LEGAL.png>
-Package pdftex.def Info: IMG/OPALO-CANVA/AVISO LEGAL.png  used on input line 79
-5.
+Package pdftex.def Info: IMG/OPALO-CANVA/AVISO LEGAL.png  used on input line 80
+4.
 (pdftex.def)             Requested size: 225.21349pt x 206.74902pt.
-<IMG/OPALO-NEW/AVISO LEGAL.png, id=429, 2742.245pt x 3950.76pt>
+<IMG/OPALO-NEW/AVISO LEGAL.png, id=461, 2742.245pt x 3950.76pt>
 File: IMG/OPALO-NEW/AVISO LEGAL.png Graphic file (type png)
 <use IMG/OPALO-NEW/AVISO LEGAL.png>
-Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 802.
+Package pdftex.def Info: IMG/OPALO-NEW/AVISO LEGAL.png  used on input line 811.
 
 (pdftex.def)             Requested size: 225.20029pt x 324.44669pt.
-LaTeX Info: Redefining \. on input line 810.
-LaTeX Info: Redefining \% on input line 810.
-LaTeX Info: Redefining \. on input line 810.
-LaTeX Info: Redefining \% on input line 810.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -957,24 +1008,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[18 <./IMG/OPALO-CANVA/AVISO LEGAL.png (PNG copy)> <./IMG/OPALO-NEW/AVISO LEGAL
+[19 <./IMG/OPALO-CANVA/AVISO LEGAL.png (PNG copy)> <./IMG/OPALO-NEW/AVISO LEGAL
 .png>]
-<IMG/OPALO-CANVA/APRENDER MÁS.png, id=435, 1028.4021pt x 1036.5927pt>
+<IMG/OPALO-CANVA/APRENDER MÁS.png, id=468, 1028.4021pt x 1036.5927pt>
 File: IMG/OPALO-CANVA/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/APRENDER MÁS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/APRENDER MÁS.png  used on input line 
-816.
+825.
 (pdftex.def)             Requested size: 225.21349pt x 227.00717pt.
-<IMG/OPALO-NEW/APRENDER MÁS.png, id=436, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/APRENDER MÁS.png, id=469, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/APRENDER MÁS.png Graphic file (type png)
 <use IMG/OPALO-NEW/APRENDER MÁS.png>
-Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 82
-3.
+Package pdftex.def Info: IMG/OPALO-NEW/APRENDER MÁS.png  used on input line 83
+2.
 (pdftex.def)             Requested size: 225.20029pt x 347.36238pt.
-LaTeX Info: Redefining \. on input line 830.
-LaTeX Info: Redefining \% on input line 830.
-LaTeX Info: Redefining \. on input line 830.
-LaTeX Info: Redefining \% on input line 830.
+LaTeX Info: Redefining \. on input line 839.
+LaTeX Info: Redefining \% on input line 839.
+LaTeX Info: Redefining \. on input line 839.
+LaTeX Info: Redefining \% on input line 839.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -983,22 +1034,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[19 <./IMG/OPALO-CANVA/APRENDER MÁS.png (PNG copy)> <./IMG/OPALO-NEW/APRENDER 
+[20 <./IMG/OPALO-CANVA/APRENDER MÁS.png (PNG copy)> <./IMG/OPALO-NEW/APRENDER 
 MÁS.png>]
-<IMG/OPALO-CANVA/CONTACTO.png, id=443, 1028.4021pt x 655.7298pt>
+<IMG/OPALO-CANVA/CONTACTO.png, id=475, 1028.4021pt x 655.7298pt>
 File: IMG/OPALO-CANVA/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-CANVA/CONTACTO.png>
-Package pdftex.def Info: IMG/OPALO-CANVA/CONTACTO.png  used on input line 838.
+Package pdftex.def Info: IMG/OPALO-CANVA/CONTACTO.png  used on input line 847.
 (pdftex.def)             Requested size: 225.21349pt x 143.60063pt.
-<IMG/OPALO-NEW/CONTACTO.png, id=444, 617.30624pt x 307.1475pt>
+<IMG/OPALO-NEW/CONTACTO.png, id=476, 617.30624pt x 307.1475pt>
 File: IMG/OPALO-NEW/CONTACTO.png Graphic file (type png)
 <use IMG/OPALO-NEW/CONTACTO.png>
-Package pdftex.def Info: IMG/OPALO-NEW/CONTACTO.png  used on input line 845.
+Package pdftex.def Info: IMG/OPALO-NEW/CONTACTO.png  used on input line 854.
 (pdftex.def)             Requested size: 225.216pt x 112.05869pt.
-LaTeX Info: Redefining \. on input line 852.
-LaTeX Info: Redefining \% on input line 852.
-LaTeX Info: Redefining \. on input line 852.
-LaTeX Info: Redefining \% on input line 852.
+LaTeX Info: Redefining \. on input line 861.
+LaTeX Info: Redefining \% on input line 861.
+LaTeX Info: Redefining \. on input line 861.
+LaTeX Info: Redefining \% on input line 861.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1007,23 +1058,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[20 <./IMG/OPALO-CANVA/CONTACTO.png (PNG copy)> <./IMG/OPALO-NEW/CONTACTO.png>]
-<IMG/OPALO-CANVA/PATROCINADORES.png, id=451, 1028.4021pt x 578.16pt>
+[21 <./IMG/OPALO-CANVA/CONTACTO.png (PNG copy)> <./IMG/OPALO-NEW/CONTACTO.png>]
+<IMG/OPALO-CANVA/PATROCINADORES.png, id=483, 1028.4021pt x 578.16pt>
 File: IMG/OPALO-CANVA/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-CANVA/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/PATROCINADORES.png  used on input line
- 860.
+ 869.
 (pdftex.def)             Requested size: 225.21349pt x 126.61334pt.
-<IMG/OPALO-NEW/PATROCINADORES.png, id=452, 617.30624pt x 127.97812pt>
+<IMG/OPALO-NEW/PATROCINADORES.png, id=484, 617.30624pt x 127.97812pt>
 File: IMG/OPALO-NEW/PATROCINADORES.png Graphic file (type png)
 <use IMG/OPALO-NEW/PATROCINADORES.png>
 Package pdftex.def Info: IMG/OPALO-NEW/PATROCINADORES.png  used on input line 8
-67.
+76.
 (pdftex.def)             Requested size: 225.216pt x 46.69112pt.
-LaTeX Info: Redefining \. on input line 874.
-LaTeX Info: Redefining \% on input line 874.
-LaTeX Info: Redefining \. on input line 874.
-LaTeX Info: Redefining \% on input line 874.
+LaTeX Info: Redefining \. on input line 883.
+LaTeX Info: Redefining \% on input line 883.
+LaTeX Info: Redefining \. on input line 883.
+LaTeX Info: Redefining \% on input line 883.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.1638pt, for example:
@@ -1031,24 +1082,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[21 <./IMG/OPALO-CANVA/PATROCINADORES.png (PNG copy)> <./IMG/OPALO-NEW/PATROCIN
+[22 <./IMG/OPALO-CANVA/PATROCINADORES.png (PNG copy)> <./IMG/OPALO-NEW/PATROCIN
 ADORES.png>]
-<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=459, 1028.4021pt x 1811.3271pt>
+<IMG/OPALO-CANVA/SOBRE NOSOTROS.png, id=491, 1028.4021pt x 1811.3271pt>
 File: IMG/OPALO-CANVA/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-CANVA/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-CANVA/SOBRE NOSOTROS.png  used on input line
- 882.
+ 891.
 (pdftex.def)             Requested size: 225.21349pt x 396.66905pt.
-<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=460, 2742.245pt x 3195.94pt>
+<IMG/OPALO-NEW/SOBRE NOSOTROS.png, id=492, 2742.245pt x 3195.94pt>
 File: IMG/OPALO-NEW/SOBRE NOSOTROS.png Graphic file (type png)
 <use IMG/OPALO-NEW/SOBRE NOSOTROS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/SOBRE NOSOTROS.png  used on input line 8
-89.
+98.
 (pdftex.def)             Requested size: 225.20029pt x 262.45891pt.
-LaTeX Info: Redefining \. on input line 896.
-LaTeX Info: Redefining \% on input line 896.
-LaTeX Info: Redefining \. on input line 896.
-LaTeX Info: Redefining \% on input line 896.
+LaTeX Info: Redefining \. on input line 905.
+LaTeX Info: Redefining \% on input line 905.
+LaTeX Info: Redefining \. on input line 905.
+LaTeX Info: Redefining \% on input line 905.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1057,18 +1108,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[22 <./IMG/OPALO-CANVA/SOBRE NOSOTROS.png (PNG copy)> <./IMG/OPALO-NEW/SOBRE NO
+[23 <./IMG/OPALO-CANVA/SOBRE NOSOTROS.png (PNG copy)> <./IMG/OPALO-NEW/SOBRE NO
 SOTROS.png>]
-<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=466, 2742.245pt x 4229.8025pt>
+<IMG/OPALO-NEW/FORMACIÓN PROX.png, id=498, 2742.245pt x 4229.8025pt>
 File: IMG/OPALO-NEW/FORMACIÓN PROX.png Graphic file (type png)
 <use IMG/OPALO-NEW/FORMACIÓN PROX.png>
 Package pdftex.def Info: IMG/OPALO-NEW/FORMACIÓN PROX.png  used on input line 
-903.
+912.
 (pdftex.def)             Requested size: 397.42705pt x 613.01523pt.
-LaTeX Info: Redefining \. on input line 910.
-LaTeX Info: Redefining \% on input line 910.
-LaTeX Info: Redefining \. on input line 910.
-LaTeX Info: Redefining \% on input line 910.
+LaTeX Info: Redefining \. on input line 919.
+LaTeX Info: Redefining \% on input line 919.
+LaTeX Info: Redefining \. on input line 919.
+LaTeX Info: Redefining \% on input line 919.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1077,17 +1128,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[23 <./IMG/OPALO-NEW/FORMACIÓN PROX.png>]
-<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=472, 2742.245pt x 6048.5975pt>
+[24 <./IMG/OPALO-NEW/FORMACIÓN PROX.png>]
+<IMG/OPALO-NEW/VALORES ÉTICOS.png, id=504, 2742.245pt x 6048.5975pt>
 File: IMG/OPALO-NEW/VALORES ÉTICOS.png Graphic file (type png)
 <use IMG/OPALO-NEW/VALORES ÉTICOS.png>
 Package pdftex.def Info: IMG/OPALO-NEW/VALORES ÉTICOS.png  used on input line 
-917.
+926.
 (pdftex.def)             Requested size: 277.92276pt x 613.01707pt.
-LaTeX Info: Redefining \. on input line 924.
-LaTeX Info: Redefining \% on input line 924.
-LaTeX Info: Redefining \. on input line 924.
-LaTeX Info: Redefining \% on input line 924.
+LaTeX Info: Redefining \. on input line 933.
+LaTeX Info: Redefining \% on input line 933.
+LaTeX Info: Redefining \. on input line 933.
+LaTeX Info: Redefining \% on input line 933.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1096,16 +1147,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[24 <./IMG/OPALO-NEW/VALORES ÉTICOS.png>]
-<IMG/OPALO-NEW/JUEGO.png, id=478, 2742.245pt x 2832.5825pt>
+[25 <./IMG/OPALO-NEW/VALORES ÉTICOS.png>]
+<IMG/OPALO-NEW/JUEGO.png, id=511, 2742.245pt x 2832.5825pt>
 File: IMG/OPALO-NEW/JUEGO.png Graphic file (type png)
 <use IMG/OPALO-NEW/JUEGO.png>
-Package pdftex.def Info: IMG/OPALO-NEW/JUEGO.png  used on input line 931.
+Package pdftex.def Info: IMG/OPALO-NEW/JUEGO.png  used on input line 940.
 (pdftex.def)             Requested size: 500.48694pt x 516.97444pt.
-LaTeX Info: Redefining \. on input line 938.
-LaTeX Info: Redefining \% on input line 938.
-LaTeX Info: Redefining \. on input line 938.
-LaTeX Info: Redefining \% on input line 938.
+LaTeX Info: Redefining \. on input line 947.
+LaTeX Info: Redefining \% on input line 947.
+LaTeX Info: Redefining \. on input line 947.
+LaTeX Info: Redefining \% on input line 947.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1114,16 +1165,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[25 <./IMG/OPALO-NEW/JUEGO.png>]
-<IMG/github-cut.png, id=487, 1506.3778pt x 1168.365pt>
+[26 <./IMG/OPALO-NEW/JUEGO.png>]
+<IMG/github-cut.png, id=519, 1506.3778pt x 1168.365pt>
 File: IMG/github-cut.png Graphic file (type png)
 <use IMG/github-cut.png>
-Package pdftex.def Info: IMG/github-cut.png  used on input line 950.
+Package pdftex.def Info: IMG/github-cut.png  used on input line 959.
 (pdftex.def)             Requested size: 250.24199pt x 194.09116pt.
-LaTeX Info: Redefining \. on input line 979.
-LaTeX Info: Redefining \% on input line 979.
-LaTeX Info: Redefining \. on input line 979.
-LaTeX Info: Redefining \% on input line 979.
+LaTeX Info: Redefining \. on input line 988.
+LaTeX Info: Redefining \% on input line 988.
+LaTeX Info: Redefining \. on input line 988.
+LaTeX Info: Redefining \% on input line 988.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1132,7 +1183,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
-[26
+[27
 
 
 
@@ -1151,23 +1202,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <./IMG/github-cut.png>]
-LaTeX Info: Redefining \. on input line 1046.
-LaTeX Info: Redefining \% on input line 1046.
-LaTeX Info: Redefining \. on input line 1046.
-LaTeX Info: Redefining \% on input line 1046.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.1638pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.1638pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
-
-[27]
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
+LaTeX Info: Redefining \. on input line 1055.
+LaTeX Info: Redefining \% on input line 1055.
+LaTeX Info: Redefining \. on input line 1055.
+LaTeX Info: Redefining \% on input line 1055.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1177,8 +1215,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [28]
-LaTeX Info: Redefining \. on input line 1170.
-LaTeX Info: Redefining \% on input line 1170.
+LaTeX Info: Redefining \. on input line 1120.
+LaTeX Info: Redefining \% on input line 1120.
+LaTeX Info: Redefining \. on input line 1120.
+LaTeX Info: Redefining \% on input line 1120.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1188,10 +1228,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [29]
-LaTeX Info: Redefining \. on input line 1204.
-LaTeX Info: Redefining \% on input line 1204.
-LaTeX Info: Redefining \. on input line 1204.
-LaTeX Info: Redefining \% on input line 1204.
+LaTeX Info: Redefining \. on input line 1179.
+LaTeX Info: Redefining \% on input line 1179.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1201,10 +1239,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [30]
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1214,17 +1252,30 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [31]
-
-Package biblatex Warning: Type 'book' not found on input line 1256.
-
-
-LaTeX Warning: Empty bibliography on input line 1256.
-
-
-Package biblatex Warning: Type 'article' not found on input line 1257.
+LaTeX Info: Redefining \. on input line 1261.
+LaTeX Info: Redefining \% on input line 1261.
+LaTeX Info: Redefining \. on input line 1261.
+LaTeX Info: Redefining \% on input line 1261.
 
 
-LaTeX Warning: Empty bibliography on input line 1257.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.1638pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.1638pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
+
+[32]
+
+Package biblatex Warning: Type 'book' not found on input line 1265.
+
+
+LaTeX Warning: Empty bibliography on input line 1265.
+
+
+Package biblatex Warning: Type 'article' not found on input line 1266.
+
+
+LaTeX Warning: Empty bibliography on input line 1266.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -1236,31 +1287,31 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
-Overfull \hbox (4.05179pt too wide) in paragraph at lines 1261--1261
+Overfull \hbox (4.05179pt too wide) in paragraph at lines 1270--1270
 []\T1/cmr/m/it/10 Indra Sis-te-mas, So-cie-dad Ano-ni-ma: te-l�ono, CIF y di-re
 c-ci�n\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : []$\T1/cmtt/m/n/10 h
 ttps : / / www . einforma . com / informacion -[]
  []
 
 
-Overfull \hbox (40.21715pt too wide) in paragraph at lines 1261--1261
+Overfull \hbox (40.21715pt too wide) in paragraph at lines 1270--1270
 []\T1/cmr/m/n/10 Paradiso So-lu-tions. \T1/cmr/m/it/10 AI-Powered eLear-ning Au
 tho-ring Tool\T1/cmr/m/n/10 . 4 de ma-yo de 2026. \T1/cmr/m/sc/10 url\T1/cmr/m/
 n/10 : []$\T1/cmtt/m/n/10 https : / / www . paradisosolutions .
  []
 
 
-Overfull \hbox (39.37645pt too wide) in paragraph at lines 1261--1261
+Overfull \hbox (39.37645pt too wide) in paragraph at lines 1270--1270
 []\T1/cmr/m/it/10 Windows 10 Con-fi-gu-ra-tion\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 
 url\T1/cmr/m/n/10 : []$\T1/cmtt/m/n/10 https : / / mayakron . altervista . org 
 / support / acrylic / Windows10Configuration .
  []
 
 
-Package biblatex Warning: Type 'manual' not found on input line 1265.
+Package biblatex Warning: Type 'manual' not found on input line 1274.
 
 
-LaTeX Warning: Empty bibliography on input line 1265.
+LaTeX Warning: Empty bibliography on input line 1274.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -1272,78 +1323,88 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
-Overfull \hbox (15.00685pt too wide) in paragraph at lines 1266--1266
+Overfull \hbox (15.00685pt too wide) in paragraph at lines 1275--1275
 []\T1/cmr/m/n/10 Miguel �n-gel Al-va-rez. \T1/cmr/m/it/10 Ma-nual Ja-vaS-cript\
 T1/cmr/m/n/10 . 19 de dic. de 2016. \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : []$\T1/
 cmtt/m/n/10 https : / / blogsaverroes . juntadeandalucia .
  []
 
-LaTeX Info: Redefining \. on input line 1283.
-LaTeX Info: Redefining \% on input line 1283.
-LaTeX Info: Redefining \. on input line 1283.
-LaTeX Info: Redefining \% on input line 1283.
-[32]
-LaTeX Info: Redefining \. on input line 1344.
-LaTeX Info: Redefining \% on input line 1344.
-LaTeX Info: Redefining \. on input line 1344.
-LaTeX Info: Redefining \% on input line 1344.
- [33]
-LaTeX Info: Redefining \. on input line 1407.
-LaTeX Info: Redefining \% on input line 1407.
-LaTeX Info: Redefining \. on input line 1407.
-LaTeX Info: Redefining \% on input line 1407.
+LaTeX Info: Redefining \. on input line 1293.
+LaTeX Info: Redefining \% on input line 1293.
+LaTeX Info: Redefining \. on input line 1293.
+LaTeX Info: Redefining \% on input line 1293.
+[33]
+LaTeX Info: Redefining \. on input line 1353.
+LaTeX Info: Redefining \% on input line 1353.
+LaTeX Info: Redefining \. on input line 1353.
+LaTeX Info: Redefining \% on input line 1353.
  [34]
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
+LaTeX Info: Redefining \. on input line 1418.
+LaTeX Info: Redefining \% on input line 1418.
+LaTeX Info: Redefining \. on input line 1418.
+LaTeX Info: Redefining \% on input line 1418.
  [35]
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
-LaTeX Info: Redefining \. on input line 1526.
-LaTeX Info: Redefining \% on input line 1526.
+LaTeX Info: Redefining \. on input line 1481.
+LaTeX Info: Redefining \% on input line 1481.
+LaTeX Info: Redefining \. on input line 1481.
+LaTeX Info: Redefining \% on input line 1481.
  [36]
-LaTeX Info: Redefining \. on input line 1585.
-LaTeX Info: Redefining \% on input line 1585.
-LaTeX Info: Redefining \. on input line 1585.
-LaTeX Info: Redefining \% on input line 1585.
+LaTeX Info: Redefining \. on input line 1543.
+LaTeX Info: Redefining \% on input line 1543.
+LaTeX Info: Redefining \. on input line 1543.
+LaTeX Info: Redefining \% on input line 1543.
  [37]
-LaTeX Info: Redefining \. on input line 1648.
-LaTeX Info: Redefining \% on input line 1648.
-LaTeX Info: Redefining \. on input line 1648.
-LaTeX Info: Redefining \% on input line 1648.
+LaTeX Info: Redefining \. on input line 1602.
+LaTeX Info: Redefining \% on input line 1602.
+LaTeX Info: Redefining \. on input line 1602.
+LaTeX Info: Redefining \% on input line 1602.
  [38]
 LaTeX Info: Redefining \. on input line 1665.
 LaTeX Info: Redefining \% on input line 1665.
 LaTeX Info: Redefining \. on input line 1665.
 LaTeX Info: Redefining \% on input line 1665.
  [39]
-<IMG/9.5pruebas-initial.png, id=618, 2056.68375pt x 782.925pt>
+LaTeX Info: Redefining \. on input line 1682.
+LaTeX Info: Redefining \% on input line 1682.
+LaTeX Info: Redefining \. on input line 1682.
+LaTeX Info: Redefining \% on input line 1682.
+ [40]
+<IMG/9.5pruebas-initial.png, id=656, 2056.68375pt x 782.925pt>
 File: IMG/9.5pruebas-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-initial.png>
-Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1670.
+Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1687.
 (pdftex.def)             Requested size: 500.484pt x 190.52211pt.
-<IMG/9.5pruebas-movil-initial.png, id=619, 2056.68375pt x 784.43062pt>
+<IMG/9.5pruebas-movil-initial.png, id=657, 2056.68375pt x 784.43062pt>
 File: IMG/9.5pruebas-movil-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-movil-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-movil-initial.png  used on input line 1
-679.
+696.
 (pdftex.def)             Requested size: 500.484pt x 190.88849pt.
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
-LaTeX Info: Redefining \. on input line 1714.
-LaTeX Info: Redefining \% on input line 1714.
- [40
+LaTeX Info: Redefining \. on input line 1731.
+LaTeX Info: Redefining \% on input line 1731.
+LaTeX Info: Redefining \. on input line 1731.
+LaTeX Info: Redefining \% on input line 1731.
+ [41
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1755.
-LaTeX Info: Redefining \% on input line 1755.
-LaTeX Info: Redefining \. on input line 1755.
-LaTeX Info: Redefining \% on input line 1755.
- [41]
-LaTeX Info: Redefining \. on input line 1762.
-LaTeX Info: Redefining \% on input line 1762.
- [42] (MEMORIA09.aux
+LaTeX Info: Redefining \. on input line 1780.
+LaTeX Info: Redefining \% on input line 1780.
+LaTeX Info: Redefining \. on input line 1780.
+LaTeX Info: Redefining \% on input line 1780.
+ [42]
+LaTeX Info: Redefining \. on input line 1852.
+LaTeX Info: Redefining \% on input line 1852.
+LaTeX Info: Redefining \. on input line 1852.
+LaTeX Info: Redefining \% on input line 1852.
+ [43]
+LaTeX Info: Redefining \. on input line 1914.
+LaTeX Info: Redefining \% on input line 1914.
+LaTeX Info: Redefining \. on input line 1914.
+LaTeX Info: Redefining \% on input line 1914.
+ [44]
+LaTeX Info: Redefining \. on input line 1923.
+LaTeX Info: Redefining \% on input line 1923.
+ [45] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1352,24 +1413,17 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-Package rerunfilecheck Warning: File `MEMORIA09.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MEMORIA09.out':
-(rerunfilecheck)             Before: D805F719A44C9BD9D016145061101789;11952
-(rerunfilecheck)             After:  8AD0E6BF9C2A83FD25138310F3F9E843;12193.
+Package rerunfilecheck Info: File `MEMORIA09.out' has not changed.
+(rerunfilecheck)             Checksum: 53AC09F0D80962AA5EECCFAEDD4E5E5B;12464.
 Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 \openout1 = `MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20272 strings out of 467871
- 360258 string characters out of 5428453
- 1203978 words of memory out of 5000000
- 48799 multiletter control sequences out of 15000+600000
+ 21909 strings out of 467871
+ 382112 string characters out of 5428453
+ 1223258 words of memory out of 5000000
+ 50402 multiletter control sequences out of 15000+600000
  641279 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,93p,700b,2443s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1389,9 +1443,9 @@ ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\
 fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (42 pages, 30276839 bytes).
+Output written on MEMORIA09.pdf (45 pages, 30289326 bytes).
 PDF statistics:
- 1354 PDF objects out of 1440 (max. 8388607)
- 171 named destinations out of 1000 (max. 500000)
- 626 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1411 PDF objects out of 1440 (max. 8388607)
+ 193 named destinations out of 1000 (max. 500000)
+ 642 words of extra memory for PDF output out of 10000 (max. 10000000)
 
