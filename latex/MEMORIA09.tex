@@ -11,6 +11,7 @@
 \usepackage{hyperref}
 \usepackage{fancyhdr}
 \usepackage{biblatex}
+\usepackage{float}
 
 \nocite{*} 
 
@@ -252,8 +253,12 @@
 	[recordemos que usamos una IP de loopback] 127.0.01)
 	
 	\subsubsection{Diagrama}
+	\begin{figure}
+		\includegraphics[width=1.0\textwidth]{IMG/diagrama1}
+		\caption{Diagrama DHCP.}
+		\label{fig:Diagrama DNS}
+	\end{figure}
 	
-	\includegraphics[width=1.0\textwidth]{IMG/diagrama1}
 	
 	\subsection{Estudio de viabilidad y proveedores}
 	
@@ -1164,7 +1169,7 @@
 	viabilidad de cada uno de los objetivos marcados.
 
 
-	\subsection{Competencias adquirida}
+	\subsection{Competencias adquiridas}
 	
 	A lo largo de este proyecto hemos desarrollado un conjunto sólido de competencias tanto técnicas (duras) como transversales (blandas), aplicadas de forma práctica y en un contexto real.
 	
@@ -1181,7 +1186,58 @@
 	En el ámbito de las competencias blandas, destacamos por la planificación ejecución de todo el proyecto bajo metodologías ágiles, cumpliendo plazos de entrega definidos y gestionando de forma autónoma múltiples tareas en paralelo. Desarrollamos un capacidad avanzada de redacción profesional y estratégica, así como una visión integral del producto digital al combinar diseño, usabilidad, accesibilidad, comunicación y experiencia de usuario. Finalmente, fortalecimos nuestras habilidad de síntesis y comunicación al preparar la defensa oral de proyecto ante el jurado.
 	
 	\subsection{Propuestas de mejora}
+	
+	Aunque el proyecto actual cumple con los objetivos planteados, se han identificado varias oportunidades de evolución que permitirían elevar significativamente la calidad y el impacto de la plataforma.
+	
+	En primera lugar, pensamos en optimizar el diseño para dispositivos móviles y pantallas pequeñas, con especial atención a los contenidos educativos creados con H5P. Aunque la web es responsive, los cursos interactivo presentan limitaciones de usabilidad en móviles, por lo que sería conveniente rediseñar su interfaz y adaptar los elementos interactivos para mejorar la experiencia en este tipo de dispositivos.
+	
+	En segundo lugar, planeamos enriquecer sustancialmente los cursos con mayor variedad de recursos pedagógicos. Esto incluye la incorporación de vídeos explicativos, imágenes de alta calidad, esquemas, infografías y contenidos con mayor profundidad. Además, una mejora de gran valor sería la integración de un tutor inteligente basado en Inteligencia Artificial capaz de guiar al alumno durante su aprendizaje, responder dudas técnicas y ofrecer recomendaciones personalizadas según su progreso.
+	
+	Otra propuesta relevante es la creación de una comunidad de aprendizaje mediante un canal de chat en tiempo real. Se podría implementar un canal en Matrix.org o IRC (Internet Relay Chat), que permita a los usuarios debatir los contenidos de las formaciones, compartir experiencias y resolver dudas de forma mucho más ágil y dinámica que mediante el formulario de correo electrónico actual.
+	
+	Por último, se plantea realizar una migración progresiva desde H5P hacia una plataforma de e-learning más moderna y robusta, como Paradiso Solutions u otras alternativas LMS (Learning Management System) actuales. Esta transición permitiría obtener una mejor experiencia responsiva en móviles, además de incorporar funcionalidades avanzadas como cuentas de usuario, seguimiento personalizado del progreso, certificaciones y un sistema de registro de avances en cada curso.
+	
 	\subsection{Líneas futuras de desarrollo}
+	
+	A continuación se presenta el hipotético cronograma y mejoras futuras para la plataforma Opalo E-Learning:
+	
+	\noindent\subparagraph*{15/06/2026 - 30/06/2026}
+
+	\begin{itemize}
+		\item Optimización del diseño responsive con enfoque especial en dispositivos móviles y pantallas pequeñas. Se revisará y rediseñará la experiencia de los contenidos educativos creados con H5P para mejorar su usabilidad, legibilidad e interactividad en móviles.
+	\end{itemize}
+	
+	\noindent\subparagraph*{01/07/2026 - 31/08/2026}
+	
+	\begin{itemize}
+		\item Enriquecimiento de los cursos existentes y creación de nuevo contenido. Se incorporarán vídeos explicativos, infografías, esquemas interactivos y mayor profundidad temática. Además, se integrará un tutor inteligente basado en inteligencia artificial que acompañe al alumno, resuelva dudas y ofrezca feedback personalizado.
+	\end{itemize}
+	
+	\noindent\subparagraph*{01/09/2026 - 15/09/2026}
+	
+	\begin{itemize}
+		\item Implementación de un canal de comunicación en tiempo real para la comunidad. Se configurará un servidor basado en Matrix.org (o IRC) que permita a los usuarios debatir los contenidos formativos, compartir experiencias y resolver dudas de forma ágil y colaborativa.
+	\end{itemize}
+	
+	\noindent\subparagraph*{16/09/2026 - 30/11/2026}
+	
+	\begin{itemize}
+		\item Migración de la plataforma de contenidos. Se evaluarán e implementarán soluciones LMS más modernas y robustas (como Paradiso Solutions u otras alternativas equivalentes) que ofrezcan mejor compatibilidad móvil, sistema de cuentas de usuario, seguimiento personalizado del progreso, certificaciones y analíticas de aprendizaje.
+	\end{itemize}
+	
+	\noindent\subparagraph*{01/12/2026 - 20/12/2026}
+	
+	\begin{itemize}
+		\item Pruebas integrales del nuevo sistema, optimización de rendimiento y recopilación de la retroalimentación de usuarios piloto. Ajustes finales antes de la puesta en producción de las mejoras.
+	\end{itemize}
+	
+	\noindent\subparagraph*{Enero 2027}
+	
+	\begin{itemize}
+		\item Lanzamiento oficial de la versión mejorada de Opalo E-Learning y apertura de la comunidad de aprendizaje.
+	\end{itemize}
+	
+	Este plan de desarrollo permitirá transformar la plataforma actual en una solución mucho más completa, competitiva y centrada en la experiencia del usuario a medio plazo.
 
 	\section{Bibliografía}
 	\subsection{Normas de citación}
@@ -1222,6 +1278,9 @@
 	
 	\subsection{Código fuente (si aplica)}
 	\subsection{Presupuestos detallados}
+	
+	
+	
 	\subsection{Documentación técnica ampliada}
 	
 	\subsubsection{HTML: El lenguaje fundamental de la web}
@@ -1492,22 +1551,29 @@
 	
 	Mediante la herramienta gratuita de Google: PageSpeed Insights hemos analizado el rendimiento de nuestra página web, y también en otros parámetros relevantes para el usuario: rendimiento, accesibilidad, prácticas recomendadas y SEO (posicionamiento web).
 	\clearpage
-	\begin{figure}[ht]
-		\begin{center}
+	\begin{figure}[H]
+		\centering
+		\begin{subfigure}[b]{1\textwidth}
+			\centering
 			\includegraphics[width=1\textwidth]{IMG/9.5pruebas-initial}
-		\end{center}
-	\caption{Análisis de PageSpeed Insigths en el sitio para ordenador. Puntuaciones: 95 en rendimiento, 93 en accesibilidad, 100 en prácticas recomendadas y 100 en SEO.}
-	\label{fig:Puntuaciones PageSpeed Insigths en el sitio para ordenador.}
-	\end{figure}
-	
-	
-	\begin{figure}[ht]
-		\begin{center}
+			\caption{Versión para ordenador (Rendimiento: 95, Accesibilidad: 93, Prácticas: 100, SEO: 100).}
+			\label{fig:Puntuaciones PageSpeed Insigths en el sitio para ordenador.}
+		\end{subfigure}
+		
+		\vspace{0.2cm} % Espacio entre imágenes
+		
+		\begin{subfigure}[b]{1\textwidth}
+			\centering
 			\includegraphics[width=1\textwidth]{IMG/9.5pruebas-movil-initial}
-		\end{center}
-		\caption{Análisis de PageSpeed Insigths en el sitio para ordenador. Puntuaciones: 68 en rendimiento, 93 en accesibilidad, 100 en prácticas recomendadas y 100 en SEO.}
-		\label{fig:Puntuaciones PageSpeed Insigths en el sitio para móvil.}
+			\caption{Versión para móvil (Rendimiento: 68, Accesibilidad: 93, Prácticas: 100, SEO: 100).}
+			\label{fig:Puntuaciones PageSpeed Insigths en el sitio para móvil.}
+		\end{subfigure}
+		
+		\caption{Análisis inicial de PageSpeed Insights en el sitio web.}
+		\label{fig:Puntuaciones_PageSpeed_Insights}
 	\end{figure}
+	
+	
 	
 	\subsection{Actas de reuniones}
 	ver video de la última presentación

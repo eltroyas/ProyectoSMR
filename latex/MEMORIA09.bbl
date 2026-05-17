@@ -204,6 +204,37 @@
       \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
       \endverb
     \endentry
+    \entry{paradiso-solutions-2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1b417f62c32db1f0dc4db7c1813b803}{%
+           family={{Paradiso Solutions}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{fullhash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{fullhashraw}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{bibnamehash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{authorbibnamehash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{authornamehash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{authorfullhash}{a1b417f62c32db1f0dc4db7c1813b803}
+      \strng{authorfullhashraw}{a1b417f62c32db1f0dc4db7c1813b803}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{5}
+      \field{title}{AI-Powered eLearning Authoring Tool}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.paradisosolutions.com/elearning-authoring-tool/
+      \endverb
+      \verb{url}
+      \verb https://www.paradisosolutions.com/elearning-authoring-tool/
+      \endverb
+    \endentry
     \entry{rfc-dhcp}{online}{}{}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}

@@ -42,24 +42,24 @@
 \contentsline {section}{\numberline {7}Conclusiones y valoración personal}{29}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Análisis del sector}{29}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Valoración del equipo}{29}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Competencias adquirida}{30}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.3}Competencias adquiridas}{30}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}Propuestas de mejora}{30}{subsection.7.4}%
-\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{30}{subsection.7.5}%
-\contentsline {section}{\numberline {8}Bibliografía}{30}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Normas de citación}{30}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Fuentes bibliográficas}{31}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Fuentes web}{31}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Documentación técnica consultada}{31}{subsection.8.4}%
-\contentsline {section}{\numberline {9}Anexos}{31}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{31}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{32}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{32}{subsection.9.3}%
-\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{32}{subsection.9.4}%
-\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{32}{subsubsection.9.4.1}%
-\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{33}{subsubsection.9.4.2}%
-\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{34}{subsubsection.9.4.3}%
-\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{36}{subsection.9.5}%
-\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{36}{subsubsection.9.5.1}%
-\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{37}{subsection.9.6}%
-\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{37}{subsection.9.7}%
-\contentsline {section}{\numberline {10}Conclusiones}{37}{section.10}%
+\contentsline {subsection}{\numberline {7.5}Líneas futuras de desarrollo}{31}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Bibliografía}{31}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Normas de citación}{31}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Fuentes bibliográficas}{32}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Fuentes web}{32}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Documentación técnica consultada}{32}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Anexos}{32}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Planos, diagramas y esquemas}{32}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Código fuente (si aplica)}{33}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Presupuestos detallados}{33}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Documentación técnica ampliada}{33}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}HTML: El lenguaje fundamental de la web}{33}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}CSS: Separando contenido y presentación}{34}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}JavaScript: Añadiendo interactividad e inteligencia a la web}{35}{subsubsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.5}Capturas de pruebas y validaciones}{37}{subsection.9.5}%
+\contentsline {subsubsection}{\numberline {9.5.1}Pruebas de rendimiento}{37}{subsubsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.6}Actas de reuniones}{38}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Material de la presentación final}{38}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Conclusiones}{38}{section.10}%
