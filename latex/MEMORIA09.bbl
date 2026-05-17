@@ -68,6 +68,52 @@
       \verb https://blogsaverroes.juntadeandalucia.es/plataformaeiv/files/2016/09/manual-javascript.pdf
       \endverb
     \endentry
+    \entry{análisis-economico-2012-unizar}{online}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{Análisis económico del sector de las tecnologías de la información y comunicaciones (TIC´s) en Aragón - Universidad de Zaragoza Repository}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://zaguan.unizar.es/record/8749
+      \endverb
+      \verb{url}
+      \verb https://zaguan.unizar.es/record/8749
+      \endverb
+    \endentry
+    \entry{berners-lee-2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Turtleback Books}%
+      }
+      \strng{namehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{fullhashraw}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{bibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorbibnamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authornamehash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhash}{d469e0df304c98f67b55d087ea6187a1}
+      \strng{authorfullhashraw}{d469e0df304c98f67b55d087ea6187a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{4}
+      \field{subtitle}{The Original Design and Ultimate Destiny of the World Wide Web by Its Inventor}
+      \field{title}{Weaving the Web}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
     \entry{indra-wikipedia}{online}{}{}
       \name{author}{1}{}{%
         {{hash=2e8706069cd24e673fa99b092d6986f5}{%
@@ -203,6 +249,102 @@
       \verb{url}
       \verb https://www.ingenieros.es/muestras/Curso_Microsoft_Expression/contenidos/introduccionCSS/IntroduccionCSS.pdf
       \endverb
+    \endentry
+    \entry{lamport-1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5d77435450d10a850a5b58577b9a456b}{%
+           family={Lamport},
+           familyi={L\bibinitperiod},
+           given={Leslie},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{fullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \strng{bibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorbibnamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authornamehash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhash}{5d77435450d10a850a5b58577b9a456b}
+      \strng{authorfullhashraw}{5d77435450d10a850a5b58577b9a456b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{1}
+      \field{subtitle}{A Document Preparation System : User's Guide and Reference Manual}
+      \field{title}{LATEX}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{liu-2006}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=6f5c8c4506e488a5ea5ef2b33dd9113f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Cricket},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e209ad8ba9e651d3b5deac05374e08dc}{%
+           family={Albitz},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {"O'Reilly Media, Inc."}%
+      }
+      \strng{namehash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{fullhash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{fullhashraw}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{bibnamehash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{authorbibnamehash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{authornamehash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{authorfullhash}{cafa8baa3629c7233cf20546c9cb9e54}
+      \strng{authorfullhashraw}{cafa8baa3629c7233cf20546c9cb9e54}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{5}
+      \field{title}{DNS and BIND}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{lowe-2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8b83e4c3273a6c70c63d5c21afc0a6f9}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={Doug},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons}%
+      }
+      \strng{namehash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{fullhash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{fullhashraw}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{bibnamehash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{authorbibnamehash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{authornamehash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{authorfullhash}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \strng{authorfullhashraw}{8b83e4c3273a6c70c63d5c21afc0a6f9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{5}
+      \field{title}{Networking All-in-One for dummies}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
     \endentry
     \entry{paradiso-solutions-2026}{online}{}{}
       \name{author}{1}{}{%
