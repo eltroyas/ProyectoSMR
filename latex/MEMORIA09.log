@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  18 MAY 2026 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  18 MAY 2026 21:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1429,18 +1429,18 @@ LaTeX Info: Redefining \% on input line 1880.
 LaTeX Info: Redefining \. on input line 1880.
 LaTeX Info: Redefining \% on input line 1880.
  [45]
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
-LaTeX Info: Redefining \. on input line 1952.
-LaTeX Info: Redefining \% on input line 1952.
+LaTeX Info: Redefining \. on input line 1949.
+LaTeX Info: Redefining \% on input line 1949.
+LaTeX Info: Redefining \. on input line 1949.
+LaTeX Info: Redefining \% on input line 1949.
  [46]
-LaTeX Info: Redefining \. on input line 2014.
-LaTeX Info: Redefining \% on input line 2014.
-LaTeX Info: Redefining \. on input line 2014.
-LaTeX Info: Redefining \% on input line 2014.
+LaTeX Info: Redefining \. on input line 2019.
+LaTeX Info: Redefining \% on input line 2019.
+LaTeX Info: Redefining \. on input line 2019.
+LaTeX Info: Redefining \% on input line 2019.
  [47]
-LaTeX Info: Redefining \. on input line 2023.
-LaTeX Info: Redefining \% on input line 2023.
+LaTeX Info: Redefining \. on input line 2070.
+LaTeX Info: Redefining \% on input line 2070.
  [48] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
@@ -1457,10 +1457,10 @@ Package logreq Info: Writing requests to 'MEMORIA09.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21945 strings out of 467871
- 383340 string characters out of 5428453
+ 21946 strings out of 467871
+ 383355 string characters out of 5428453
  1223400 words of memory out of 5000000
- 50425 multiletter control sequences out of 15000+600000
+ 50426 multiletter control sequences out of 15000+600000
  640511 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,93p,700b,2443s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1479,9 +1479,9 @@ our/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (48 pages, 30238607 bytes).
+Output written on MEMORIA09.pdf (48 pages, 30239827 bytes).
 PDF statistics:
- 1503 PDF objects out of 1728 (max. 8388607)
+ 1504 PDF objects out of 1728 (max. 8388607)
  207 named destinations out of 1000 (max. 500000)
  682 words of extra memory for PDF output out of 10000 (max. 10000000)
 

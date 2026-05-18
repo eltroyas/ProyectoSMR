@@ -1889,6 +1889,7 @@
 		NEGRO = (0, 0, 0)
 		BLANCO = (255, 255, 255)
 		ROJO = (255, 0, 0)
+		AZUL = (0, 100, 255)
 	\end{verbatim}
 	
 	Creamos las variables para cada uno de los colores que vamos a utilizar en el juego.
@@ -1902,7 +1903,7 @@
 	
 	\begin{verbatim}
 		pantalla = pygame.display.set_mode((ANCHO, ALTO))
-		pygame.display.set_caption("Cuadrado que se Mueve")	
+		pygame.display.set_caption("Cuadrado que se Mueve vs enemigo")	
 	\end{verbatim}
 	
 	La primera línea crea la ventana del juego.
@@ -1927,10 +1928,29 @@
 	\verb|velocidad = 8|: Cuántos píxeles se mueve cada vez (mientras mantengas la tecla presionada).
 	
 	\begin{verbatim}
+		tamano_enemigo = 50
+		ex = 100
+		ey = 100
+		velocidad_enemigo = 4
+	\end{verbatim}
+	
+	\verb|tamano_enemigo|: Tamaño del enemigo (también 50x50).
+	\verb|ex| y \verb|ey|: Posición inicial del enemigo (en la esquina superior izquierda).
+	\verb|velocidad\_enemigo = 4|: Velocidad del enemigo (más lento que el jugador).
+	
+	\begin{verbatim}
+		game_over = False
+		fuente = pygame.font.SysFont(None, 60)
+	\end{verbatim}
+	
+	\verb|game_over| = False: Variable que controla si el juego ha terminado.
+	\verb|fuente|: Crea una fuente de texto grande para mostrar el mensaje de Game Over.
+	
+	\begin{verbatim}
 		while True:
 	\end{verbatim}
 	
-	Esto significa un bucle que repite todo el código para siempre hasta que acabe el juego.
+	El bucle se repita de forma constante, 60 veces por segundo, mientras el juegos esté abierto.
 	
 	\begin{verbatim}
 		for evento in pygame.event.get():
@@ -1939,50 +1959,62 @@
 		sys.exit()
 	\end{verbatim}
 	
-	Esta parte revisa si el usuario hizo algo (como presionar la X para cerrar la ventana).
+	Revisa si el jugador ha cerrado la ventana con la X. Si lo hace, cierra el juego correctamente.
 	
-	Si detecta que hemos cerrado la ventana: cierra Pygame y sale del programa.
+	\begin{verbatim}
+		if not game_over:
+	\end{verbatim}
+	
+	Todo el movimiento y lógica del juego solo se ejecuta si todavía no hemos perdido.
 	
 	\begin{verbatim}
 		teclas = pygame.key.get_pressed()
+		
+		if teclas[pygame.K_LEFT] or teclas[pygame.K_a]:
+			x -= velocidad
+		if teclas[pygame.K_RIGHT] or teclas[pygame.K_d]:
+			x += velocidad
+		if teclas[pygame.K_UP] or teclas[pygame.K_w]:
+			y -= velocidad
+		if teclas[pygame.K_DOWN] or teclas[pygame.K_s]:
+			y += velocidad
 	\end{verbatim}
 	
-	Creamos una variable que equivale a las teclas que presiona el usuario.
+	El movimiento del jugador se produce cuando se pulsan unas teclas determinadas.
 	
 	\begin{verbatim}
-		if teclas[pygame.K_LEFT] or teclas[pygame.K_a]:
-		x -= velocidad
-		if teclas[pygame.K_RIGHT] or teclas[pygame.K_d]:
-		x += velocidad
-		if teclas[pygame.K_UP] or teclas[pygame.K_w]:
-		y -= velocidad
-		if teclas[pygame.K_DOWN] or teclas[pygame.K_s]:
-		y += velocidad
+		x = max(0, min(x, ANCHO - tamano))
+		y = max(0, min(y, ALTO - tamano))
 	\end{verbatim}
 	
-	Aquí movemos el cuadrado:
+	Evita que el jugador salga de la pantalla usando max() y min() (forma más corta y limpia).
+	
+	\begin{verbatim}
+		if ex < x:
+				ex += velocidad_enemigo
+			elif ex > x:
+				ex -= velocidad_enemigo
+		
+			if ey < y:
+				ey += velocidad_enemigo
+			elif ey > y:
+				ey -= velocidad_enemigo
+	\end{verbatim}
+	
+	El enemigo se mueve hacia el jugador:
 	
 	\begin{itemize}
-		\item Si presionas flecha izquierda o A: x -= velocidad (resta, se mueve a la izquierda)
-		\item 	Si presionas flecha derecha o D: x += velocidad (suma, se mueve a la derecha)
-		\item 	Arriba (W o flecha): restamos a y (porque en pantalla Y va hacia abajo)
-		\item 	Abajo (S o flecha): sumamos a y
+		\item Si está a la izquierda > se mueve a la derecha.
+		\item 	Si está arriba > se mueve hacia abajo, etc.
 	\end{itemize}
 	
 	\begin{verbatim}
-		if x < 0:
-		x = 0
-		if x + tamano > ANCHO:
-		x = ANCHO - tamano
-		if y < 0:
-		y = 0
-		if y + tamano > ALTO:
-		y = ALTO - tamano
+		if (x < ex + tamano_enemigo and x + tamano > ex and
+			y < ey + tamano_enemigo and y + tamano > ey):
+			game_over = True
 	\end{verbatim}
 	
-	Evita que el cuadrado se salga de la pantalla.
-	
-	Si intenta irse por la izquierda, lo ponemos en la posición 0, y así con los demás bordes.
+	Si los dos cuadrados se tocan, el juego termina (\verb|game_over = True|).
 	
 	\begin{verbatim}
 		pantalla.fill(NEGRO)
@@ -1992,22 +2024,37 @@
 	
 	\begin{verbatim}
 		pygame.draw.rect(pantalla, ROJO, (x, y, tamano, tamano))
-		pygame.draw.rect(pantalla, BLANCO, (x, y, tamano, tamano), 5)
+		pygame.draw.rect(pantalla, BLANCO, (x, y, tamano, tamano), 4)
 	\end{verbatim}
 	
-	Dibuja el cuadrado con un relleno rojo y un borde blanco.
+	Dibuja al jugador (cuadrado rojo con borde blanco).
+	
+	\begin{verbatim}
+		pygame.draw.rect(pantalla, AZUL, (ex, ey, tamano_enemigo, tamano_enemigo))
+	\end{verbatim}
+	
+	Dibuja al enemigo (cuadrado azul).
+	
+	\begin{verbatim}
+		if game_over:
+			texto = fuente.render("¡GAME OVER!", True, ROJO)
+			pantalla.blit(texto, (ANCHO//2 - texto.get_width()//2, ALTO//2 - 50))
+	\end{verbatim}
+	
+	Si perdiste, muestra el texto \verb|¡GAME OVER!| en grande y centrado.
 	
 	\begin{verbatim}
 		pygame.display.flip()
-	\end{verbatim}
-	
-	Actualiza la pantalla para que veas los cambios.
-	
-	\begin{verbatim}
 		reloj.tick(60)
 	\end{verbatim}
 	
-	El movimiento se ejecuta 60 veces por segundo.
+	\begin{itemize}
+		\item \verb|flip()|: Actualiza la pantalla para ver los cambios.
+		\item 	\verb|tick(60)|: Mantiene el juego a 60 frames por segundo.
+	\end{itemize}
+	
+	Listo. Ya tenemos nuestro juego terminado.
+	
 	\section{Conclusiones}
 	
 	En definitiva, esta memoria nos ha proporcionado a ambos una gran experiencia de aprendizaje. A lo largo de más de dos meses de desarrollo, hemos podido aplicar de manera integrada los conocimientos adquiridos durante los dos años del Grado Medio con desarrollo web, creación de contenidos educativos y sensibilización en materia de sostenibilidad.
