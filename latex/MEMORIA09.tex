@@ -743,7 +743,7 @@
 	\subparagraph*{14/01/2026-27/01/2026}
 	
 	\begin{itemize}
-		\item El juego es un simple cuadrado que el usuario puede mover.
+		\item El juego es un simple cuadrado que el usuario puede mover y el usuario pierde si el enemigo te alcanza.
 		\item 	Está desarrollado mediante el lenguaje de programación Python añadiendo la biblioteca para juegos Pygame.
 		\item 	La integración en la web se hace con un \verb|iframe| de la herramienta de Pickcode.
 	\end{itemize}
@@ -774,19 +774,19 @@
 	
 	El grupo lo componen Iván Gimeno Montoya e Izan Gregorio Vizcarra.
 	
-	El equipo utilizado como servidor web es un VDI con Windows Server 2022 Standard junto a los programas de XAMPP para el servidor Apache y el resolutor de nombres Acrylic DNS Proxy.
+	El equipo utilizado como servidor web es un VDI (Virtual Desktop Infrastructure) con Windows Server 2022 Standard junto a los programas de XAMPP para el servidor Apache y el resolutor de nombres Acrylic DNS Proxy.
 	
 	\section{Implementación y desarrollo (el núcleo técnico)}
 	
 	\subsection{Configuración de servicios de red:}
 	
-	Para la instalación del servidor web se requiere apache, en este caso, hemos optado por instalar XAMPP que
+	Para la instalación del servidor web se requiere Apache, en este caso, hemos optado por instalar XAMPP que
 	contiene Apache y una fácil configuración.
 	
 	Cuando instalamos XAMPP en nuestro sistema, por defecto, se crea una carpeta y sus diferentes binarios,
 	carpetas y archivos de configuración. Ésta es creada en Windows \verb|C:\xampp\htdocs| o en Linux \verb|/etc/xampp|.
 	
-	Dentro de la carpeta de XAMPP se crean htdocs. Aquí es donde se guarda la carpeta que contiene nuestro
+	Dentro de la carpeta de XAMPP se crea la carpeta \verb|htdocs|. Aquí es donde se guarda la carpeta que contiene nuestro
 	sitio web del proyecto.
 	
 	Para que Apache sepa qué carpeta servir según el nombre que reciba, editamos el archivo:
@@ -1082,8 +1082,7 @@
 	\subsection{Gestión de incidencias}
 	
 	En esencia el proyecto ha cambiado totalmente. Nuestra idea inicial era ser una empresa dedicada a los
-	servicios en tecnologías frontera tales como viajes espaciales o biotecnología, con una especial atención a la
-	formación en estas áreas. Es por esto que, finalmente, decidimos convertirnos en una empresa puramente
+	servicios en tecnologías frontera tales como viajes espaciales o biotecnología, con una especial atención a la formación en estas áreas. Es por esto que, finalmente, decidimos convertirnos en una empresa puramente
 	formativa.
 	
 	En el apartado \ref{sec:prototipo} se puede ver de forma más concreta los cambios realizados comparando entre el primer

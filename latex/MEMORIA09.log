@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  19 MAY 2026 18:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.9)  19 MAY 2026 18:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1251,10 +1251,10 @@ File: IMG/github-cut.png Graphic file (type png)
 <use IMG/github-cut.png>
 Package pdftex.def Info: IMG/github-cut.png  used on input line 1059.
 (pdftex.def)             Requested size: 250.24199pt x 194.09116pt.
-LaTeX Info: Redefining \. on input line 1088.
-LaTeX Info: Redefining \% on input line 1088.
-LaTeX Info: Redefining \. on input line 1088.
-LaTeX Info: Redefining \% on input line 1088.
+LaTeX Info: Redefining \. on input line 1087.
+LaTeX Info: Redefining \% on input line 1087.
+LaTeX Info: Redefining \. on input line 1087.
+LaTeX Info: Redefining \% on input line 1087.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1286,10 +1286,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
  <./IMG/github-cut.png>]
-LaTeX Info: Redefining \. on input line 1155.
-LaTeX Info: Redefining \% on input line 1155.
-LaTeX Info: Redefining \. on input line 1155.
-LaTeX Info: Redefining \% on input line 1155.
+LaTeX Info: Redefining \. on input line 1154.
+LaTeX Info: Redefining \% on input line 1154.
+LaTeX Info: Redefining \. on input line 1154.
+LaTeX Info: Redefining \% on input line 1154.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1299,10 +1299,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [32]
-LaTeX Info: Redefining \. on input line 1220.
-LaTeX Info: Redefining \% on input line 1220.
-LaTeX Info: Redefining \. on input line 1220.
-LaTeX Info: Redefining \% on input line 1220.
+LaTeX Info: Redefining \. on input line 1219.
+LaTeX Info: Redefining \% on input line 1219.
+LaTeX Info: Redefining \. on input line 1219.
+LaTeX Info: Redefining \% on input line 1219.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1312,8 +1312,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [33]
-LaTeX Info: Redefining \. on input line 1279.
-LaTeX Info: Redefining \% on input line 1279.
+LaTeX Info: Redefining \. on input line 1278.
+LaTeX Info: Redefining \% on input line 1278.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1323,10 +1323,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [34]
-LaTeX Info: Redefining \. on input line 1313.
-LaTeX Info: Redefining \% on input line 1313.
-LaTeX Info: Redefining \. on input line 1313.
-LaTeX Info: Redefining \% on input line 1313.
+LaTeX Info: Redefining \. on input line 1312.
+LaTeX Info: Redefining \% on input line 1312.
+LaTeX Info: Redefining \. on input line 1312.
+LaTeX Info: Redefining \% on input line 1312.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1336,10 +1336,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [35]
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
-LaTeX Info: Redefining \. on input line 1363.
-LaTeX Info: Redefining \% on input line 1363.
+LaTeX Info: Redefining \. on input line 1362.
+LaTeX Info: Redefining \% on input line 1362.
+LaTeX Info: Redefining \. on input line 1362.
+LaTeX Info: Redefining \% on input line 1362.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1359,10 +1359,10 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
-Package biblatex Warning: Type 'article' not found on input line 1368.
+Package biblatex Warning: Type 'article' not found on input line 1367.
 
 
-LaTeX Warning: Empty bibliography on input line 1368.
+LaTeX Warning: Empty bibliography on input line 1367.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -1374,31 +1374,31 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
-Overfull \hbox (4.05179pt too wide) in paragraph at lines 1372--1372
+Overfull \hbox (4.05179pt too wide) in paragraph at lines 1371--1371
 []\T1/cmr/m/it/10 Indra Sis-te-mas, So-cie-dad Ano-ni-ma: te-léono, CIF y di-re
 c-ción\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : []$\T1/cmtt/m/n/10 h
 ttps : / / www . einforma . com / informacion -[]
  []
 
 
-Overfull \hbox (40.21715pt too wide) in paragraph at lines 1372--1372
+Overfull \hbox (40.21715pt too wide) in paragraph at lines 1371--1371
 []\T1/cmr/m/n/10 Paradiso So-lu-tions. \T1/cmr/m/it/10 AI-Powered eLear-ning Au
 tho-ring Tool\T1/cmr/m/n/10 . 4 de ma-yo de 2026. \T1/cmr/m/sc/10 url\T1/cmr/m/
 n/10 : []$\T1/cmtt/m/n/10 https : / / www . paradisosolutions .
  []
 
 
-Overfull \hbox (39.37645pt too wide) in paragraph at lines 1372--1372
+Overfull \hbox (39.37645pt too wide) in paragraph at lines 1371--1371
 []\T1/cmr/m/it/10 Windows 10 Con-fi-gu-ra-tion\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 
 url\T1/cmr/m/n/10 : []$\T1/cmtt/m/n/10 https : / / mayakron . altervista . org 
 / support / acrylic / Windows10Configuration .
  []
 
 
-Package biblatex Warning: Type 'manual' not found on input line 1376.
+Package biblatex Warning: Type 'manual' not found on input line 1375.
 
 
-LaTeX Warning: Empty bibliography on input line 1376.
+LaTeX Warning: Empty bibliography on input line 1375.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -1410,16 +1410,16 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
 
-Overfull \hbox (15.00685pt too wide) in paragraph at lines 1377--1377
+Overfull \hbox (15.00685pt too wide) in paragraph at lines 1376--1376
 []\T1/cmr/m/n/10 Miguel Án-gel Al-va-rez. \T1/cmr/m/it/10 Ma-nual Ja-vaS-cript\
 T1/cmr/m/n/10 . 19 de dic. de 2016. \T1/cmr/m/sc/10 url\T1/cmr/m/n/10 : []$\T1/
 cmtt/m/n/10 https : / / blogsaverroes . juntadeandalucia .
  []
 
-LaTeX Info: Redefining \. on input line 1377.
-LaTeX Info: Redefining \% on input line 1377.
-LaTeX Info: Redefining \. on input line 1377.
-LaTeX Info: Redefining \% on input line 1377.
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
+LaTeX Info: Redefining \. on input line 1376.
+LaTeX Info: Redefining \% on input line 1376.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.1638pt, for example:
@@ -1428,79 +1428,79 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.1638pt}.
 
 [37]
-LaTeX Info: Redefining \. on input line 1423.
-LaTeX Info: Redefining \% on input line 1423.
+LaTeX Info: Redefining \. on input line 1422.
+LaTeX Info: Redefining \% on input line 1422.
  [38]
-LaTeX Info: Redefining \. on input line 1485.
-LaTeX Info: Redefining \% on input line 1485.
-LaTeX Info: Redefining \. on input line 1485.
-LaTeX Info: Redefining \% on input line 1485.
+LaTeX Info: Redefining \. on input line 1484.
+LaTeX Info: Redefining \% on input line 1484.
+LaTeX Info: Redefining \. on input line 1484.
+LaTeX Info: Redefining \% on input line 1484.
  [39]
-LaTeX Info: Redefining \. on input line 1547.
-LaTeX Info: Redefining \% on input line 1547.
-LaTeX Info: Redefining \. on input line 1547.
-LaTeX Info: Redefining \% on input line 1547.
+LaTeX Info: Redefining \. on input line 1546.
+LaTeX Info: Redefining \% on input line 1546.
+LaTeX Info: Redefining \. on input line 1546.
+LaTeX Info: Redefining \% on input line 1546.
  [40]
-LaTeX Info: Redefining \. on input line 1604.
-LaTeX Info: Redefining \% on input line 1604.
-LaTeX Info: Redefining \. on input line 1604.
-LaTeX Info: Redefining \% on input line 1604.
+LaTeX Info: Redefining \. on input line 1603.
+LaTeX Info: Redefining \% on input line 1603.
+LaTeX Info: Redefining \. on input line 1603.
+LaTeX Info: Redefining \% on input line 1603.
  [41]
-LaTeX Info: Redefining \. on input line 1666.
-LaTeX Info: Redefining \% on input line 1666.
-LaTeX Info: Redefining \. on input line 1666.
-LaTeX Info: Redefining \% on input line 1666.
+LaTeX Info: Redefining \. on input line 1665.
+LaTeX Info: Redefining \% on input line 1665.
+LaTeX Info: Redefining \. on input line 1665.
+LaTeX Info: Redefining \% on input line 1665.
  [42]
-LaTeX Info: Redefining \. on input line 1725.
-LaTeX Info: Redefining \% on input line 1725.
-LaTeX Info: Redefining \. on input line 1725.
-LaTeX Info: Redefining \% on input line 1725.
+LaTeX Info: Redefining \. on input line 1724.
+LaTeX Info: Redefining \% on input line 1724.
+LaTeX Info: Redefining \. on input line 1724.
+LaTeX Info: Redefining \% on input line 1724.
  [43]
-LaTeX Info: Redefining \. on input line 1788.
-LaTeX Info: Redefining \% on input line 1788.
-LaTeX Info: Redefining \. on input line 1788.
-LaTeX Info: Redefining \% on input line 1788.
+LaTeX Info: Redefining \. on input line 1787.
+LaTeX Info: Redefining \% on input line 1787.
+LaTeX Info: Redefining \. on input line 1787.
+LaTeX Info: Redefining \% on input line 1787.
  [44]
-LaTeX Info: Redefining \. on input line 1805.
-LaTeX Info: Redefining \% on input line 1805.
-LaTeX Info: Redefining \. on input line 1805.
-LaTeX Info: Redefining \% on input line 1805.
+LaTeX Info: Redefining \. on input line 1804.
+LaTeX Info: Redefining \% on input line 1804.
+LaTeX Info: Redefining \. on input line 1804.
+LaTeX Info: Redefining \% on input line 1804.
  [45]
 <IMG/9.5pruebas-initial.png, id=759, 2056.68375pt x 782.925pt>
 File: IMG/9.5pruebas-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-initial.png>
-Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1810.
+Package pdftex.def Info: IMG/9.5pruebas-initial.png  used on input line 1809.
 (pdftex.def)             Requested size: 500.484pt x 190.52211pt.
 <IMG/9.5pruebas-movil-initial.png, id=760, 2056.68375pt x 784.43062pt>
 File: IMG/9.5pruebas-movil-initial.png Graphic file (type png)
 <use IMG/9.5pruebas-movil-initial.png>
 Package pdftex.def Info: IMG/9.5pruebas-movil-initial.png  used on input line 1
-819.
+818.
 (pdftex.def)             Requested size: 500.484pt x 190.88849pt.
-LaTeX Info: Redefining \. on input line 1854.
-LaTeX Info: Redefining \% on input line 1854.
-LaTeX Info: Redefining \. on input line 1854.
-LaTeX Info: Redefining \% on input line 1854.
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
+LaTeX Info: Redefining \. on input line 1853.
+LaTeX Info: Redefining \% on input line 1853.
  [46
 
  <./IMG/9.5pruebas-initial.png> <./IMG/9.5pruebas-movil-initial.png>]
-LaTeX Info: Redefining \. on input line 1903.
-LaTeX Info: Redefining \% on input line 1903.
-LaTeX Info: Redefining \. on input line 1903.
-LaTeX Info: Redefining \% on input line 1903.
+LaTeX Info: Redefining \. on input line 1902.
+LaTeX Info: Redefining \% on input line 1902.
+LaTeX Info: Redefining \. on input line 1902.
+LaTeX Info: Redefining \% on input line 1902.
  [47]
-LaTeX Info: Redefining \. on input line 1972.
-LaTeX Info: Redefining \% on input line 1972.
-LaTeX Info: Redefining \. on input line 1972.
-LaTeX Info: Redefining \% on input line 1972.
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
+LaTeX Info: Redefining \. on input line 1971.
+LaTeX Info: Redefining \% on input line 1971.
  [48]
-LaTeX Info: Redefining \. on input line 2042.
-LaTeX Info: Redefining \% on input line 2042.
-LaTeX Info: Redefining \. on input line 2042.
-LaTeX Info: Redefining \% on input line 2042.
+LaTeX Info: Redefining \. on input line 2041.
+LaTeX Info: Redefining \% on input line 2041.
+LaTeX Info: Redefining \. on input line 2041.
+LaTeX Info: Redefining \% on input line 2041.
  [49]
-LaTeX Info: Redefining \. on input line 2093.
-LaTeX Info: Redefining \% on input line 2093.
+LaTeX Info: Redefining \. on input line 2092.
+LaTeX Info: Redefining \% on input line 2092.
  [50] (MEMORIA09.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
@@ -1539,7 +1539,7 @@ our/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/
 pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on MEMORIA09.pdf (50 pages, 33216509 bytes).
+Output written on MEMORIA09.pdf (50 pages, 33216594 bytes).
 PDF statistics:
  1523 PDF objects out of 1728 (max. 8388607)
  211 named destinations out of 1000 (max. 500000)
